@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HearthstoneCollections/1.0.0": {
+        "runtime": {
+          "HearthstoneCollections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HearthstoneCollections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

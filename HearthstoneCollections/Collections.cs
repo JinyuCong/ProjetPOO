@@ -1,0 +1,129 @@
+﻿using System.Xml.Linq;
+using System.Linq;
+
+namespace HearthstoneCollections;
+
+public class Collections
+{
+    private Card[] collections = new Card[0];
+    LocalizationService _localizationService = new LocalizationService();
+    public Collections()
+    {
+        
+    }
+
+    public void Add(Card card)
+    {
+        Card[] newCollections = new Card[collections.Length + 1];
+        
+        for (int i = 0; i < collections.Length; i++)
+        {
+            newCollections[i] = collections[i];
+        }
+        
+        collections = newCollections;
+        collections[collections.Length - 1] = card;
+    }
+
+    public Card[]? GetByName(string name)
+    {
+        Card[] results = collections.Where(n => n.Name.ToLower() == name.ToLower()).ToArray();
+        return results;
+    }
+
+    public Card[] GetByClass(Class class_)
+    {
+        Card[] results = collections.Where(n => n.Class == class_).ToArray();
+        return results;
+    }
+    
+    // can discover multiple cards on the same time
+    public void Discover(string[] args)
+    {
+        foreach (string cardName in args)
+        {
+            foreach (Card card in collections)
+            {
+                if (card.Name.ToLower() == cardName.ToLower())
+                {
+                    card.Discovered = true;
+                    Console.WriteLine(_localizationService.GetMessage("msg.DiscoverCard") + $"{card.Name}");
+                }
+            }
+        }
+    }
+
+    public int Count(string value)
+    {
+        int count = 0;
+        
+        if (value.ToLower() == "all")
+        {
+            foreach (Card card in collections)
+            {
+                count++;
+            }
+            return count;
+        }
+        
+        value = value.Substring(0, 1).ToUpper() + value.Substring(1, value.Length - 1);
+        
+        Class.TryParse(value, out Class @class);
+
+        if (@class == 0)
+        {
+            return 0;
+        }
+        
+        foreach (Card card in collections)
+        {
+            if (card.Class == @class)
+            {
+                count++;
+            }
+        }
+
+        return count;
+    }
+    
+    public void Save(StreamWriter file)
+    {
+        file.WriteLine($"Name\tRarity\tType\tText\tAttack\tHealth\tCost\tClass\tDiscovered");
+        foreach (Card card in collections)
+        {
+            if (card != null)
+            {
+                file.WriteLine($"{card.Name}\t{card.Rarity}\t{card.Type}\t{card.Text}\t{card.Attack}\t" +
+                               $"{card.Health}\t{card.Cost}\t{card.Class}\t{card.Discovered}");
+            }            
+        }
+    }
+
+    public void SaveXml(string filePath)
+    {
+        XElement root = new XElement("cards");
+
+        foreach (Card card in collections)
+        {
+            XElement cardElement = new XElement("card",
+                    new XElement("name", card.Name),
+                    new XElement("rarity", card.Rarity),
+                    new XElement("type", card.Type),
+                    new XElement("text", card.Text),
+                    new XElement("attack", card.Attack),
+                    new XElement("health", card.Health),
+                    new XElement("cost", card.Cost),
+                    new XElement("class", card.Class),
+                    new XElement("discovered", card.Discovered)
+                );
+            root.Add(cardElement);
+        }
+
+        XDocument doc = new XDocument(
+            new XDeclaration("1.0", "utf-8", "yes"),
+            root
+        );
+        
+        doc.Save(filePath);
+    }
+}

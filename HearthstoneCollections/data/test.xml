@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cards>
+  <card>
+    <name>Ragnaros</name>
+    <rarity>legendary</rarity>
+    <type>minion</type>
+    <text>Can't attack. At the end of your turn, deal 8 damage to a random enemy.</text>
+    <attack>8</attack>
+    <health>8</health>
+    <cost>8</cost>
+    <class>Neutral</class>
+    <discovered>false</discovered>
+  </card>
+  <card>
+    <name>Ice Block</name>
+    <rarity>Epic</rarity>
+    <type>spell</type>
+    <text>Secret: When your hero takes fatal damage, prevent it and become Immune his turn.</text>
+    <attack>0</attack>
+    <health>0</health>
+    <cost>3</cost>
+    <class>Neutral</class>
+    <discovered>false</discovered>
+  </card>
+</cards>

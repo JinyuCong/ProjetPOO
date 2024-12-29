@@ -1,0 +1,14 @@
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\bin\Debug\net8.0\HearthstoneCollections.exe
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\bin\Debug\net8.0\HearthstoneCollections.deps.json
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\bin\Debug\net8.0\HearthstoneCollections.runtimeconfig.json
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\bin\Debug\net8.0\HearthstoneCollections.dll
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\bin\Debug\net8.0\HearthstoneCollections.pdb
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.AssemblyInfoInputs.cache
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.AssemblyInfo.cs
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.csproj.CoreCompileInputs.cache
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.dll
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\refint\HearthstoneCollections.dll
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.pdb
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.genruntimeconfig.cache
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\ref\HearthstoneCollections.dll
