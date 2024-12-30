@@ -186,6 +186,17 @@ exemple:
 `count mage` comptera le nombre de cartes de la classe mage.
 
 ---
+### `battle ou battre`
+
+pour déterminer le gagnant entre deux serviteurs. Si un serviteur meurt, l'autre est déclaré vainqueur, et si les deux serviteurs meurent ou survivent, il n'y a pas de gagnant.
+
+(réalisée par [BattleCommand.cs](./HearthstoneCollections/Commands/BattleCommand.cs))
+
+exemple:
+
+`battle "Goldshire Footman" "River Crocolisk"`
+
+---
 
 ### `exit` ou `quitter`
 
@@ -212,3 +223,16 @@ Affiche les informations d'aide pour les commandes.
 
 
 > ### Attention : Au début, il n'y a pas d'informations sur les cartes dans la base de données. Vous devez exécuter manuellement `loadxml data/CardData.xml` pour ajouter les informations sur les cartes avant de pouvoir utiliser des commandes comme la recherche.
+
+## Propriété de calcul
+
+Ce projet permet de calculer le nombre de cartes dans la collection, ainsi que de déterminer quel serviteur remportera une bataille lorsque deux serviteurs s'affrontent.
+Par exemple, le serviteur "Goldshire Footman" a une attaque et des points de vie de (1;2), et le serviteur "River Crocolisk" a une attaque et des points de vie de (2;3). Au final, River Crocolisk l'emportera. Le résultat sera affiché comme suit :
+
+```
+$ loadxml data/CardData.xml
+卡牌录入成功，现有卡牌数：1619
+
+$ battle "Goldshire Footman" "River Crocolisk"
+River Crocolisk win!
+```

@@ -73,6 +73,11 @@ public class LocalizationService
                                       $"例如: \"count all\" 将统计收藏中所有卡牌的数量。\n" +
                                       $"\"count mage\" 将统计法师职业的卡牌数量。\n"},
                     
+                    {"msg.BattleHelp", $"battle 或 battre 命令使用说明：\n" +
+                                       $"使用 \"battle <card name 1> <card name 2>\" 来判断两个随从的胜负，如果一个随从死亡则另一个随从胜利，" +
+                                       $"如果两个随从都死亡或存活，则没有胜者。\n" +
+                                       $"例如: battle \"Goldshire Footman\" \"River Crocolisk\""},
+                    
                     {"msg.ExitHelp", $"exit 或 quitter 命令使用说明:\n" +
                                      $"使用 \"exit\" 退出程序。\n"},
                     
@@ -141,7 +146,12 @@ public class LocalizationService
                                       $"Utilisez \"count all\" ou \"count <classe>\" pour compter le nombre de cartes de toutes les classes ou d'une classe spécifiée.\n" +
                                       $"Par exemple: \"count all\" comptera le nombre total de cartes dans la collection.\n" +
                                       $"\"count mage\" comptera le nombre de cartes de la classe mage.\n"},
-
+                    
+                    {"msg.BattleHelp", $"battle ou battre instructions de commande：\n" +
+                                       $"Utilisez \"battle <card name 1> <card name 2>\" pour déterminer le gagnant entre deux serviteurs. Si un serviteur meurt, l'autre est déclaré vainqueur, " +
+                                       $"et si les deux serviteurs meurent ou survivent, il n'y a pas de gagnant.\n" +
+                                       $"Par exemple : battle \"Goldshire Footman\" \"River Crocolisk\""},
+                    
                     {"msg.ExitHelp", $"exit ou quitter instructions de commande:\n" +
                                      $"Utilisez \"exit\" pour quitter le programme.\n"},
 

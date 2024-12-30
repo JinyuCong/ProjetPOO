@@ -51,6 +51,9 @@ public class CommandInterpreter
             case "switch" or "changer":
                 Command switchLanguageCommand = new SwitchLanguageCommand(_localizationService, _collections, commandArguments);
                 return switchLanguageCommand;
+            case "battle" or "battre":
+                Command battleCommand = new BattleCommand(_localizationService, _collections, commandArguments);
+                return battleCommand;
             case "help" or "aide":
                 Command helpCommand = new HelpCommand(_localizationService);
                 return helpCommand;

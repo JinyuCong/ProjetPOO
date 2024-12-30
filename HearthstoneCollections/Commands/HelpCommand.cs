@@ -20,6 +20,7 @@ public class HelpCommand : Command
         Console.WriteLine(_localizationService.GetMessage("msg.SavexmlHelp"));
         Console.WriteLine(_localizationService.GetMessage("msg.SwitchHelp"));
         Console.WriteLine(_localizationService.GetMessage("msg.CountHelp"));
+        Console.WriteLine(_localizationService.GetMessage("msg.BattleHelp"));
         Console.WriteLine(_localizationService.GetMessage("msg.ExitHelp"));
         Console.WriteLine(_localizationService.GetMessage("msg.HelpHelp"));
     }
