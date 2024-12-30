@@ -1,4 +1,6 @@
-﻿namespace HearthstoneCollections.Commands;
+﻿using System.Security.Cryptography;
+
+namespace HearthstoneCollections.Commands;
 
 public abstract class Command
 {

@@ -6,7 +6,7 @@ public class AddCommand : Command
     
     public AddCommand(LocalizationService localizationService, Collections collections, string[] commandArguments) : base(collections, commandArguments)
     {
-        if (commandArguments.Length < 9)
+        if (commandArguments.Length < 10)
         {
             IsValid = false;
         }
@@ -25,42 +25,43 @@ public class AddCommand : Command
             throw new ArgumentNotEnoughException(_localizationService.GetMessage("msg.ArgumentNotEnough"));
         }
 
-        string name = Arguments[0];
-        string rarity = Arguments[1];
-        string type = Arguments[2];
-        string text = Arguments[3];
+        string id = Arguments[0];
+        string name = Arguments[1];
+        string rarity = Arguments[2];
+        string type = Arguments[3];
+        string text = Arguments[4];
 
-        if (!int.TryParse(Arguments[4], out int attack))
+        if (!int.TryParse(Arguments[5], out int attack))
         {
             Console.Error.WriteLine(_localizationService.GetMessage("msg.ParsingError") + name);
             return;
         }
         
-        if (!int.TryParse(Arguments[5], out int health))
+        if (!int.TryParse(Arguments[6], out int health))
         {
             Console.Error.WriteLine(_localizationService.GetMessage("msg.ParsingError") + name);
             return;
         }
         
-        if (!int.TryParse(Arguments[6], out int cost))
+        if (!int.TryParse(Arguments[7], out int cost))
         {
             Console.Error.WriteLine(_localizationService.GetMessage("msg.ParsingError") + name);
             return;
         }
         
-        if (!Class.TryParse(Arguments[7], out Class class_))
+        if (!Class.TryParse(Arguments[8], out Class class_))
         {
             Console.Error.WriteLine(_localizationService.GetMessage("msg.ParsingError") + name);
             return;
         }
 
-        if (!bool.TryParse(Arguments[8], out bool discovered))
+        if (!bool.TryParse(Arguments[9], out bool discovered))
         {
             Console.Error.WriteLine(_localizationService.GetMessage("msg.ParsingError") + name);
             return;
         }
         
-        Card newCard = new Card(name, rarity, type, text, attack, health, cost, class_, discovered);
+        Card newCard = new Card(id, name, rarity, type, text, attack, health, cost, class_, discovered);
         
         Collections.Add(newCard);
 

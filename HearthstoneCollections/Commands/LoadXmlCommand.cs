@@ -45,9 +45,9 @@ public class LoadXmlCommand : Command
 
         if (root != null)
         {
-            int count = 0;
             foreach (var cardElement in root.Elements("Card"))
             {
+                string id = cardElement.Element("CardId")?.Value ?? "Unknown";
                 string name = cardElement.Element("Name")?.Value ?? "Unknown";
                 string rarity = cardElement.Element("Rarity")?.Value ?? "Unknown";
                 string type = cardElement.Element("Type")?.Value ?? "Unknown";
@@ -58,13 +58,11 @@ public class LoadXmlCommand : Command
                 string text = cardElement.Element("Text")?.Value ?? "Unknown";
                 bool discovered = false;
 
-                Card card = new Card(name, rarity, type, text, attack, health, cost, @class, discovered);
+                Card card = new Card(id, name, rarity, type, text, attack, health, cost, @class, discovered);
                 Collections.Add(card);
-
-                count++;
             }
             
-            Console.WriteLine(count + _localizationService.GetMessage("msg.LoadCardsSuccesful"));
+            Console.WriteLine(_localizationService.GetMessage("msg.LoadCardsSuccesful") + Collections.Count("all"));
         }
         
     }

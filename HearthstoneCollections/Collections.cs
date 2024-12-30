@@ -1,19 +1,26 @@
 ﻿using System.Xml.Linq;
 using System.Linq;
+using System.Net;
 
 namespace HearthstoneCollections;
 
 public class Collections
 {
     private Card[] collections = new Card[0];
-    LocalizationService _localizationService = new LocalizationService();
+    private LocalizationService _localizationService = new LocalizationService();
     public Collections()
     {
         
     }
 
-    public void Add(Card card)
+    public void Add(Card newCard)
     {
+        if (collections.Any(card => card?.Id == newCard.Id))
+        {
+            Console.Error.WriteLine(_localizationService.GetMessage("msg.DuplicateCard") + newCard.Name);
+            return;
+        }
+        
         Card[] newCollections = new Card[collections.Length + 1];
         
         for (int i = 0; i < collections.Length; i++)
@@ -21,8 +28,9 @@ public class Collections
             newCollections[i] = collections[i];
         }
         
+        newCollections[collections.Length] = newCard;
+        
         collections = newCollections;
-        collections[collections.Length - 1] = card;
     }
 
     public Card[]? GetByName(string name)
@@ -88,12 +96,12 @@ public class Collections
     
     public void Save(StreamWriter file)
     {
-        file.WriteLine($"Name\tRarity\tType\tText\tAttack\tHealth\tCost\tClass\tDiscovered");
+        file.WriteLine($"Id\tName\tRarity\tType\tText\tAttack\tHealth\tCost\tClass\tDiscovered");
         foreach (Card card in collections)
         {
             if (card != null)
             {
-                file.WriteLine($"{card.Name}\t{card.Rarity}\t{card.Type}\t{card.Text}\t{card.Attack}\t" +
+                file.WriteLine($"{card.Id}\t{card.Name}\t{card.Rarity}\t{card.Type}\t{card.Text}\t{card.Attack}\t" +
                                $"{card.Health}\t{card.Cost}\t{card.Class}\t{card.Discovered}");
             }            
         }
@@ -106,6 +114,7 @@ public class Collections
         foreach (Card card in collections)
         {
             XElement cardElement = new XElement("card",
+                    new XElement("id", card.Id),
                     new XElement("name", card.Name),
                     new XElement("rarity", card.Rarity),
                     new XElement("type", card.Type),

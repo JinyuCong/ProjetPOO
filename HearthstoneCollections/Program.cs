@@ -9,11 +9,6 @@ public class Program
     {
         Collections collections = new Collections();
         CommandInterpreter interpreter = new CommandInterpreter(collections);
-        // 测试用
-        Card Ragnaros = new Card("Ragnaros", "legendary", "minion", "Can't attack. At the end of your turn, deal 8 damage to a random enemy.", 8, 8, 8, Class.Neutral, false);
-        Card IceBlock = new Card("Ice Block", "Epic", "spell", "Secret: When your hero takes fatal damage, prevent it and become Immune his turn.", 0, 0, 3, Class.Neutral, false);
-        collections.Add(Ragnaros);
-        collections.Add(IceBlock);
         
         while (true)
         {

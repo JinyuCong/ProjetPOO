@@ -27,9 +27,10 @@ public class LocalizationService
                     {"msg.PathNotFound", $"路径不存在"},
                     {"msg.FileFormatInvalid", $"输入文件格式不正确"},
                     {"msg.LineFormatInvalid", $"文件行格式不正确："},
-                    {"msg.LoadCardsSuccesful", $"张卡牌录入成功"},
+                    {"msg.LoadCardsSuccesful", $"卡牌录入成功，现有卡牌数："},
                     {"msg.LanguageNotSupport", $"语言不支持："},
                     {"msg.LanguageChanged", $"语言已变更为中文"},
+                    {"msg.DuplicateCard", "卡牌已重复："},
                     
                     //helps
                     {"msg.AddHelp", $"add 或 ajouter 命令使用说明:\n" +
@@ -95,9 +96,10 @@ public class LocalizationService
                     {"msg.PathNotFound", $"Chemin introuvable"},
                     {"msg.FileFormatInvalid", $"Format de fichier d'entrée incorrect"},
                     {"msg.LineFormatInvalid", $"Format de ligne de fichier incorrect : "},
-                    {"msg.LoadCardsSuccesful", $" cartes chargées avec succès"},
+                    {"msg.LoadCardsSuccesful", $"Cartes chargées avec succès, nombre de cartes dans la collectiom : "},
                     {"msg.LanguageNotSupport", $"Langue non supporte : "},
                     {"msg.LanguageChanged", $"Langue est en français"},
+                    {"msg.DuplicateCard", "Carte déjà existe : "},
                     
                     //helps
                     {"msg.AddHelp", $"add ou ajouter instructions de commande:\n" +

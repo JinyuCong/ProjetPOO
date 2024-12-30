@@ -12,3 +12,4 @@ C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\re
 C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.pdb
 C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.genruntimeconfig.cache
 C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\ref\HearthstoneCollections.dll
+C:\Users\congtaotao\Desktop\ProjetPOO\HearthstoneCollections\obj\Debug\net8.0\HearthstoneCollections.sourcelink.json

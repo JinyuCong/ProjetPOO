@@ -40,7 +40,6 @@ public class LoadTextCommand : Command
         
         StreamReader streamReader = new StreamReader(path);
         
-        int count = 0;
         while (!streamReader.EndOfStream)
         {
             string? line = streamReader.ReadLine();
@@ -51,36 +50,36 @@ public class LoadTextCommand : Command
             
             string[] parts = line.Split("\t");
 
-            if (parts.Length != 9)
+            if (parts.Length != 10)
             {
                 Console.Error.WriteLine(_localizationService.GetMessage("msg.LineFormatInvalid") + line);
                 continue;
             }
             
             // skip the first line which are titles
-            if (parts[0] == "Name" && parts[8] == "Discovered")
+            if (parts[0] == "Id" && parts[9] == "Discovered")
             {
                 continue;
             }
-            
-            string name = parts[0];
-            string rarity = parts[1];
-            string type = parts[2];
-            string text = parts[3];
-            int attack = int.Parse(parts[4]);
-            int health = int.Parse(parts[5]);
-            int cost = int.Parse(parts[6]);
-            Class.TryParse(parts[7], out Class _class);
-            bool discovered = bool.Parse(parts[8]);
 
-            Card card = new Card(name, rarity, type, text, attack, health, cost, _class, discovered);
+            string id = parts[0];
+            string name = parts[1];
+            string rarity = parts[2];
+            string type = parts[3];
+            string text = parts[4];
+            int attack = int.Parse(parts[5]);
+            int health = int.Parse(parts[6]);
+            int cost = int.Parse(parts[7]);
+            Class.TryParse(parts[8], out Class _class);
+            bool discovered = bool.Parse(parts[9]);
+
+            Card card = new Card(id, name, rarity, type, text, attack, health, cost, _class, discovered);
             
             Collections.Add(card);
 
-            count++;
         }
         
-        Console.WriteLine(count + _localizationService.GetMessage("msg.LoadCardsSuccesful"));
+        Console.WriteLine(_localizationService.GetMessage("msg.LoadCardsSuccesful") + Collections.Count("all"));
         
         streamReader.Close();
     }

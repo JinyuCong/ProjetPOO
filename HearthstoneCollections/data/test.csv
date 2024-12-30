@@ -1,0 +1,1620 @@
+Id	Name	Rarity	Type	Text	Attack	Health	Cost	Class	Discovered
+EX1_298	Ragnaros	legendary	minion	Can't attack. At the end of your turn, deal 8 damage to a random enemy.	8	8	8	Neutral	False
+EX1_295o	Ice Block	Epic	spell	Secret: When your hero takes fatal damage, prevent it and become Immune his turn.	0	0	3	Neutral	False
+CS1h_001	Lesser Heal	Free	Hero Power	<b>Hero Power</b>Restore #2 Health.	0	0	2	Priest	False
+CS1_042	Goldshire Footman	Common	Minion	<b>Taunt</b>	1	2	1	Neutral	False
+CS1_112	Holy Nova	Common	Spell	Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.	0	0	5	Priest	False
+CS1_113	Mind Control	Common	Spell	Take control of an enemy minion.	0	0	10	Priest	False
+CS1_113e	Mind Control	Common	Enchantment	This minion has switched controllers.	0	0	0	Priest	False
+CS1_130	Holy Smite	Free	Spell	Deal $2 damage.	0	0	1	Priest	False
+CS2_003	Mind Vision	Common	Spell	Put a copy of a random card in your opponent's hand into your hand.	0	0	1	Priest	False
+CS2_004	Power Word: Shield	Free	Spell	Give a minion +2 Health. Draw a card.	0	0	1	Priest	False
+CS2_004e	Power Word: Shield	Unknown	Enchantment	+2 Health.	0	0	0	Priest	False
+CS2_005	Claw	Free	Spell	Give your hero +2 Attack this turn and 2 Armor.	0	0	1	Druid	False
+CS2_005o	Claw	Unknown	Enchantment	+2 Attack this turn.	0	0	0	Druid	False
+CS2_007	Healing Touch	Free	Spell	Restore #8 Health.	0	0	3	Druid	False
+CS2_008	Moonfire	Common	Spell	Deal $1 damage.	0	0	0	Druid	False
+CS2_009	Mark of the Wild	Free	Spell	Give a minion <b>Taunt</b> and +2/+2.<i> (+2 Attack/+2 Health)</i>	0	0	2	Druid	False
+CS2_009e	Mark of the Wild	Unknown	Enchantment	This minion has +2/+2 and <b>Taunt</b>.	0	0	0	Druid	False
+CS2_011	Savage Roar	Common	Spell	Give your characters +2 Attack this turn.	0	0	3	Druid	False
+CS2_011o	Savage Roar	Unknown	Enchantment	+2 Attack this turn.	0	0	0	Druid	False
+CS2_012	Swipe	Common	Spell	Deal $4 damage to an enemy and $1 damage to all other enemies.	0	0	4	Druid	False
+CS2_013	Wild Growth	Free	Spell	Gain an empty Mana Crystal.	0	0	2	Druid	False
+CS2_013t	Excess Mana	Unknown	Spell	Draw a card. <i>(You can only have 10 Mana in your tray.)</i>	0	0	0	Druid	False
+CS2_017	Shapeshift	Free	Hero Power	<b>Hero Power</b>+1 Attack this turn. +1 Armor.	0	0	2	Druid	False
+CS2_017o	Claws	Unknown	Enchantment	Your hero has +1 Attack this turn.	0	0	0	Druid	False
+CS2_022	Polymorph	Free	Spell	Transform a minion into a 1/1 Sheep.	0	0	4	Mage	False
+CS2_022e	Polymorph	Common	Enchantment	This minion has been transformed into a 1/1 Sheep.	0	0	0	Mage	False
+CS2_023	Arcane Intellect	Free	Spell	Draw 2 cards.	0	0	3	Mage	False
+CS2_024	Frostbolt	Common	Spell	Deal $3 damage to a character and <b>Freeze</b> it.	0	0	2	Mage	False
+CS2_025	Arcane Explosion	Free	Spell	Deal $1 damage to all enemy minions.	0	0	2	Mage	False
+CS2_026	Frost Nova	Common	Spell	<b>Freeze</b> all enemy minions.	0	0	3	Mage	False
+CS2_027	Mirror Image	Common	Spell	Summon two 0/2 minions with <b>Taunt</b>.	0	0	1	Mage	False
+CS2_029	Fireball	Free	Spell	Deal $6 damage.	0	0	4	Mage	False
+CS2_032	Flamestrike	Common	Spell	Deal $4 damage to all enemy minions.	0	0	7	Mage	False
+CS2_033	Water Elemental	Common	Minion	<b>Freeze</b> any character damaged by this minion.	3	6	4	Mage	False
+CS2_034	Fireblast	Free	Hero Power	<b>Hero Power</b>Deal $1 damage.	0	0	2	Mage	False
+CS2_037	Frost Shock	Free	Spell	Deal $1 damage to an enemy character and <b>Freeze</b> it.	0	0	1	Shaman	False
+CS2_039	Windfury	Free	Spell	Give a minion <b>Windfury</b>.	0	0	2	Shaman	False
+CS2_041	Ancestral Healing	Free	Spell	Restore a minion to full Health and give it <b>Taunt</b>.	0	0	0	Shaman	False
+CS2_041e	Ancestral Infusion	Unknown	Enchantment	Taunt.	0	0	0	Shaman	False
+CS2_042	Fire Elemental	Common	Minion	<b>Battlecry:</b> Deal 3 damage.	6	5	6	Shaman	False
+CS2_045	Rockbiter Weapon	Free	Spell	Give a friendly character +3 Attack this turn.	0	0	1	Shaman	False
+CS2_045e	Rockbiter Weapon	Unknown	Enchantment	This character has +3 Attack this turn.	0	0	0	Shaman	False
+CS2_046	Bloodlust	Common	Spell	Give your minions +3 Attack this turn.	0	0	5	Shaman	False
+CS2_046e	Bloodlust	Unknown	Enchantment	+3 Attack this turn.	0	0	0	Shaman	False
+CS2_049	Totemic Call	Free	Hero Power	<b>Hero Power</b>Summon a random Totem.	0	0	2	Shaman	False
+CS2_050	Searing Totem	Free	Minion	Unknown	1	1	1	Shaman	False
+CS2_051	Stoneclaw Totem	Free	Minion	<b>Taunt</b>	0	2	1	Shaman	False
+CS2_052	Wrath of Air Totem	Free	Minion	<b>Spell Damage +1</b>	0	2	1	Shaman	False
+CS2_056	Life Tap	Free	Hero Power	<b>Hero Power</b>Draw a card and take $2 damage.	0	0	2	Warlock	False
+CS2_057	Shadow Bolt	Free	Spell	Deal $4 damage to a minion.	0	0	3	Warlock	False
+CS2_061	Drain Life	Free	Spell	Deal $2 damage. Restore #2 Health to your hero.	0	0	3	Warlock	False
+CS2_062	Hellfire	Free	Spell	Deal $3 damage to ALL characters.	0	0	4	Warlock	False
+CS2_063	Corruption	Common	Spell	Choose an enemy minion. At the start of your turn, destroy it.	0	0	1	Warlock	False
+CS2_063e	Corruption	Unknown	Enchantment	At the start of the corrupting player's turn, destroy this minion.	0	0	0	Warlock	False
+CS2_064	Dread Infernal	Common	Minion	<b>Battlecry:</b> Deal 1 damage to ALL other characters.	6	6	6	Warlock	False
+CS2_065	Voidwalker	Free	Minion	<b>Taunt</b>	1	3	1	Warlock	False
+CS2_072	Backstab	Free	Spell	Deal $2 damage to an undamaged minion.	0	0	0	Rogue	False
+CS2_074	Deadly Poison	Free	Spell	Give your weapon +2 Attack.	0	0	1	Rogue	False
+CS2_074e	Deadly Poison	Unknown	Enchantment	+2 Attack.	0	0	0	Neutral	False
+CS2_075	Sinister Strike	Free	Spell	Deal $3 damage to the enemy hero.	0	0	1	Rogue	False
+CS2_076	Assassinate	Free	Spell	Destroy an enemy minion.	0	0	5	Rogue	False
+CS2_077	Sprint	Common	Spell	Draw 4 cards.	0	0	7	Rogue	False
+CS2_080	Assassin's Blade	Common	Weapon	Unknown	3	0	5	Rogue	False
+CS2_082	Wicked Knife	Free	Weapon	Unknown	1	0	1	Rogue	False
+CS2_083b	Dagger Mastery	Free	Hero Power	<b>Hero Power</b>Equip a 1/2 Dagger.	0	0	2	Rogue	False
+CS2_083e	Sharpened	Unknown	Enchantment	+1 Attack this turn.	0	0	0	Rogue	False
+CS2_084	Hunter's Mark	Common	Spell	Change a minion's Health to 1.	0	0	0	Hunter	False
+CS2_084e	Hunter's Mark	Unknown	Enchantment	This minion has 1 Health.	0	0	0	Hunter	False
+CS2_087	Blessing of Might	Free	Spell	Give a minion +3 Attack.	0	0	1	Paladin	False
+CS2_087e	Blessing of Might	Unknown	Enchantment	+3 Attack.	0	0	0	Paladin	False
+CS2_088	Guardian of Kings	Common	Minion	<b>Battlecry:</b> Restore 6 Health to your hero.	5	6	7	Paladin	False
+CS2_089	Holy Light	Free	Spell	Restore #6 Health.	0	0	2	Paladin	False
+CS2_091	Light's Justice	Free	Weapon	Unknown	1	0	1	Paladin	False
+CS2_092	Blessing of Kings	Common	Spell	Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>	0	0	4	Paladin	False
+CS2_092e	Blessing of Kings	Unknown	Enchantment	+4/+4.	0	0	0	Paladin	False
+CS2_093	Consecration	Common	Spell	Deal $2 damage to all enemies.	0	0	4	Paladin	False
+CS2_094	Hammer of Wrath	Free	Spell	Deal $3 damage.Draw a card.	0	0	4	Paladin	False
+CS2_097	Truesilver Champion	Common	Weapon	Whenever your hero attacks, restore 2 Health to it.	4	0	4	Paladin	False
+CS2_101	Reinforce	Free	Hero Power	<b>Hero Power</b>Summon a 1/1 Silver Hand Recruit.	0	0	2	Paladin	False
+CS2_101t	Silver Hand Recruit	Free	Minion	Unknown	1	1	1	Paladin	False
+CS2_102	Armor Up!	Free	Hero Power	<b>Hero Power</b>Gain 2 Armor.	0	0	2	Warrior	False
+CS2_103	Charge	Free	Spell	Give a friendly minion +2 Attack and <b>Charge</b>.	0	0	3	Warrior	False
+CS2_103e2	Charge	Unknown	Enchantment	+2 Attack and <b>Charge</b>.	0	0	0	Warrior	False
+CS2_105	Heroic Strike	Free	Spell	Give your hero +4 Attack this turn.	0	0	2	Warrior	False
+CS2_105e	Heroic Strike	Unknown	Enchantment	+4 Attack this turn.	0	0	0	Warrior	False
+CS2_106	Fiery War Axe	Free	Weapon	Unknown	3	0	2	Warrior	False
+CS2_108	Execute	Free	Spell	Destroy a damaged enemy minion.	0	0	1	Warrior	False
+CS2_112	Arcanite Reaper	Common	Weapon	Unknown	5	0	5	Warrior	False
+CS2_114	Cleave	Common	Spell	Deal $2 damage to two random enemy minions.	0	0	2	Warrior	False
+CS2_118	Magma Rager	Free	Minion	Unknown	5	1	3	Neutral	False
+CS2_119	Oasis Snapjaw	Free	Minion	Unknown	2	7	4	Neutral	False
+CS2_120	River Crocolisk	Free	Minion	Unknown	2	3	2	Neutral	False
+CS2_121	Frostwolf Grunt	Common	Minion	<b>Taunt</b>	2	2	2	Neutral	False
+CS2_122	Raid Leader	Free	Minion	Your other minions have +1 Attack.	2	2	3	Neutral	False
+CS2_122e	Enhanced	Unknown	Enchantment	Raid Leader is granting this minion +1 Attack.	0	0	0	Neutral	False
+CS2_124	Wolfrider	Free	Minion	<b>Charge</b>	3	1	3	Neutral	False
+CS2_125	Ironfur Grizzly	Common	Minion	<b>Taunt</b>	3	3	3	Neutral	False
+CS2_127	Silverback Patriarch	Common	Minion	<b>Taunt</b>	1	4	3	Neutral	False
+CS2_131	Stormwind Knight	Common	Minion	<b>Charge</b>	2	5	4	Neutral	False
+CS2_141	Ironforge Rifleman	Common	Minion	<b>Battlecry:</b> Deal 1 damage.	2	2	3	Neutral	False
+CS2_142	Kobold Geomancer	Common	Minion	<b>Spell Damage +1</b>	2	2	2	Neutral	False
+CS2_147	Gnomish Inventor	Common	Minion	<b>Battlecry:</b> Draw a card.	2	4	4	Neutral	False
+CS2_150	Stormpike Commando	Common	Minion	<b>Battlecry:</b> Deal 2 damage.	4	2	5	Neutral	False
+CS2_155	Archmage	Common	Minion	<b>Spell Damage +1</b>	4	7	6	Neutral	False
+CS2_162	Lord of the Arena	Common	Minion	<b>Taunt</b>	6	5	6	Neutral	False
+CS2_168	Murloc Raider	Free	Minion	Unknown	2	1	1	Neutral	False
+CS2_171	Stonetusk Boar	Free	Minion	<b>Charge</b>	1	1	1	Neutral	False
+CS2_172	Bloodfen Raptor	Free	Minion	Unknown	3	2	2	Neutral	False
+CS2_173	Bluegill Warrior	Common	Minion	<b>Charge</b>	2	1	2	Neutral	False
+CS2_179	Sen'jin Shieldmasta	Free	Minion	<b>Taunt</b>	3	5	4	Neutral	False
+CS2_182	Chillwind Yeti	Common	Minion	Unknown	4	5	4	Neutral	False
+CS2_186	War Golem	Common	Minion	Unknown	7	7	7	Neutral	False
+CS2_187	Booty Bay Bodyguard	Common	Minion	<b>Taunt</b>	5	4	5	Neutral	False
+CS2_189	Elven Archer	Common	Minion	<b>Battlecry:</b> Deal 1 damage.	1	1	1	Neutral	False
+CS2_196	Razorfen Hunter	Common	Minion	<b>Battlecry:</b> Summon a 1/1 Boar.	2	3	3	Neutral	False
+CS2_197	Ogre Magi	Common	Minion	<b>Spell Damage +1</b>	4	4	4	Neutral	False
+CS2_200	Boulderfist Ogre	Free	Minion	Unknown	6	7	6	Neutral	False
+CS2_201	Core Hound	Common	Minion	Unknown	9	5	7	Neutral	False
+CS2_213	Reckless Rocketeer	Free	Minion	<b>Charge</b>	5	2	6	Neutral	False
+CS2_222	Stormwind Champion	Common	Minion	Your other minions have +1/+1.	6	6	7	Neutral	False
+CS2_222o	Might of Stormwind	Unknown	Enchantment	Has +1/+1.	0	0	0	Neutral	False
+CS2_226	Frostwolf Warlord	Common	Minion	<b>Battlecry:</b> Gain +1/+1 for each other friendly minion on the battlefield.	4	4	5	Neutral	False
+CS2_226e	Frostwolf Banner	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+CS2_232	Ironbark Protector	Common	Minion	<b>Taunt</b>	8	8	8	Druid	False
+CS2_234	Shadow Word: Pain	Free	Spell	Destroy a minion with 3 or less Attack.	0	0	2	Priest	False
+CS2_235	Northshire Cleric	Free	Minion	Whenever a minion is healed, draw a card.	1	3	1	Priest	False
+CS2_236	Divine Spirit	Common	Spell	Double a minion's Health.	0	0	2	Priest	False
+CS2_236e	Divine Spirit	Unknown	Enchantment	This minion has double Health.	0	0	0	Priest	False
+CS2_237	Starving Buzzard	Common	Minion	Whenever you summon a Beast, draw a card.	3	2	5	Hunter	False
+CS2_boar	Boar	Common	Minion	Unknown	1	1	1	Neutral	False
+CS2_mirror	Mirror Image	Common	Minion	<b>Taunt</b>	0	2	0	Mage	False
+CS2_tk1	Sheep	Common	Minion	Unknown	1	1	0	Neutral	False
+DS1h_292	Steady Shot	Free	Hero Power	<b>Hero Power</b>Deal $2 damage to the enemy hero.	0	0	2	Hunter	False
+DS1_055	Darkscale Healer	Common	Minion	<b>Battlecry:</b> Restore 2 Health to all friendly characters.	4	5	5	Neutral	False
+DS1_070	Houndmaster	Free	Minion	<b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Taunt</b>.	4	3	4	Hunter	False
+DS1_070o	Master's Presence	Unknown	Enchantment	+2/+2 and <b>Taunt</b>.	0	0	0	Hunter	False
+DS1_175	Timber Wolf	Free	Minion	Your other Beasts have +1 Attack.	1	1	1	Hunter	False
+DS1_175o	Furious Howl	Unknown	Enchantment	This Beast has +1 Attack from Timber Wolf.	0	0	0	Hunter	False
+DS1_178	Tundra Rhino	Common	Minion	Your Beasts have <b>Charge</b>.	2	5	5	Hunter	False
+DS1_178e	Charge	Unknown	Enchantment	Tundra Rhino grants <b>Charge</b>.	0	0	0	Hunter	False
+DS1_183	Multi-Shot	Free	Spell	Deal $3 damage to two random enemy minions.	0	0	4	Hunter	False
+DS1_184	Tracking	Free	Spell	Look at the top three cards of your deck. Draw one and discard the others.	0	0	1	Hunter	False
+DS1_185	Arcane Shot	Free	Spell	Deal $2 damage.	0	0	1	Hunter	False
+DS1_233	Mind Blast	Free	Spell	Deal $5 damage to the enemy hero.	0	0	2	Priest	False
+EX1_011	Voodoo Doctor	Free	Minion	<b>Battlecry:</b> Restore 2 Health.	2	1	1	Neutral	False
+EX1_015	Novice Engineer	Free	Minion	<b>Battlecry:</b> Draw a card.	1	1	2	Neutral	False
+EX1_019	Shattered Sun Cleric	Common	Minion	<b>Battlecry:</b> Give a friendly minion +1/+1.	3	2	3	Neutral	False
+EX1_019e	Cleric's Blessing	Unknown	Enchantment	+1/+1.	0	0	0	Priest	False
+EX1_025	Dragonling Mechanic	Common	Minion	<b>Battlecry:</b> Summon a 2/1 Mechanical Dragonling.	2	4	4	Neutral	False
+EX1_025t	Mechanical Dragonling	Common	Minion	Unknown	2	1	1	Neutral	False
+EX1_066	Acidic Swamp Ooze	Common	Minion	<b>Battlecry:</b> Destroy your opponent's weapon.	3	2	2	Neutral	False
+EX1_084	Warsong Commander	Free	Minion	Your <b>Charge</b> minions have +1 Attack.	2	3	3	Warrior	False
+EX1_084e	Charge	Unknown	Enchantment	Warsong Commander is granting this minion +1 Attack.	0	0	0	Warrior	False
+EX1_129	Fan of Knives	Common	Spell	Deal $1 damage to all enemy minions. Draw a card.	0	0	3	Rogue	False
+EX1_169	Innervate	Free	Spell	Gain 2 Mana Crystals this turn only.	0	0	0	Druid	False
+EX1_173	Starfire	Common	Spell	Deal $5 damage.Draw a card.	0	0	6	Druid	False
+EX1_244	Totemic Might	Common	Spell	Give your Totems +2 Health.	0	0	0	Shaman	False
+EX1_244e	Totemic Might	Unknown	Enchantment	+2 Health.	0	0	0	Shaman	False
+EX1_246	Hex	Free	Spell	Transform a minion into a 0/1 Frog with <b>Taunt</b>.	0	0	3	Shaman	False
+EX1_246e	Hexxed	Unknown	Enchantment	This minion has been transformed!	0	0	0	Shaman	False
+EX1_277	Arcane Missiles	Free	Spell	Deal $3 damage randomly split among all enemies.	0	0	1	Mage	False
+EX1_278	Shiv	Common	Spell	Deal $1 damage. Draw a card.	0	0	2	Rogue	False
+EX1_302	Mortal Coil	Common	Spell	Deal $1 damage to a minion. If that kills it, draw a card.	0	0	1	Warlock	False
+EX1_306	Succubus	Free	Minion	<b>Battlecry:</b> Discard a random card.	4	3	2	Warlock	False
+EX1_308	Soulfire	Common	Spell	Deal $4 damage. Discard a random card.	0	0	1	Warlock	False
+EX1_360	Humility	Common	Spell	Change a minion's Attack to 1.	0	0	1	Paladin	False
+EX1_360e	Humility	Unknown	Enchantment	Attack has been changed to 1.	0	0	0	Paladin	False
+EX1_371	Hand of Protection	Free	Spell	Give a minion <b>Divine Shield</b>.	0	0	1	Paladin	False
+EX1_399	Gurubashi Berserker	Common	Minion	Whenever this minion takes damage, gain +3 Attack.	2	7	5	Neutral	False
+EX1_399e	Berserking	Unknown	Enchantment	This minion has increased Attack.	0	0	0	Neutral	False
+EX1_400	Whirlwind	Common	Spell	Deal $1 damage to ALL minions.	0	0	1	Warrior	False
+EX1_506	Murloc Tidehunter	Common	Minion	<b>Battlecry:</b> Summon a 1/1 Murloc Scout.	2	1	2	Neutral	False
+EX1_506a	Murloc Scout	Common	Minion	Unknown	1	1	0	Neutral	False
+EX1_508	Grimscale Oracle	Common	Minion	ALL other Murlocs have +1 Attack.	1	1	1	Neutral	False
+EX1_508o	Mlarggragllabl!	Unknown	Enchantment	This Murloc has +1 Attack.	0	0	0	Neutral	False
+EX1_539	Kill Command	Common	Spell	Deal $3 damage. If you have a Beast, deal $5 damage instead.	0	0	3	Hunter	False
+EX1_565	Flametongue Totem	Common	Minion	Adjacent minions have +2 Attack.	0	3	2	Shaman	False
+EX1_565o	Flametongue	Unknown	Enchantment	+2 Attack from Flametongue Totem.	0	0	0	Shaman	False
+EX1_581	Sap	Free	Spell	Return an enemy minion to your opponent's hand.	0	0	2	Rogue	False
+EX1_582	Dalaran Mage	Common	Minion	<b>Spell Damage +1</b>	1	4	3	Neutral	False
+EX1_587	Windspeaker	Common	Minion	<b>Battlecry:</b> Give a friendly minion <b>Windfury</b>.	3	3	4	Shaman	False
+EX1_593	Nightblade	Free	Minion	<b>Battlecry: </b>Deal 3 damage to the enemy hero.	4	4	5	Neutral	False
+EX1_606	Shield Block	Common	Spell	Gain 5 Armor.Draw a card.	0	0	3	Warrior	False
+EX1_622	Shadow Word: Death	Common	Spell	Destroy a minion with an Attack of 5 or more.	0	0	3	Priest	False
+GAME_001	Luck of the Coin	Unknown	Enchantment	Going second grants you increased Health.	0	0	0	Neutral	False
+GAME_002	Avatar of the Coin	Free	Minion	<i>You lost the coin flip, but gained a friend.</i>	1	1	0	Neutral	False
+GAME_003	Coin's Vengeance	Unknown	Enchantment	Going second makes your first minion stronger.	0	0	0	Neutral	False
+GAME_003e	Coin's Vengence	Unknown	Enchantment	Going second makes your first minion stronger.	0	0	0	Neutral	False
+GAME_004	AFK	Unknown	Enchantment	Your turns are shorter.	0	0	0	Neutral	False
+GAME_005	The Coin	Unknown	Spell	Gain 1 Mana Crystal this turn only.	0	0	0	Neutral	False
+GAME_005e	The Coin	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+GAME_006	NOOOOOOOOOOOO	Unknown	Spell	Somehow, the card you USED to have has been deleted.  Here, have this one instead!	0	0	2	Neutral	False
+HERO_01	Garrosh Hellscream	Free	Hero	Unknown	0	30	0	Warrior	False
+HERO_02	Thrall	Free	Hero	Unknown	0	30	0	Shaman	False
+HERO_03	Valeera Sanguinar	Free	Hero	Unknown	0	30	0	Rogue	False
+HERO_04	Uther Lightbringer	Free	Hero	Unknown	0	30	0	Paladin	False
+HERO_05	Rexxar	Free	Hero	Unknown	0	30	0	Hunter	False
+HERO_06	Malfurion Stormrage	Free	Hero	Unknown	0	30	0	Druid	False
+HERO_07	Gul'dan	Free	Hero	Unknown	0	30	0	Warlock	False
+HERO_08	Jaina Proudmoore	Free	Hero	Unknown	0	30	0	Mage	False
+HERO_09	Anduin Wrynn	Free	Hero	Unknown	0	30	0	Priest	False
+hexfrog	Frog	Common	Minion	<b>Taunt</b>	0	1	0	Neutral	False
+NEW1_003	Sacrificial Pact	Common	Spell	Destroy a Demon. Restore #5 Health to your hero.	0	0	0	Warlock	False
+NEW1_004	Vanish	Common	Spell	Return all minions to their owner's hand.	0	0	6	Rogue	False
+NEW1_009	Healing Totem	Free	Minion	At the end of your turn, restore 1 Health to all friendly minions.	0	2	1	Shaman	False
+NEW1_011	Kor'kron Elite	Common	Minion	<b>Charge</b>	4	3	4	Warrior	False
+NEW1_031	Animal Companion	Common	Spell	Summon a random Beast Companion.	0	0	3	Hunter	False
+NEW1_032	Misha	Common	Minion	<b>Taunt</b>	4	4	3	Hunter	False
+NEW1_033	Leokk	Common	Minion	Your other minions have +1 Attack.	2	4	3	Hunter	False
+NEW1_033o	Eye In The Sky	Unknown	Enchantment	Leokk is granting this minion +1 Attack.	0	0	0	Hunter	False
+NEW1_034	Huffer	Common	Minion	<b>Charge</b>	4	2	3	Hunter	False
+skele11	Skeleton	Common	Minion	<b></b> 	1	1	1	Neutral	False
+CS1_069	Fen Creeper	Common	Minion	<b>Taunt</b>	3	6	5	Neutral	False
+CS1_129	Inner Fire	Common	Spell	Change a minion's Attack to be equal to its Health.	0	0	1	Priest	False
+CS1_129e	Inner Fire	Unknown	Enchantment	This minion's Attack is equal to its Health.	0	0	0	Priest	False
+CS2_028	Blizzard	Rare	Spell	Deal $2 damage to all enemy minions and <b>Freeze</b> them.	0	0	6	Mage	False
+CS2_031	Ice Lance	Common	Spell	<b>Freeze</b> a character. If it was already <b>Frozen</b>, deal $4 damage instead.	0	0	1	Mage	False
+CS2_038	Ancestral Spirit	Rare	Spell	Give a minion "<b>Deathrattle:</b> Resummon this minion."	0	0	2	Shaman	False
+CS2_038e	Ancestral Spirit	Unknown	Enchantment	<b>Deathrattle:</b> Resummon this minion.	0	0	0	Shaman	False
+CS2_053	Far Sight	Epic	Spell	Draw a card. That card costs (3) less.	0	0	3	Shaman	False
+CS2_053e	Far Sight	Unknown	Enchantment	One of your cards costs (3) less.	0	0	0	Shaman	False
+CS2_059	Blood Imp	Common	Minion	<b>Stealth</b>. At the end of your turn, give another random friendly minion +1 Health.	0	1	1	Warlock	False
+CS2_059o	Blood Pact	Unknown	Enchantment	Increased Health.	0	0	0	Warlock	False
+CS2_073	Cold Blood	Common	Spell	Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.	0	0	1	Rogue	False
+CS2_073e	Cold Blood	Unknown	Enchantment	+2 Attack.	0	0	0	Rogue	False
+CS2_073e2	Cold Blood	Unknown	Enchantment	+4 Attack.	0	0	0	Rogue	False
+CS2_104	Rampage	Common	Spell	Give a damaged minion +3/+3.	0	0	2	Warrior	False
+CS2_104e	Rampage	Unknown	Enchantment	+3/+3.	0	0	0	Warrior	False
+CS2_117	Earthen Ring Farseer	Common	Minion	<b>Battlecry:</b> Restore 3 Health.	3	3	3	Neutral	False
+CS2_146	Southsea Deckhand	Common	Minion	Has <b>Charge</b> while you have a weapon equipped.	2	1	1	Neutral	False
+CS2_151	Silver Hand Knight	Common	Minion	<b>Battlecry:</b> Summon a 2/2 Squire.	4	4	5	Neutral	False
+CS2_152	Squire	Common	Minion	Unknown	2	2	1	Neutral	False
+CS2_161	Ravenholdt Assassin	Rare	Minion	<b>Stealth</b>	7	5	7	Neutral	False
+CS2_169	Young Dragonhawk	Common	Minion	<b>Windfury</b>	1	1	1	Neutral	False
+CS2_181	Injured Blademaster	Rare	Minion	<b>Battlecry:</b> Deal 4 damage to HIMSELF.	4	7	3	Neutral	False
+CS2_181e	Full Strength	Unknown	Enchantment	This minion has +2 Attack.	0	0	0	Neutral	False
+CS2_188	Abusive Sergeant	Common	Minion	<b>Battlecry:</b> Give a minion +2 Attack this turn.	2	1	1	Neutral	False
+CS2_188o	'Inspired'	Unknown	Enchantment	This minion has +2 Attack this turn.	0	0	0	Neutral	False
+CS2_203	Ironbeak Owl	Common	Minion	<b>Battlecry:</b> <b>Silence</b> a minion.	2	1	2	Neutral	False
+CS2_221	Spiteful Smith	Common	Minion	<b>Enrage:</b> Your weapon has +2 Attack.	4	6	5	Neutral	False
+CS2_221e	Sharp!	Unknown	Enchantment	+2 Attack from Spiteful Smith.	0	0	0	Neutral	False
+CS2_227	Venture Co. Mercenary	Common	Minion	Your minions cost (3) more.	7	6	5	Neutral	False
+CS2_231	Wisp	Common	Minion	Unknown	1	1	0	Neutral	False
+CS2_233	Blade Flurry	Rare	Spell	Destroy your weapon and deal its damage to all enemies.	0	0	2	Rogue	False
+DREAM_01	Laughing Sister	Unknown	Minion	Can't be targeted by spells or Hero Powers.	3	5	3	0	False
+DREAM_02	Ysera Awakens	Unknown	Spell	Deal $5 damage to all characters except Ysera.	0	0	2	0	False
+DREAM_03	Emerald Drake	Unknown	Minion	Unknown	7	6	4	0	False
+DREAM_04	Dream	Unknown	Spell	Return a minion to its owner's hand.	0	0	0	0	False
+DREAM_05	Nightmare	Unknown	Spell	Give a minion +5/+5. At the start of your next turn, destroy it.	0	0	0	0	False
+DREAM_05e	Nightmare	Unknown	Enchantment	This minion has +5/+5, but will be destroyed soon.	0	0	0	Neutral	False
+DS1_188	Gladiator's Longbow	Epic	Weapon	Your hero is <b>Immune</b> while attacking.	5	0	7	Hunter	False
+ds1_whelptoken	Whelp	Unknown	Minion	Unknown	1	1	1	Neutral	False
+EX1_001	Lightwarden	Rare	Minion	Whenever a character is healed, gain +2 Attack.	1	2	1	Neutral	False
+EX1_001e	Warded	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+EX1_002	The Black Knight	Legendary	Minion	<b>Battlecry:</b> Destroy an enemy minion with <b>Taunt</b>.	4	5	6	Neutral	False
+EX1_004	Young Priestess	Rare	Minion	At the end of your turn, give another random friendly minion +1 Health.	2	1	1	Neutral	False
+EX1_004e	Elune's Grace	Unknown	Enchantment	Increased Health.	0	0	0	Neutral	False
+EX1_005	Big Game Hunter	Epic	Minion	<b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.	4	2	3	Neutral	False
+EX1_006	Alarm-o-Bot	Rare	Minion	At the start of your turn, swap this minion with a random one in your hand.	0	3	3	Neutral	False
+EX1_007	Acolyte of Pain	Common	Minion	Whenever this minion takes damage, draw a card.	1	3	3	Neutral	False
+EX1_008	Argent Squire	Common	Minion	<b>Divine Shield</b>	1	1	1	Neutral	False
+EX1_009	Angry Chicken	Rare	Minion	<b>Enrage:</b> +5 Attack.	1	1	1	Neutral	False
+EX1_010	Worgen Infiltrator	Common	Minion	<b>Stealth</b>	2	1	1	Neutral	False
+EX1_012	Bloodmage Thalnos	Legendary	Minion	<b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card.	1	1	2	Neutral	False
+EX1_014	King Mukla	Legendary	Minion	<b>Battlecry:</b> Give your opponent 2 Bananas.	5	5	3	Neutral	False
+EX1_014t	Bananas	Unknown	Spell	Give a minion +1/+1.	0	0	1	Neutral	False
+EX1_014te	Bananas	Unknown	Enchantment	Has +1/+1.	0	0	0	Neutral	False
+EX1_016	Sylvanas Windrunner	Legendary	Minion	<b>Deathrattle:</b> Take control of a random enemy minion.	5	5	6	Neutral	False
+EX1_017	Jungle Panther	Common	Minion	<b>Stealth</b>	4	2	3	Neutral	False
+EX1_020	Scarlet Crusader	Common	Minion	<b>Divine Shield</b>	3	1	3	Neutral	False
+EX1_021	Thrallmar Farseer	Common	Minion	<b>Windfury</b>	2	3	3	Neutral	False
+EX1_023	Silvermoon Guardian	Common	Minion	<b>Divine Shield</b>	3	3	4	Neutral	False
+EX1_028	Stranglethorn Tiger	Common	Minion	<b>Stealth</b>	5	5	5	Neutral	False
+EX1_029	Leper Gnome	Common	Minion	<b>Deathrattle:</b> Deal 2 damage to the enemy hero.	2	1	1	Neutral	False
+EX1_032	Sunwalker	Rare	Minion	<b>Taunt</b><b>Divine Shield</b>	4	5	6	Neutral	False
+EX1_033	Windfury Harpy	Common	Minion	<b>Windfury</b>	4	5	6	Neutral	False
+EX1_043	Twilight Drake	Rare	Minion	<b>Battlecry:</b> Gain +1 Health for each card in your hand.	4	1	4	Neutral	False
+EX1_043e	Hour of Twilight	Unknown	Enchantment	Increased Health.	0	0	0	Neutral	False
+EX1_044	Questing Adventurer	Rare	Minion	Whenever you play a card, gain +1/+1.	2	2	3	Neutral	False
+EX1_044e	Level Up!	Unknown	Enchantment	Increased Attack and Health.	0	0	0	Neutral	False
+EX1_045	Ancient Watcher	Rare	Minion	Can't attack.	4	5	2	Neutral	False
+EX1_046	Dark Iron Dwarf	Common	Minion	<b>Battlecry:</b> Give a minion +2 Attack this turn.	4	4	4	Neutral	False
+EX1_046e	Tempered	Unknown	Enchantment	+2 Attack this turn.	0	0	0	Neutral	False
+EX1_048	Spellbreaker	Common	Minion	<b>Battlecry:</b> <b>Silence</b> a minion.	4	3	4	Neutral	False
+EX1_049	Youthful Brewmaster	Common	Minion	<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.	3	2	2	Neutral	False
+EX1_050	Coldlight Oracle	Rare	Minion	<b>Battlecry:</b> Each player draws 2 cards.	2	2	3	Neutral	False
+EX1_055	Mana Addict	Rare	Minion	Whenever you cast a spell, gain +2 Attack this turn.	1	3	2	Neutral	False
+EX1_055o	Empowered	Unknown	Enchantment	Mana Addict has increased Attack.	0	0	0	Neutral	False
+EX1_057	Ancient Brewmaster	Common	Minion	<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.	5	4	4	Neutral	False
+EX1_058	Sunfury Protector	Rare	Minion	<b>Battlecry:</b> Give adjacent minions <b>Taunt</b>.	2	3	2	Neutral	False
+EX1_059	Crazed Alchemist	Rare	Minion	<b>Battlecry:</b> Swap the Attack and Health of a minion.	2	2	2	Neutral	False
+EX1_059e	Experiments!	Unknown	Enchantment	Attack and Health have been swapped by Crazed Alchemist.	0	0	0	Neutral	False
+EX1_067	Argent Commander	Rare	Minion	<b>Charge</b><b>Divine Shield</b>	4	2	6	Neutral	False
+EX1_076	Pint-Sized Summoner	Rare	Minion	The first minion you play each turn costs (1) less.	2	2	2	Neutral	False
+EX1_080	Secretkeeper	Rare	Minion	Whenever a <b>Secret</b> is played, gain +1/+1.	1	2	1	Neutral	False
+EX1_080o	Keeping Secrets	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+EX1_082	Mad Bomber	Common	Minion	<b>Battlecry:</b> Deal 3 damage randomly split between all other characters.	3	2	2	Neutral	False
+EX1_083	Tinkmaster Overspark	Legendary	Minion	<b>Battlecry:</b> Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.	3	3	3	Neutral	False
+EX1_085	Mind Control Tech	Rare	Minion	<b>Battlecry:</b> If your opponent has 4 or more minions, take control of one at random.	3	3	3	Neutral	False
+EX1_089	Arcane Golem	Rare	Minion	<b>Charge</b>. <b>Battlecry:</b> Give your opponent a Mana Crystal.	4	2	3	Neutral	False
+EX1_091	Cabal Shadow Priest	Epic	Minion	<b>Battlecry:</b> Take control of an enemy minion that has 2 or less Attack.	4	5	6	Priest	False
+EX1_093	Defender of Argus	Rare	Minion	<b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>.	2	3	4	Neutral	False
+EX1_093e	Hand of Argus	Unknown	Enchantment	+1/+1 and <b>Taunt</b>.	0	0	0	Neutral	False
+EX1_095	Gadgetzan Auctioneer	Rare	Minion	Whenever you cast a spell, draw a card.	4	4	6	Neutral	False
+EX1_096	Loot Hoarder	Common	Minion	<b>Deathrattle:</b> Draw a card.	2	1	2	Neutral	False
+EX1_097	Abomination	Rare	Minion	<b>Taunt</b>. <b>Deathrattle:</b> Deal 2 damage to ALL characters.	4	4	5	Neutral	False
+EX1_100	Lorewalker Cho	Legendary	Minion	Whenever a player casts a spell, put a copy into the other player’s hand.	0	4	2	Neutral	False
+EX1_102	Demolisher	Rare	Minion	At the start of your turn, deal 2 damage to a random enemy.	1	4	3	Neutral	False
+EX1_103	Coldlight Seer	Rare	Minion	<b>Battlecry:</b> Give ALL other Murlocs +2 Health.	2	3	3	Neutral	False
+EX1_103e	Mrghlglhal	Unknown	Enchantment	+2 Health.	0	0	0	Neutral	False
+EX1_105	Mountain Giant	Epic	Minion	Costs (1) less for each other card in your hand.	8	8	12	Neutral	False
+EX1_110	Cairne Bloodhoof	Legendary	Minion	<b>Deathrattle:</b> Summon a 4/5 Baine Bloodhoof.	4	5	6	Neutral	False
+EX1_110t	Baine Bloodhoof	Legendary	Minion	Unknown	4	5	4	Neutral	False
+EX1_116	Leeroy Jenkins	Legendary	Minion	<b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent.	6	2	5	Neutral	False
+EX1_116t	Whelp	Unknown	Minion	Unknown	1	1	1	Neutral	False
+EX1_124	Eviscerate	Common	Spell	Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.	0	0	2	Rogue	False
+EX1_126	Betrayal	Common	Spell	Force an enemy minion to deal its damage to the minions next to it.	0	0	2	Rogue	False
+EX1_128	Conceal	Common	Spell	Give your minions <b>Stealth</b> until your next turn.	0	0	1	Rogue	False
+EX1_128e	Concealed	Unknown	Enchantment	Stealthed until your next turn.	0	0	0	Rogue	False
+EX1_130	Noble Sacrifice	Common	Spell	<b>Secret:</b> When an enemy attacks, summon a 2/1 Defender as the new target.	0	0	1	Paladin	False
+EX1_130a	Defender	Common	Minion	Unknown	2	1	1	Paladin	False
+EX1_131	Defias Ringleader	Common	Minion	<b>Combo:</b> Summon a 2/1 Defias Bandit.	2	2	2	Rogue	False
+EX1_131t	Defias Bandit	Unknown	Minion	Unknown	2	1	1	Rogue	False
+EX1_132	Eye for an Eye	Common	Spell	<b>Secret:</b> When your hero takes damage, deal that much damage to the enemy hero.	0	0	1	Paladin	False
+EX1_133	Perdition's Blade	Rare	Weapon	<b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead.	2	0	3	Rogue	False
+EX1_134	SI:7 Agent	Rare	Minion	<b>Combo:</b> Deal 2 damage.	3	3	3	Rogue	False
+EX1_136	Redemption	Common	Spell	<b>Secret:</b> When one of your minions dies, return it to life with 1 Health.	0	0	1	Paladin	False
+EX1_137	Headcrack	Rare	Spell	Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn.	0	0	3	Rogue	False
+EX1_144	Shadowstep	Common	Spell	Return a friendly minion to your hand. It costs (2) less.	0	0	0	Rogue	False
+EX1_145	Preparation	Epic	Spell	The next spell you cast this turn costs (3) less.	0	0	0	Rogue	False
+EX1_145o	Preparation	Unknown	Enchantment	The next spell you cast this turn costs (3) less.	0	0	0	Rogue	False
+EX1_154	Wrath	Common	Spell	<b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.	0	0	2	Druid	False
+EX1_154a	Wrath	Unknown	Spell	Deal $3 damage to a minion.	0	0	0	Druid	False
+EX1_154b	Wrath	Unknown	Spell	Deal $1 damage to a minion. Draw a card.	0	0	0	Druid	False
+EX1_155	Mark of Nature	Common	Spell	<b>Choose One</b> - Give a minion +4 Attack; or +4 Health and <b>Taunt</b>.	0	0	3	Druid	False
+EX1_155a	Mark of Nature	Unknown	Spell	+4 Attack.	0	0	0	Druid	False
+EX1_155ae	Mark of Nature	Unknown	Enchantment	This minion has +4 Attack.	0	0	0	Druid	False
+EX1_155b	Mark of Nature	Unknown	Spell	+4 Health and <b>Taunt</b>.	0	0	0	Druid	False
+EX1_155be	Mark of Nature	Unknown	Enchantment	This minion has +4 Health and <b>Taunt</b>.	0	0	0	Druid	False
+EX1_158	Soul of the Forest	Common	Spell	Give your minions "<b>Deathrattle:</b> Summon a 2/2 Treant."	0	0	4	Druid	False
+EX1_158e	Soul of the Forest	Unknown	Enchantment	Deathrattle: Summon a 2/2 Treant.	0	0	0	Druid	False
+EX1_158t	Treant	Unknown	Minion	Unknown	2	2	1	Druid	False
+EX1_160	Power of the Wild	Common	Spell	<b>Choose One</b> - Give your minions +1/+1; or Summon a 3/2 Panther.	0	0	2	Druid	False
+EX1_160a	Summon a Panther	Unknown	Spell	Summon a 3/2 Panther.	0	0	0	Druid	False
+EX1_160b	Leader of the Pack	Unknown	Spell	Give your minions +1/+1.	0	0	0	Druid	False
+EX1_160be	Leader of the Pack	Unknown	Enchantment	+1/+1	0	0	0	Druid	False
+EX1_160t	Panther	Common	Minion	Unknown	3	2	2	Druid	False
+EX1_161	Naturalize	Common	Spell	Destroy a minion. Your opponent draws 2 cards.	0	0	1	Druid	False
+EX1_162	Dire Wolf Alpha	Common	Minion	Adjacent minions have +1 Attack.	2	2	2	Neutral	False
+EX1_162o	Strength of the Pack	Unknown	Enchantment	Dire Wolf Alpha is granting +1 Attack to this minion.	0	0	0	Neutral	False
+EX1_164	Nourish	Rare	Spell	<b>Choose One</b> - Gain 2 Mana Crystals; or Draw 3 cards.	0	0	5	Druid	False
+EX1_164a	Nourish	Unknown	Spell	Gain 2 Mana Crystals.	0	0	0	Druid	False
+EX1_164b	Nourish	Unknown	Spell	Draw 3 cards.	0	0	0	Druid	False
+EX1_165	Druid of the Claw	Common	Minion	<b>Choose One -</b> <b>Charge</b>; or +2 Health and <b>Taunt</b>.	4	4	5	Druid	False
+EX1_165a	Cat Form	Common	Spell	<b>Charge</b>	0	0	0	Druid	False
+EX1_165b	Bear Form	Common	Spell	+2 Health and <b>Taunt</b>.	0	0	0	Druid	False
+EX1_165t1	Druid of the Claw	Common	Minion	<b>Charge</b>	4	4	5	Druid	False
+EX1_165t2	Druid of the Claw	Common	Minion	<b>Taunt</b>	4	6	5	Druid	False
+EX1_166	Keeper of the Grove	Rare	Minion	<b>Choose One</b> - Deal 2 damage; or <b>Silence</b> a minion.	2	4	4	Druid	False
+EX1_166a	Moonfire	Unknown	Spell	Deal 2 damage.	0	0	0	Druid	False
+EX1_166b	Dispel	Unknown	Spell	<b>Silence</b> a minion.	0	0	0	Druid	False
+EX1_170	Emperor Cobra	Rare	Minion	Destroy any minion damaged by this minion.	2	3	3	Neutral	False
+EX1_178	Ancient of War	Epic	Minion	<b>Choose One</b> +5 Attack; or +5 Health and <b>Taunt</b>.	5	5	7	Druid	False
+EX1_178a	Rooted	Unknown	Spell	+5 Health and <b>Taunt</b>.	0	0	0	Druid	False
+EX1_178ae	Rooted	Unknown	Enchantment	+5 Health and <b>Taunt</b>.	0	0	0	Druid	False
+EX1_178b	Uproot	Unknown	Spell	+5 Attack.	0	0	0	Druid	False
+EX1_178be	Uprooted	Unknown	Enchantment	+5 Attack.	0	0	0	Druid	False
+EX1_238	Lightning Bolt	Common	Spell	Deal $3 damage. <b>Overload:</b> (1)	0	0	1	Shaman	False
+EX1_241	Lava Burst	Rare	Spell	Deal $5 damage. <b>Overload:</b> (2)	0	0	3	Shaman	False
+EX1_243	Dust Devil	Common	Minion	<b>Windfury</b>. <b>Overload:</b> (2)	3	1	1	Shaman	False
+EX1_245	Earth Shock	Common	Spell	<b>Silence</b> a minion, then deal $1 damage to it.	0	0	1	Shaman	False
+EX1_247	Stormforged Axe	Common	Weapon	<b>Overload:</b> (1)	2	0	2	Shaman	False
+EX1_248	Feral Spirit	Rare	Spell	Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2)	0	0	3	Shaman	False
+EX1_249	Baron Geddon	Legendary	Minion	At the end of your turn, deal 2 damage to ALL other characters.	7	5	7	Neutral	False
+EX1_250	Earth Elemental	Epic	Minion	<b>Taunt</b>. <b>Overload:</b> (3)	7	8	5	Shaman	False
+EX1_251	Forked Lightning	Common	Spell	Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2)	0	0	1	Shaman	False
+EX1_258	Unbound Elemental	Common	Minion	Whenever you play a card with <b>Overload</b>, gain +1/+1.	2	4	3	Shaman	False
+EX1_258e	Overloading	Unknown	Enchantment	Increased stats.	0	0	0	Shaman	False
+EX1_259	Lightning Storm	Rare	Spell	Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2)	0	0	3	Shaman	False
+EX1_274	Ethereal Arcanist	Rare	Minion	If you control a <b>Secret</b> at the end of your turn, gain +2/+2.	3	3	4	Mage	False
+EX1_274e	Raw Power!	Unknown	Enchantment	Increased stats.	0	0	0	Mage	False
+EX1_275	Cone of Cold	Common	Spell	<b>Freeze</b> a minion and the minions next to it, and deal $1 damage to them.	0	0	4	Mage	False
+EX1_279	Pyroblast	Epic	Spell	Deal $10 damage.	0	0	10	Mage	False
+EX1_283	Frost Elemental	Common	Minion	<b>Battlecry:</b> <b>Freeze</b> a character.	5	5	6	Neutral	False
+EX1_284	Azure Drake	Rare	Minion	<b>Spell Damage +1</b>. <b>Battlecry:</b> Draw a card.	4	4	5	Neutral	False
+EX1_287	Counterspell	Rare	Spell	<b>Secret:</b> When your opponent casts a spell, <b>Counter</b> it.	0	0	3	Mage	False
+EX1_289	Ice Barrier	Common	Spell	<b>Secret:</b> When your hero is attacked, gain 8 Armor.	0	0	3	Mage	False
+EX1_294	Mirror Entity	Common	Spell	<b>Secret:</b> When your opponent plays a minion, summon a copy of it.	0	0	3	Mage	False
+EX1_295	Ice Block	Epic	Spell	<b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn.	0	0	3	Mage	False
+EX1_301	Felguard	Rare	Minion	<b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals.	3	5	3	Warlock	False
+EX1_303	Shadowflame	Rare	Spell	Destroy a friendly minion and deal its Attack damage to all enemy minions.	0	0	4	Warlock	False
+EX1_304	Void Terror	Rare	Minion	<b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health.	3	3	3	Warlock	False
+EX1_304e	Consume	Unknown	Enchantment	Increased stats.	0	0	0	Warlock	False
+EX1_309	Siphon Soul	Rare	Spell	Destroy a minion. Restore #3 Health to your hero.	0	0	6	Warlock	False
+EX1_310	Doomguard	Rare	Minion	<b>Charge</b>. <b>Battlecry:</b> Discard two random cards.	5	7	5	Warlock	False
+EX1_312	Twisting Nether	Epic	Spell	Destroy all minions.	0	0	8	Warlock	False
+EX1_313	Pit Lord	Epic	Minion	<b>Battlecry:</b> Deal 5 damage to your hero.	5	6	4	Warlock	False
+EX1_315	Summoning Portal	Common	Minion	Your minions cost (2) less, but not less than (1).	0	4	4	Warlock	False
+EX1_316	Power Overwhelming	Common	Spell	Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.	0	0	1	Warlock	False
+EX1_316e	Power Overwhelming	Unknown	Enchantment	This minion has +4/+4, but will die a horrible death at the end of the turn.	0	0	0	Warlock	False
+EX1_317	Sense Demons	Common	Spell	Put 2 random Demons from your deck into your hand.	0	0	3	Warlock	False
+EX1_317t	Worthless Imp	Common	Minion	<i>You are out of demons! At least there are always imps...</i>	1	1	1	Warlock	False
+EX1_319	Flame Imp	Common	Minion	<b>Battlecry:</b> Deal 3 damage to your hero.	3	2	1	Warlock	False
+EX1_320	Bane of Doom	Epic	Spell	Deal $2 damage to a character. If that kills it, summon a random Demon.	0	0	5	Warlock	False
+EX1_323	Lord Jaraxxus	Legendary	Minion	<b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus.	3	15	9	Warlock	False
+EX1_323h	Lord Jaraxxus	Legendary	Hero	Unknown	0	15	0	Warlock	False
+EX1_323w	Blood Fury	Unknown	Weapon	Unknown	3	0	3	Warlock	False
+EX1_332	Silence	Common	Spell	<b>Silence</b> a minion.	0	0	0	Priest	False
+EX1_334	Shadow Madness	Rare	Spell	Gain control of an enemy minion with 3 or less Attack until end of turn.	0	0	4	Priest	False
+EX1_334e	Shadow Madness	Unknown	Enchantment	This minion has switched controllers this turn.	0	0	0	Priest	False
+EX1_335	Lightspawn	Common	Minion	This minion's Attack is always equal to its Health.	0	5	4	Priest	False
+EX1_339	Thoughtsteal	Common	Spell	Copy 2 cards from your opponent's deck and put them into your hand.	0	0	3	Priest	False
+EX1_341	Lightwell	Rare	Minion	At the start of your turn, restore 3 Health to a damaged friendly character.	0	5	2	Priest	False
+EX1_345	Mindgames	Epic	Spell	Put a copy of a random minion from your opponent's deck into the battlefield.	0	0	4	Priest	False
+EX1_345t	Shadow of Nothing	Epic	Minion	Mindgames whiffed! Your opponent had no minions!	0	1	0	Priest	False
+EX1_349	Divine Favor	Rare	Spell	Draw cards until you have as many in hand as your opponent.	0	0	3	Paladin	False
+EX1_350	Prophet Velen	Legendary	Minion	Double the damage and healing of your spells and Hero Power.	7	7	7	Priest	False
+EX1_354	Lay on Hands	Epic	Spell	Restore #8 Health. Draw 3 cards.	0	0	8	Paladin	False
+EX1_355	Blessed Champion	Rare	Spell	Double a minion's Attack.	0	0	5	Paladin	False
+EX1_355e	Blessed Champion	Unknown	Enchantment	This minion's Attack has been doubled.	0	0	0	Paladin	False
+EX1_362	Argent Protector	Common	Minion	<b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>.	2	2	2	Paladin	False
+EX1_363	Blessing of Wisdom	Common	Spell	Choose a minion. Whenever it attacks, draw a card.	0	0	1	Paladin	False
+EX1_363e	Blessing of Wisdom	Unknown	Enchantment	When this minion attacks, the player who blessed it draws a card.	0	0	0	Paladin	False
+EX1_363e2	Blessing of Wisdom	Unknown	Enchantment	When this minion attacks, the enemy player draws a card.	0	0	0	Paladin	False
+EX1_365	Holy Wrath	Rare	Spell	Draw a card and deal damage equal to its cost.	0	0	5	Paladin	False
+EX1_366	Sword of Justice	Epic	Weapon	Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.	1	0	3	Paladin	False
+EX1_366e	Justice Served	Unknown	Enchantment	Has +1/+1.	0	0	0	Paladin	False
+EX1_379	Repentance	Common	Spell	<b>Secret:</b> When your opponent plays a minion, reduce its Health to 1.	0	0	1	Paladin	False
+EX1_379e	Repentance	Unknown	Enchantment	Health reduced to 1.	0	0	0	Paladin	False
+EX1_382	Aldor Peacekeeper	Rare	Minion	<b>Battlecry:</b> Change an enemy minion's Attack to 1.	3	3	3	Paladin	False
+EX1_382e	Stand Down!	Unknown	Enchantment	Attack changed to 1.	0	0	0	Paladin	False
+EX1_383	Tirion Fordring	Legendary	Minion	<b>Divine Shield</b>. <b>Taunt</b>. <b>Deathrattle:</b> Equip a 5/3 Ashbringer.	6	6	8	Paladin	False
+EX1_383t	Ashbringer	Legendary	Weapon	Unknown	5	0	5	Paladin	False
+EX1_384	Avenging Wrath	Epic	Spell	Deal $8 damage randomly split among all enemies.	0	0	6	Paladin	False
+EX1_390	Tauren Warrior	Common	Minion	<b>Taunt</b>. <b>Enrage:</b> +3 Attack	2	3	3	Neutral	False
+EX1_391	Slam	Common	Spell	Deal $2 damage to a minion. If it survives, draw a card.	0	0	2	Warrior	False
+EX1_392	Battle Rage	Common	Spell	Draw a card for each damaged friendly character.	0	0	2	Warrior	False
+EX1_393	Amani Berserker	Common	Minion	<b>Enrage:</b> +3 Attack	2	3	2	Neutral	False
+EX1_396	Mogu'shan Warden	Common	Minion	<b>Taunt</b>	1	7	4	Neutral	False
+EX1_398	Arathi Weaponsmith	Common	Minion	<b>Battlecry:</b> Equip a 2/2 weapon.	3	3	4	Warrior	False
+EX1_398t	Battle Axe	Unknown	Weapon	Unknown	2	0	1	Warrior	False
+EX1_402	Armorsmith	Rare	Minion	Whenever a friendly minion takes damage, gain 1 Armor.	1	4	2	Warrior	False
+EX1_405	Shieldbearer	Common	Minion	<b>Taunt</b>	0	4	1	Neutral	False
+EX1_407	Brawl	Epic	Spell	Destroy all minions except one. <i>(chosen randomly)</i>	0	0	5	Warrior	False
+EX1_408	Mortal Strike	Rare	Spell	Deal $4 damage. If you have 12 or less Health, deal $6 instead.	0	0	4	Warrior	False
+EX1_409	Upgrade!	Rare	Spell	If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.	0	0	1	Warrior	False
+EX1_409e	Upgraded	Unknown	Enchantment	+1 Attack and +1 Durability.	0	0	0	Warrior	False
+EX1_409t	Heavy Axe	Unknown	Weapon	Unknown	1	0	1	Warrior	False
+EX1_410	Shield Slam	Epic	Spell	Deal 1 damage to a minion for each Armor you have.	0	0	1	Warrior	False
+EX1_411	Gorehowl	Epic	Weapon	Attacking a minion costs 1 Attack instead of 1 Durability.	7	0	7	Warrior	False
+EX1_411e	Bloodrage	Unknown	Enchantment	No durability loss.	0	0	0	Warrior	False
+EX1_411e2	Needs Sharpening	Unknown	Enchantment	Decreased Attack.	0	0	0	Warrior	False
+EX1_412	Raging Worgen	Common	Minion	<b>Enrage:</b> <b>Windfury</b> and +1 Attack	3	3	3	Neutral	False
+EX1_414	Grommash Hellscream	Legendary	Minion	<b>Charge</b><b>Enrage:</b> +6 Attack	4	9	8	Warrior	False
+EX1_507	Murloc Warleader	Epic	Minion	ALL other Murlocs have +2/+1.	3	3	3	Neutral	False
+EX1_507e	Mrgglaargl!	Unknown	Enchantment	Murloc Warleader is granting +2/+1.	0	0	0	Neutral	False
+EX1_509	Murloc Tidecaller	Rare	Minion	Whenever a Murloc is summoned, gain +1 Attack.	1	2	1	Neutral	False
+EX1_509e	Blarghghl	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+EX1_522	Patient Assassin	Epic	Minion	<b>Stealth</b>. Destroy any minion damaged by this minion.	1	1	2	Rogue	False
+EX1_531	Scavenging Hyena	Common	Minion	Whenever a friendly Beast dies, gain +2/+1.	2	2	2	Hunter	False
+EX1_531e	Well Fed	Unknown	Enchantment	Increased Attack and Health.	0	0	0	Hunter	False
+EX1_533	Misdirection	Rare	Spell	<b>Secret:</b> When a character attacks your hero, instead he attacks another random character.	0	0	2	Hunter	False
+EX1_534	Savannah Highmane	Rare	Minion	<b>Deathrattle:</b> Summon two 2/2 Hyenas.	6	5	6	Hunter	False
+EX1_534t	Hyena	Rare	Minion	Unknown	2	2	2	Hunter	False
+EX1_536	Eaglehorn Bow	Rare	Weapon	Whenever a friendly <b>Secret</b> is revealed, gain +1 Durability.	3	0	3	Hunter	False
+EX1_536e	Upgraded	Unknown	Enchantment	Increased Durability.	0	0	0	Hunter	False
+EX1_537	Explosive Shot	Rare	Spell	Deal $5 damage to a minion and $2 damage to adjacent ones.	0	0	5	Hunter	False
+EX1_538	Unleash the Hounds	Common	Spell	For each enemy minion, summon a 1/1 Hound with <b>Charge</b>.	0	0	3	Hunter	False
+EX1_538t	Hound	Unknown	Minion	<b>Charge</b>	1	1	1	Hunter	False
+EX1_543	King Krush	Legendary	Minion	<b>Charge</b>	8	8	9	Hunter	False
+EX1_544	Flare	Rare	Spell	All minions lose <b>Stealth</b>. Destroy all enemy <b>Secrets</b>. Draw a card.	0	0	2	Hunter	False
+EX1_549	Bestial Wrath	Epic	Spell	Give a friendly Beast +2 Attack and <b>Immune</b> this turn.	0	0	1	Hunter	False
+EX1_549o	Bestial Wrath	Unknown	Enchantment	+2 Attack and <b>Immune</b> this turn.	0	0	0	Hunter	False
+EX1_554	Snake Trap	Epic	Spell	<b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.	0	0	2	Hunter	False
+EX1_554t	Snake	Common	Minion	Unknown	1	1	0	Hunter	False
+EX1_556	Harvest Golem	Common	Minion	<b>Deathrattle:</b> Summon a 2/1 Damaged Golem.	2	3	3	Neutral	False
+EX1_557	Nat Pagle	Legendary	Minion	At the start of your turn, you have a 50% chance to draw an extra card.	0	4	2	Neutral	False
+EX1_558	Harrison Jones	Legendary	Minion	<b>Battlecry:</b> Destroy your opponent's weapon and draw cards equal to its Durability.	5	4	5	Neutral	False
+EX1_559	Archmage Antonidas	Legendary	Minion	Whenever you cast a spell, add a 'Fireball' spell to your hand.	5	7	7	Mage	False
+EX1_560	Nozdormu	Legendary	Minion	Players only have 15 seconds to take their turns.	8	8	9	Neutral	False
+EX1_561	Alexstrasza	Legendary	Minion	<b>Battlecry:</b> Set a hero's remaining Health to 15.	8	8	9	Neutral	False
+EX1_561e	Alexstrasza's Fire	Unknown	Enchantment	Health set to 15.	0	0	0	Neutral	False
+EX1_562	Onyxia	Legendary	Minion	<b>Battlecry:</b> Summon 1/1 Whelps until your side of the battlefield is full.	8	8	9	Neutral	False
+EX1_563	Malygos	Legendary	Minion	<b>Spell Damage +5</b>	4	12	9	Neutral	False
+EX1_564	Faceless Manipulator	Epic	Minion	<b>Battlecry:</b> Choose a minion and become a copy of it.	3	3	5	Neutral	False
+EX1_567	Doomhammer	Epic	Weapon	<b>Windfury, Overload:</b> (2)	2	0	5	Shaman	False
+EX1_570	Bite	Rare	Spell	Give your hero +4 Attack this turn and 4 Armor.	0	0	4	Druid	False
+EX1_570e	Bite	Unknown	Enchantment	+4 Attack this turn.	0	0	0	Neutral	False
+EX1_571	Force of Nature	Epic	Spell	Summon three 2/2 Treants with <b>Charge</b> that die at the end of the turn.	0	0	6	Druid	False
+EX1_572	Ysera	Legendary	Minion	At the end of your turn, add a Dream Card to your hand.	4	12	9	Neutral	False
+EX1_573	Cenarius	Legendary	Minion	<b>Choose One</b> - Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.	5	8	9	Druid	False
+EX1_573a	Demigod's Favor	Unknown	Spell	Give your other minions +2/+2.	0	0	0	Druid	False
+EX1_573ae	Demigod's Favor	Unknown	Enchantment	+2/+2.	0	0	0	Druid	False
+EX1_573b	Shan'do's Lesson	Unknown	Spell	Summon two 2/2 Treants with <b>Taunt</b>.	0	0	0	Druid	False
+EX1_573t	Treant	Unknown	Minion	<b>Taunt</b>	2	2	1	Druid	False
+EX1_575	Mana Tide Totem	Rare	Minion	At the end of your turn, draw a card.	0	3	3	Shaman	False
+EX1_577	The Beast	Legendary	Minion	<b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent.	9	7	6	Neutral	False
+EX1_578	Savagery	Rare	Spell	Deal damage equal to your hero's Attack to a minion.	0	0	1	Druid	False
+EX1_583	Priestess of Elune	Common	Minion	<b>Battlecry:</b> Restore 4 Health to your hero.	5	4	6	Neutral	False
+EX1_584	Ancient Mage	Rare	Minion	<b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>.	2	5	4	Neutral	False
+EX1_584e	Teachings of the Kirin Tor	Unknown	Enchantment	<b>Spell Damage +1</b>.	0	0	0	Neutral	False
+EX1_586	Sea Giant	Epic	Minion	Costs (1) less for each other minion on the battlefield.	8	8	10	Neutral	False
+EX1_590	Blood Knight	Epic	Minion	<b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.	3	3	3	Neutral	False
+EX1_590e	Shadows of M'uru	Common	Enchantment	This minion has consumed Divine Shields and has increased Attack and Health.	0	0	0	Neutral	False
+EX1_591	Auchenai Soulpriest	Rare	Minion	Your cards and powers that restore Health now deal damage instead.	3	5	4	Priest	False
+EX1_594	Vaporize	Rare	Spell	<b>Secret:</b> When a minion attacks your hero, destroy it.	0	0	3	Mage	False
+EX1_595	Cult Master	Common	Minion	Whenever one of your other minions dies, draw a card.	4	2	4	Neutral	False
+EX1_596	Demonfire	Common	Spell	Deal $2 damage to a minion. If it’s a friendly Demon, give it +2/+2 instead.	0	0	2	Warlock	False
+EX1_596e	Demonfire	Common	Enchantment	This Demon has +2/+2.	0	0	0	Warlock	False
+EX1_597	Imp Master	Rare	Minion	At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.	1	5	3	Neutral	False
+EX1_598	Imp	Rare	Minion	Unknown	1	1	1	Neutral	False
+EX1_603	Cruel Taskmaster	Common	Minion	<b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.	2	2	2	Warrior	False
+EX1_603e	Whipped Into Shape	Unknown	Enchantment	+2 Attack.	0	0	0	Warrior	False
+EX1_604	Frothing Berserker	Rare	Minion	Whenever a minion takes damage, gain +1 Attack.	2	4	3	Warrior	False
+EX1_604o	Berserk	Unknown	Enchantment	Increased Attack.	0	0	0	Warrior	False
+EX1_607	Inner Rage	Common	Spell	Deal $1 damage to a minion and give it +2 Attack.	0	0	0	Warrior	False
+EX1_607e	Inner Rage	Unknown	Enchantment	+2 Attack.	0	0	0	Warrior	False
+EX1_608	Sorcerer's Apprentice	Common	Minion	Your spells cost (1) less.	3	2	2	Mage	False
+EX1_609	Snipe	Common	Spell	<b>Secret:</b> When your opponent plays a minion, deal $4 damage to it.	0	0	2	Hunter	False
+EX1_610	Explosive Trap	Common	Spell	<b>Secret:</b> When your hero is attacked, deal $2 damage to all enemies.	0	0	2	Hunter	False
+EX1_611	Freezing Trap	Common	Spell	<b>Secret:</b> When an enemy minion attacks, return it to its owner's hand and it costs (2) more.	0	0	2	Hunter	False
+EX1_611e	Trapped	Unknown	Enchantment	Will be <b>Frozen</b> again at the start of the next turn.	0	0	0	Hunter	False
+EX1_612	Kirin Tor Mage	Rare	Minion	<b>Battlecry:</b> The next <b>Secret</b> you play this turn costs (0).	4	3	3	Mage	False
+EX1_612o	Power of the Kirin Tor	Unknown	Enchantment	Your next Secret costs (0).	0	0	0	Mage	False
+EX1_613	Edwin VanCleef	Legendary	Minion	<b>Combo:</b> Gain +2/+2 for each card played earlier this turn.	2	2	3	Rogue	False
+EX1_613e	VanCleef's Vengeance	Unknown	Enchantment	Increased stats.	0	0	0	Rogue	False
+EX1_614	Illidan Stormrage	Legendary	Minion	Whenever you play a card, summon a 2/1 Flame of Azzinoth.	7	5	6	Neutral	False
+EX1_614t	Flame of Azzinoth	Unknown	Minion	Unknown	2	1	1	Neutral	False
+EX1_616	Mana Wraith	Rare	Minion	ALL minions cost (1) more.	2	2	2	Neutral	False
+EX1_617	Deadly Shot	Common	Spell	Destroy a random enemy minion.	0	0	3	Hunter	False
+EX1_619	Equality	Rare	Spell	Change the Health of ALL minions to 1.	0	0	2	Paladin	False
+EX1_619e	Equality	Unknown	Enchantment	Health changed to 1.	0	0	0	Paladin	False
+EX1_620	Molten Giant	Epic	Minion	Costs (1) less for each damage your hero has taken.	8	8	20	Neutral	False
+EX1_621	Circle of Healing	Common	Spell	Restore #4 Health to ALL minions.	0	0	0	Priest	False
+EX1_623	Temple Enforcer	Common	Minion	<b>Battlecry:</b> Give a friendly minion +3 Health.	6	6	6	Priest	False
+EX1_623e	Infusion	Unknown	Enchantment	+3 Health.	0	0	0	Priest	False
+EX1_624	Holy Fire	Rare	Spell	Deal $5 damage. Restore #5 Health to your hero.	0	0	6	Priest	False
+EX1_625	Shadowform	Epic	Spell	Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.	0	0	3	Priest	False
+EX1_625t	Mind Spike	Unknown	Hero Power	<b>Hero Power</b>Deal $2 damage.	0	0	2	Priest	False
+EX1_625t2	Mind Shatter	Unknown	Hero Power	<b>Hero Power</b>Deal $3 damage.	0	0	2	Priest	False
+EX1_626	Mass Dispel	Rare	Spell	<b>Silence</b> all enemy minions. Draw a card.	0	0	4	Priest	False
+EX1_finkle	Finkle Einhorn	Legendary	Minion	Unknown	3	3	2	Neutral	False
+EX1_tk11	Spirit Wolf	Rare	Minion	<b>Taunt</b>	2	3	2	Shaman	False
+EX1_tk28	Squirrel	Common	Minion	Unknown	1	1	1	Neutral	False
+EX1_tk29	Devilsaur	Common	Minion	Unknown	5	5	5	Neutral	False
+EX1_tk31	Mind Controlling	Common	Enchantment	Unknown	0	0	0	Priest	False
+EX1_tk33	INFERNO!	Unknown	Hero Power	<b>Hero Power</b>Summon a 6/6 Infernal.	0	0	2	Warlock	False
+EX1_tk34	Infernal	Common	Minion	Unknown	6	6	6	Warlock	False
+EX1_tk9	Treant	Common	Minion	<b>Charge</b>.  At the end of the turn, destroy this minion.	2	2	1	Druid	False
+NEW1_005	Kidnapper	Epic	Minion	<b>Combo:</b> Return a minion to its owner's hand.	5	3	6	Rogue	False
+NEW1_007	Starfall	Rare	Spell	<b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions.	0	0	5	Druid	False
+NEW1_007a	Starfall	Unknown	Spell	Deal $2 damage to all enemy minions.	0	0	0	Druid	False
+NEW1_007b	Starfall	Unknown	Spell	Deal $5 damage to a minion.	0	0	0	Druid	False
+NEW1_008	Ancient of Lore	Epic	Minion	<b>Choose One -</b> Draw 2 cards; or Restore 5 Health.	5	5	7	Druid	False
+NEW1_008a	Ancient Teachings	Unknown	Spell	Draw 2 cards.	0	0	0	Druid	False
+NEW1_008b	Ancient Secrets	Unknown	Spell	Restore 5 Health.	0	0	0	Druid	False
+NEW1_010	Al'Akir the Windlord	Legendary	Minion	<b>Windfury, Charge, Divine Shield, Taunt</b>	3	5	8	Shaman	False
+NEW1_012	Mana Wyrm	Common	Minion	Whenever you cast a spell, gain +1 Attack.	1	3	1	Mage	False
+NEW1_012o	Mana Gorged	Unknown	Enchantment	Increased attack.	0	0	0	Mage	False
+NEW1_014	Master of Disguise	Rare	Minion	<b>Battlecry:</b> Give a friendly minion <b>Stealth</b>.	4	4	4	Rogue	False
+NEW1_017	Hungry Crab	Epic	Minion	<b>Battlecry:</b> Destroy a Murloc and gain +2/+2.	1	2	1	Neutral	False
+NEW1_017e	Full Belly	Unknown	Enchantment	+2/+2.  Full of Murloc.	0	0	0	Neutral	False
+NEW1_018	Bloodsail Raider	Common	Minion	<b>Battlecry:</b> Gain Attack equal to the Attack of your weapon.	2	3	2	Neutral	False
+NEW1_018e	Treasure Crazed	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+NEW1_019	Knife Juggler	Rare	Minion	After you summon a minion, deal 1 damage to a random enemy.	3	2	2	Neutral	False
+NEW1_020	Wild Pyromancer	Rare	Minion	After you cast a spell, deal 1 damage to ALL minions.	3	2	2	Neutral	False
+NEW1_021	Doomsayer	Epic	Minion	At the start of your turn, destroy ALL minions.	0	7	2	Neutral	False
+NEW1_022	Dread Corsair	Common	Minion	<b>Taunt.</b> Costs (1) less per Attack of your weapon.	3	3	4	Neutral	False
+NEW1_023	Faerie Dragon	Common	Minion	Can't be targeted by spells or Hero Powers.	3	2	2	Neutral	False
+NEW1_024	Captain Greenskin	Legendary	Minion	<b>Battlecry:</b> Give your weapon +1/+1.	5	4	5	Neutral	False
+NEW1_024o	Greenskin's Command	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+NEW1_025	Bloodsail Corsair	Rare	Minion	<b>Battlecry:</b> Remove 1 Durability from your opponent's weapon.	1	2	1	Neutral	False
+NEW1_025e	Bolstered	Unknown	Enchantment	Increased Health.	0	0	0	Neutral	False
+NEW1_026	Violet Teacher	Rare	Minion	Whenever you cast a spell, summon a 1/1 Violet Apprentice.	3	5	4	Neutral	False
+NEW1_026t	Violet Apprentice	Unknown	Minion	Unknown	1	1	0	Neutral	False
+NEW1_027	Southsea Captain	Epic	Minion	Your other Pirates have +1/+1.	3	3	3	Neutral	False
+NEW1_027e	Yarrr!	Unknown	Enchantment	Southsea Captain is granting +1/+1.	0	0	0	Neutral	False
+NEW1_029	Millhouse Manastorm	Legendary	Minion	<b>Battlecry:</b> Enemy spells cost (0) next turn.	4	4	2	Neutral	False
+NEW1_029t	Kill Millhouse!	Legendary	Enchantment	Spells cost (0) this turn!	0	0	0	Neutral	False
+NEW1_030	Deathwing	Legendary	Minion	<b>Battlecry:</b> Destroy all other minions and discard your hand.	12	12	10	Neutral	False
+NEW1_036	Commanding Shout	Rare	Spell	Your minions can't be reduced below 1 Health this turn. Draw a card.	0	0	2	Warrior	False
+NEW1_036e	Commanding Shout	Unknown	Enchantment	Can't be reduced below 1 Health this turn.	0	0	0	Warrior	False
+NEW1_036e2	Commanding Shout	Unknown	Enchantment	Your minions can't be reduced below 1 Health this turn.	0	0	0	Warrior	False
+NEW1_037	Master Swordsmith	Rare	Minion	At the end of your turn, give another random friendly minion +1 Attack.	1	3	2	Neutral	False
+NEW1_037e	Equipped	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+NEW1_038	Gruul	Legendary	Minion	At the end of each turn, gain +1/+1 .	7	7	8	Neutral	False
+NEW1_038o	Growth	Unknown	Enchantment	Gruul is growing...	0	0	0	Neutral	False
+NEW1_040	Hogger	Legendary	Minion	At the end of your turn, summon a 2/2 Gnoll with <b>Taunt</b>.	4	4	6	Neutral	False
+NEW1_040t	Gnoll	Unknown	Minion	<b>Taunt</b>	2	2	2	Neutral	False
+NEW1_041	Stampeding Kodo	Rare	Minion	<b>Battlecry:</b> Destroy a random enemy minion with 2 or less Attack.	3	5	5	Neutral	False
+skele21	Damaged Golem	Common	Minion	Unknown	2	1	1	Neutral	False
+tt_004	Flesheating Ghoul	Common	Minion	Whenever a minion dies, gain +1 Attack.	2	3	3	Neutral	False
+tt_004o	Cannibalize	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+tt_010	Spellbender	Epic	Spell	<b>Secret:</b> When an enemy casts a spell on a minion, summon a 1/3 as the new target.	0	0	3	Mage	False
+tt_010a	Spellbender	Epic	Minion	Unknown	1	3	0	Mage	False
+CRED_01	Jason Chayes	Legendary	Minion	<b>Enrage:</b> Just kidding! He never Enrages.	7	6	6	Neutral	False
+CRED_02	Eric Dodds	Legendary	Minion	<b>Battlecry:</b> Summon a 2/2 Pirate and destroy all Ninjas.	5	5	6	Neutral	False
+CRED_03	Bob Fitch	Legendary	Minion	<b>Super Taunt</b> <i>(EVERY character must attack this minion.)</i>	2	4	3	Neutral	False
+CRED_04	Steven Gabriel	Legendary	Minion	<b>Battlecry:</b> Summon a frothy beverage.	3	3	1	Neutral	False
+CRED_05	Kyle Harrison	Legendary	Minion	<i>3 for a 5/4? That's a good deal!</i>	5	4	3	Neutral	False
+CRED_06	Derek Sakamoto	Legendary	Minion	<i>The notorious Footclapper.</i>	3	1	1	Neutral	False
+CRED_07	Zwick	Legendary	Minion	<b>Battlecry:</b> Complain about bacon prices.	2	2	2	Neutral	False
+CRED_08	Ben Brode	Legendary	Minion	Your volume can't be reduced below maximum.	4	1	3	Neutral	False
+CRED_09	Ben Thompson	Legendary	Minion	<b>Battlecry:</b> Draw some cards. With a pen.	4	7	6	Neutral	False
+CRED_10	Michael Schweitzer	Legendary	Minion	<b>C-C-C-COMBO:</b> Destroy a minion.	2	2	2	Neutral	False
+CRED_11	Jay Baxter	Legendary	Minion	<b>Battlecry:</b> Summon FIVE random Inventions.	1	4	4	Neutral	False
+CRED_12	Rachelle Davis	Legendary	Minion	<b>Battlecry:</b> Draw TWO cards. <i>She's not a novice engineer.</i>	1	2	2	Neutral	False
+CRED_13	Brian Schwab	Legendary	Minion	At the end of your turn, give a random minion +1 Attack.	10	10	10	Neutral	False
+CRED_14	Yong Woo	Legendary	Minion	Your other minions have +3 Attack and <b>Charge</b>.	3	2	5	Neutral	False
+CRED_15	Andy Brock	Legendary	Minion	Can't be <b>Silenced. Divine Shield, Stealth.</b>	1	3	1	Neutral	False
+CRED_16	Hamilton Chu	Legendary	Minion	<i>Was successfully NOT part of the problem! ...most of the time.</i>	9	5	7	Neutral	False
+CRED_17	Rob Pardo	Legendary	Minion	You can't start a game without this minion in your deck.	9	9	9	Neutral	False
+CRED_18	Becca Abel	Legendary	Minion	Whenever you draw a card, make it Golden.	2	2	2	Neutral	False
+CRED_19	Beomki Hong	Legendary	Minion	<b>Taunt.</b> Friendly minions can’t be <b>Frozen.</b>	6	3	4	Neutral	False
+CRED_20	Brian Birmingham	Legendary	Minion	<b>Choose One</b> - Restore a Mech to full Health; or Give a Designer <b>Windfury.</b>	4	2	3	Neutral	False
+CRED_21	Bryan Chang	Legendary	Minion	<b>Foodie:</b> Make all minions edible.	1	3	1	Neutral	False
+CRED_22	Cameron Chrisman	Legendary	Minion	While this is in your hand, Golden cards cost (1) less.	3	3	3	Neutral	False
+CRED_23	Christopher Yim	Legendary	Minion	<b>Battlecry:</b> Your emotes are now spoken in "Radio Voice."	6	5	4	Neutral	False
+CRED_24	Dean Ayala	Legendary	Minion	You can't lose stars while this is in your deck.	7	5	7	Neutral	False
+CRED_25	Elizabeth Cho	Legendary	Minion	<b>Battlecry:</b> Add Echo of Medivh and Echoing Ooze to your hand. 	2	4	4	Neutral	False
+CRED_26	Eric Del Priore	Legendary	Minion	Has <b>Taunt</b> if it's 3 AM.	1	6	3	Neutral	False
+CRED_27	Henry Ho	Legendary	Minion	<b>Battlecry:</b> Spectate your opponent's hand.	3	4	3	Neutral	False
+CRED_28	He-Rim Woo	Legendary	Minion	<b>Choose One</b> - Punch an arm; Offer a treat; or Give a big hug.	4	3	4	Neutral	False
+CRED_29	Jason MacAllister	Legendary	Minion	<i>He's a real stand-up guy.</i>	6	5	5	Neutral	False
+CRED_30	JC Park	Legendary	Minion	<b>Battlecry:</b> Add a new platform for Hearthstone.	2	4	7	Neutral	False
+CRED_31	Jeremy Cranford	Legendary	Minion	When the game starts, this card climbs to the top of the deck.	5	4	4	Neutral	False
+CRED_32	Jerry Mascho	Legendary	Minion	At the start of your turn, deal 1 damage. If this card is golden, deal 1 damage at the end of your turn instead. THIS IS A HAN SOLO JOKE.	3	2	2	Neutral	False
+CRED_33	Jomaro Kindred	Legendary	Minion	<b>Battlecry:</b> TAKE any cards from your opponent's hand that they don't want.	7	6	6	Neutral	False
+CRED_34	Max Ma	Legendary	Minion	Can only be played on a mobile device.	6	3	3	Neutral	False
+CRED_35	Max McCall	Legendary	Minion	Your emotes have no cooldown and can't be squelched.	9	2	4	Neutral	False
+CRED_36	Mike Donais	Legendary	Minion	<b>Battlecry:</b> Replace all minions in the battlefield, in both hands, and in both decks with random minions.	4	8	6	Neutral	False
+CRED_37	Ricardo Robaina	Legendary	Minion	<b>Battlecry:</b> Summon three 1/1 Chinchillas.	3	4	4	Neutral	False
+CRED_38	Robin Fredericksen	Legendary	Minion	<b>Battlecry:</b> If you have no other Erics on the battlefield, rename this card to "Eric".	4	4	4	Neutral	False
+CRED_39	Ryan Chew	Legendary	Minion	<b>Chews One</b> - Sing karaoke; or Leave on time and tell everyone about it.	2	3	2	Neutral	False
+CRED_40	Ryan Masterson	Legendary	Minion	<b>Battlecry:</b> Cast copies of Backstab, Cold Blood, and Eviscerate. <i>(targets chosen randomly).</i>	7	2	4	Rogue	False
+CRED_41	Seyil Yoon	Legendary	Minion	<b>Battlecry:</b> Add 3 Sprints and a Marathon to your hand.	2	9	5	Neutral	False
+CRED_42	Tim Erskine	Legendary	Minion	Whenever this minion destroys another minion, draw a card.	3	5	4	Neutral	False
+CRED_43	Jon Bankard	Legendary	Minion	50% chance to be 100% right.	5	5	5	Neutral	False
+CRED_44	Walter Kong	Legendary	Minion	<b>Battlecry:</b> Deal 1 damage to each of 2 strategic targets.	3	2	4	Neutral	False
+CRED_45	Jonas Laster	Legendary	Minion	Whenever a <b>Silenced</b> minion dies, gain +1/+1.	6	6	6	Neutral	False
+CRED_46	Keith Landes	Legendary	Minion	At the start of your turn, get -2 Health due to hunger.	2	6	2	Neutral	False
+CS2_034_H1	Fireblast	Free	Hero Power	<b>Hero Power</b>Deal $1 damage.	0	0	2	Mage	False
+CS2_034_H1_AT_132	Fireblast Rank 2	Unknown	Hero Power	<b>Hero Power</b>Deal $2 damage.	0	0	2	Mage	False
+CS2_101_H1	Reinforce	Free	Hero Power	<b>Hero Power</b>Summon a 1/1 Silver Hand Recruit.	0	0	2	Paladin	False
+CS2_102_H1	Armor Up!	Free	Hero Power	<b>Hero Power</b>Gain 2 Armor.	0	0	2	Warrior	False
+CS2_102_H1_AT_132	Tank Up!	Unknown	Hero Power	<b>Hero Power</b>Gain 4 Armor.	0	0	2	Warrior	False
+DS1h_292_H1	Steady Shot	Free	Hero Power	<b>Hero Power</b>Deal $2 damage to the enemy hero.	0	0	2	Hunter	False
+DS1h_292_H1_AT_132	Ballista Shot	Unknown	Hero Power	<b>Hero Power</b>Deal $3 damage to the enemy hero.	0	0	2	Hunter	False
+HERO_01a	Magni Bronzebeard	Epic	Hero	Unknown	0	30	0	Warrior	False
+HERO_05a	Alleria Windrunner	Epic	Hero	Unknown	0	30	0	Hunter	False
+HERO_08a	Medivh	Epic	Hero	Unknown	0	30	0	Mage	False
+BRMA01_2H_2_TB	Pile On!!!	Unknown	Hero Power	<b>Hero Power</b>Put a minion from each deck into the battlefield.	0	0	2	Neutral	False
+BRMA02_2_2c_TB	Jeering Crowd	Unknown	Spell	Summon a 1/1 Spectator with <b>Taunt</b>.	0	0	0	Neutral	False
+BRMA02_2_2_TB	Jeering Crowd	Unknown	Hero Power	<b>Hero Power</b>Summon a 1/1 Spectator with <b>Taunt</b>.	0	0	2	Neutral	False
+BRMA06_2H_TB	The Majordomo	Unknown	Hero Power	<b>Hero Power</b>Summon a 3/3 Flamewaker Acolyte.	0	0	2	Neutral	False
+BRMA07_2_2c_TB	ME SMASH	Unknown	Spell	Destroy a random enemy minion.	0	0	0	Neutral	False
+BRMA07_2_2_TB	ME SMASH	Unknown	Hero Power	<b>Hero Power</b>Destroy a random enemy minion.	0	0	2	Neutral	False
+BRMA09_2_TB	Open the Gates	Unknown	Hero Power	<b>Hero Power</b>Summon three 1/1 Whelps.	0	0	2	Neutral	False
+BRMA13_4_2_TB	Wild Magic	Unknown	Hero Power	<b>Hero Power</b>Put a random spell from your opponent's class into your hand.	0	0	2	Neutral	False
+BRMA14_10H_TB	Activate!	Unknown	Hero Power	<b>Hero Power</b>Activate a random Tron.	0	0	2	Neutral	False
+BRMA17_5_TB	Bone Minions	Unknown	Hero Power	<b>Hero Power</b>Summon two 2/1 Bone Constructs.	0	0	2	Neutral	False
+BRMC_100	Living Bomb	Unknown	Spell	Choose an enemy minion. If it lives until your next turn, deal 5 damage to all enemies.	0	0	3	Neutral	False
+BRMC_100e	Living Bomb	Unknown	Enchantment	On Ragnaros' turn, deal 5 damage to this side of the board.	0	0	0	Neutral	False
+BRMC_83	Open the Gates	Unknown	Spell	Fill your board with 2/2 Whelps.	0	0	8	Neutral	False
+BRMC_84	Dragonkin Spellcaster	Unknown	Minion	<b>Battlecry:</b> Summon two 2/2 Whelps.	4	6	5	Neutral	False
+BRMC_85	Lucifron	Legendary	Minion	<b>Battlecry:</b> Cast Corruption on all other minions.	4	7	4	Neutral	False
+BRMC_86	Atramedes	Legendary	Minion	Whenever your opponent plays a card, gain +2 Attack.	2	8	4	Neutral	False
+BRMC_86e	I Hear You...	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+BRMC_87	Moira Bronzebeard	Legendary	Minion	<b>Deathrattle:</b> Summon Emperor Thaurissan.	4	3	3	Neutral	False
+BRMC_88	Drakonid Slayer	Unknown	Minion	Also damages the minions next to whomever he attacks.	6	6	6	Neutral	False
+BRMC_89	Whirling Ash	Unknown	Minion	<b>Windfury</b>	4	5	2	Neutral	False
+BRMC_90	Living Lava	Unknown	Minion	<b>Taunt</b>	6	6	2	Neutral	False
+BRMC_91	Son of the Flame	Unknown	Minion	<b>Battlecry:</b> Deal 6 damage.	6	3	3	Neutral	False
+BRMC_92	Coren Direbrew	Legendary	Minion	Always wins Brawls.<b>Battlecry:</b> Add a Brawl to your hand.	4	8	4	Neutral	False
+BRMC_93	Omnotron Defense System	Unknown	Spell	Summon a random Tron.	0	0	3	Neutral	False
+BRMC_94	Sulfuras	Unknown	Weapon	<b>Deathrattle:</b> Your Hero Power becomes 'Deal 8 damage to a random enemy'.	2	0	2	Neutral	False
+BRMC_95	Golemagg	Legendary	Minion	Costs (1) less for each damage your hero has taken.	20	20	50	Neutral	False
+BRMC_95h	Core Hound Puppies	Unknown	Spell	Summon two 2/4 Core Hound Pups.	0	0	3	Neutral	False
+BRMC_95he	Core Hound Pup	Unknown	Minion	At the end of each turn, summon all Core Hound Pups that died this turn.	2	4	3	Neutral	False
+BRMC_96	High Justice Grimstone	Legendary	Minion	At the start of your turn, summon a <b>Legendary</b> minion.	4	5	3	Neutral	False
+BRMC_97	Vaelastrasz	Legendary	Minion	Your cards cost (3) less.	7	7	6	Neutral	False
+BRMC_97e	Burning Adrenaline	Unknown	Enchantment	Costs (2) less.	0	0	0	Neutral	False
+BRMC_98	Razorgore	Legendary	Minion	At the start of your turn, give your minions +3 Attack.	4	12	6	Neutral	False
+BRMC_98e	Dragonlust	Unknown	Enchantment	+3 Attack.	0	0	0	Neutral	False
+BRMC_99	Garr	Legendary	Minion	Whenever this minion takes damage, summon a 2/3 Elemental with <b>Taunt</b>.	4	8	5	Neutral	False
+BRMC_99e	Rock Elemental	Unknown	Minion	<b>Taunt</b>	2	3	2	Neutral	False
+HRW02_1e	Gear Up	Unknown	Enchantment	Increased Attack.	0	0	1	Neutral	False
+NAX11_02H_2_TB	Poison Cloud	Unknown	Hero Power	<b>Hero Power</b>Deal 1 damage to all enemy minions. If any die, summon a slime.	0	0	2	Neutral	False
+NAX12_02H_2c_TB	Decimate	Unknown	Spell	Change the Health of enemy minions to 1.	0	0	1	Neutral	False
+NAX12_02H_2_TB	Decimate	Unknown	Hero Power	<b>Hero Power</b>Change the Health of enemy minions to 1.	0	0	2	Neutral	False
+NAX3_02_TB	Web Wrap	Unknown	Hero Power	<b>Hero Power</b>Return a random enemy minion to your opponent's hand.	0	0	2	Neutral	False
+NAX8_02H_TB	Harvest	Unknown	Hero Power	<b>Hero Power</b>Draw a card. Gain a Mana Crystal.	0	0	2	Neutral	False
+TBA01_1	Ragnaros the Firelord	Unknown	Hero	Unknown	0	60	0	Neutral	False
+TBA01_4	Nefarian	Unknown	Hero	Unknown	0	30	0	Neutral	False
+TBA01_5	Wild Magic	Unknown	Hero Power	<b>Hero Power</b>Add a random spell from any class to your hand. It costs (0).	0	0	2	Neutral	False
+TBA01_6	Molten Rage	Unknown	Hero Power	<b>Hero Power</b>Summon a 5/1 Magma Rager.	0	0	2	Neutral	False
+TBST_001	OLDN3wb Tank	Unknown	Minion	<b>Taunt</b>	2	2	1	Neutral	False
+TBST_002	OLDN3wb Mage	Unknown	Minion	At the end of your turn, deal 1 damage to random enemy minion.	2	1	1	Neutral	False
+TBST_003	OLDN3wb Healer	Unknown	Minion	At the end of your turn, heal 2 damage from adjacent minions.	1	1	1	Neutral	False
+TBST_004	OLDLegit Healer	Unknown	Minion	At the end of your turn, summon a random friendly minion that died this turn.	2	2	3	Neutral	False
+TBST_005	OLDPvP Rogue	Unknown	Minion	<b>Stealth</b>Regain <b>Stealth</b> when PvP Rogue kills a minion.	3	6	3	Neutral	False
+TBST_006	OLDTBST Push Common Card	Unknown	Enchantment	push a common card into player's hand	0	0	0	Neutral	False
+TBUD_1	TBUD Summon Early Minion	Unknown	Enchantment	Each turn, if you have less health then a your opponent, summon a free minion	0	0	0	Neutral	False
+TB_001	Boss HP Swapper	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_006	Big Banana	Unknown	Spell	Give a minion +2/+2.	0	0	1	Neutral	False
+TB_006e	Big Banana	Unknown	Enchantment	Has +2/+2.	0	0	0	Neutral	False
+TB_007	Deviate Banana	Unknown	Spell	Swap a minion's Attack and Health.	0	0	1	Neutral	False
+TB_007e	Deviate Switch	Unknown	Enchantment	Attack and Health have been swapped by Deviate Banana.	0	0	0	Neutral	False
+TB_008	Rotten Banana	Unknown	Spell	Deal $1 damage.	0	0	1	Neutral	False
+TB_009	Create 15 Secrets	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_010	Deckbuilding Enchant	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_010e	Choose One of Three	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_011	Tarnished Coin	Unknown	Spell	Gain 1 Mana Crystal this turn only.	0	0	0	Neutral	False
+TB_012	Choose a New Card!	Unknown	Spell	Look at 3 random cards. Choose one and shuffle it into your deck.	0	0	0	Neutral	False
+TB_013	Player Choice Enchant	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_014	Choose a New Card!	Unknown	Spell	Look at 3 random cards. Choose one and put it into your hand.	0	0	0	Neutral	False
+TB_015	Pirate	Unknown	Minion	Unknown	2	3	2	Neutral	False
+TB_CoOpBossSpell_1	Prioritize	Unknown	Spell	Deal Attack damage to biggest minion.	0	0	0	Neutral	False
+TB_CoOpBossSpell_2	Bomb Salvo	Unknown	Spell	Deal Attack damage to up to 3 random targets.	0	0	0	Neutral	False
+TB_CoOpBossSpell_3	Release Coolant	Unknown	Spell	Freeze and deal Attack damage to all minions.Gain 2 Attack.	0	0	0	Neutral	False
+TB_CoOpBossSpell_4	Overclock	Unknown	Spell	Gain 2 Attack.	0	0	0	Neutral	False
+TB_CoOpBossSpell_5	Double Zap	Unknown	Spell	Deal Attack damage to both players.	0	0	0	Neutral	False
+TB_CoOpBossSpell_6	Kill the Lorewalker	Unknown	Spell	Destroy Lorewalker Cho.	0	0	0	Neutral	False
+TB_CoOp_Mechazod	Gearmaster Mechazod	Legendary	Minion	<b>Boss</b>Mechazod wins if he defeats either of you!	2	95	10	Neutral	False
+TB_EndlessMinions01	Endless Enchantment	Unknown	Enchantment	+2/+2.	0	0	0	Neutral	False
+TB_FactionWar_BoomBot	TBFactionWarBoomBot	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_FactionWar_BoomBot_Spell	TBFactionWarBoomBotSpell	Unknown	Spell	Unknown	0	0	1	Neutral	False
+TB_FactionWar_Boss_BoomBot	FactionWar_BoomBot	Unknown	Hero	Unknown	0	30	0	Neutral	False
+TB_GreatCurves_01	TB_ClockworkCardDealer	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_MechWar_Boss1	Annoy-o-Tron	Free	Hero	Unknown	0	30	0	Neutral	False
+TB_MechWar_Boss1_HeroPower	Hello! Hello! Hello!	Unknown	Hero Power	<b>Hero Power</b>Give your lowest attack minion <b>Divine Shield</b> and <b>Taunt</b>.	0	0	2	Neutral	False
+TB_MechWar_Boss2	Boom Bot	Free	Hero	Unknown	0	30	0	Neutral	False
+TB_MechWar_Boss2_HeroPower	Boom Bot Jr.	Unknown	Hero Power	<b>Hero Power</b>Deal 1 damage to 2 random enemies.	0	0	2	Neutral	False
+TB_MechWar_CommonCards	TBMechWarCommonCards	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_Pilot1	Mystery Pilot	Unknown	Enchantment	Who could it be?!	0	0	0	Neutral	False
+TB_RandCardCost	TBRandomCardCost	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_RandHero2_001	TB_EnchWhosTheBossNow	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+TB_RMC_001	TB_EnchRandomManaCost	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+EX1_062	Old Murk-Eye	Legendary	Minion	<b>Charge</b>. Has +1 Attack for each other Murloc on the battlefield.	2	4	4	Neutral	False
+NEW1_016	Captain's Parrot	Epic	Minion	<b>Battlecry:</b> Put a random Pirate from your deck into your hand.	1	1	2	Neutral	False
+TU4a_001	Hogger	Common	Hero	Unknown	0	10	0	Neutral	False
+TU4a_002	Riverpaw Gnoll	Common	Minion	Unknown	2	1	1	Neutral	False
+TU4a_003	Gnoll	Common	Minion	Unknown	1	1	1	Neutral	False
+TU4a_004	Hogger SMASH!	Common	Spell	Deal 4 damage.	0	0	3	Neutral	False
+TU4a_005	Massive Gnoll	Common	Minion	Unknown	5	2	4	Neutral	False
+TU4a_006	Jaina Proudmoore	Common	Hero	Unknown	0	27	0	Mage	False
+TU4b_001	Millhouse Manastorm	Common	Hero	Unknown	0	20	0	Mage	False
+TU4c_001	King Mukla	Common	Hero	Unknown	0	26	0	Neutral	False
+TU4c_002	Barrel Toss	Common	Spell	Deal 2 damage.	0	0	1	Neutral	False
+TU4c_003	Barrel	Common	Minion	Is something in this barrel?	0	2	0	Neutral	False
+TU4c_004	Stomp	Common	Spell	Deal 2 damage to all enemies.	0	0	2	Neutral	False
+TU4c_005	Hidden Gnome	Common	Minion	Was hiding in a barrel!	1	3	2	Neutral	False
+TU4c_006	Bananas	Common	Spell	Give a friendly minion +1/+1. <i>(+1 Attack/+1 Health)</i>	0	0	1	Neutral	False
+TU4c_006e	Bananas	Unknown	Enchantment	This minion has +1/+1. <i>(+1 Attack/+1 Health)</i>	0	0	0	Neutral	False
+TU4c_007	Mukla's Big Brother	Common	Minion	So strong! And only 6 Mana?!	10	10	6	Neutral	False
+TU4c_008	Will of Mukla	Common	Spell	Restore 8 Health.	0	0	3	Neutral	False
+TU4c_008e	Might of Mukla	Unknown	Enchantment	King Mukla has +8 Attack this turn.	0	0	0	Neutral	False
+TU4d_001	Hemet Nesingwary	Common	Hero	Unknown	0	20	0	Hunter	False
+TU4d_002	Crazed Hunter	Common	Minion	Unknown	1	1	1	Neutral	False
+TU4d_003	Shotgun Blast	Common	Hero Power	<b>Hero Power</b>Deal 1 damage.	0	0	2	Hunter	False
+TU4e_001	Illidan Stormrage	Unknown	Hero	Unknown	0	30	0	Hunter	False
+TU4e_002	Flames of Azzinoth	Unknown	Hero Power	<b>Hero Power</b>Summon two 2/1 minions.	0	0	2	Neutral	False
+TU4e_002t	Flame of Azzinoth	Common	Minion	Unknown	2	1	1	Neutral	False
+TU4e_003	Naga Myrmidon	Common	Minion	<b></b> 	1	1	1	Neutral	False
+TU4e_004	Warglaive of Azzinoth	Common	Weapon	Unknown	2	0	2	Neutral	False
+TU4e_005	Flame Burst	Common	Spell	Shoot 5 missiles at random enemies for $1 damage each.	0	0	3	Neutral	False
+TU4e_007	Dual Warglaives	Common	Weapon	Unknown	4	0	6	Neutral	False
+TU4f_001	Lorewalker Cho	Unknown	Hero	Unknown	0	25	0	Neutral	False
+TU4f_002	Pandaren Scout	Common	Minion	Unknown	1	1	1	Neutral	False
+TU4f_003	Shado-Pan Monk	Common	Minion	Unknown	2	2	2	Neutral	False
+TU4f_004	Legacy of the Emperor	Common	Spell	Give your minions +2/+2. <i>(+2 Attack/+2 Health)</i>	0	0	3	Neutral	False
+TU4f_004o	Legacy of the Emperor	Unknown	Enchantment	Has +2/+2. <i>(+2 Attack/+2 Health)</i>	0	0	0	Neutral	False
+TU4f_005	Brewmaster	Common	Minion	Unknown	4	4	4	Neutral	False
+TU4f_006	Transcendence	Common	Spell	Until you kill Cho's minions, he can't be attacked.	0	0	1	Neutral	False
+TU4f_006o	Transcendence	Unknown	Enchantment	Until you kill Cho's minions, he can't be attacked.	0	0	0	Neutral	False
+TU4f_007	Crazy Monkey	Common	Minion	<b>Battlecry:</b> Throw Bananas.	1	2	1	Neutral	False
+XXX_001	Damage 1	Common	Spell	Deal 1 damage.	0	0	0	Neutral	False
+XXX_002	Damage 5	Common	Spell	Deal 5 damage.	0	0	0	Neutral	False
+XXX_003	Restore 1	Common	Spell	Restore 1 Health to a character.	0	0	0	Neutral	False
+XXX_004	Restore 5	Common	Spell	Restore 5 Health to a character.	0	0	0	Neutral	False
+XXX_005	Destroy	Common	Spell	Destroy a minion or hero.	0	0	0	Neutral	False
+XXX_006	Break Weapon	Common	Spell	Destroy a hero's weapon.	0	0	0	Neutral	False
+XXX_007	Enable for Attack	Common	Spell	Give a character Charge and make him able to attack!	0	0	0	Neutral	False
+XXX_008	Freeze	Common	Spell	<b>Freeze</b> a character.	0	0	0	Neutral	False
+XXX_009	Enchant	Common	Spell	Enchant a minion with an empty enchant.	0	0	0	Neutral	False
+XXX_009e	Empty Enchant	Common	Enchantment	This enchantment does nothing.	0	0	0	Neutral	False
+XXX_010	Silence - debug	Common	Spell	Remove all enchantments and powers from a minion.	0	0	0	Neutral	False
+XXX_011	Summon a random Secret	Common	Spell	Summon a secret from your deck.	0	0	0	Neutral	False
+XXX_012	Bounce	Common	Spell	Return a minion to its owner's hand.	0	0	0	Neutral	False
+XXX_013	Discard	Common	Spell	Choose a hero.  That hero's controller discards his hand.	0	0	0	Neutral	False
+XXX_014	Mill 10	Common	Spell	Put 10 cards from a hero's deck into his graveyard.	0	0	0	Neutral	False
+XXX_015	Crash	Common	Spell	Crash the game.	0	0	0	Neutral	False
+XXX_016	Snake Ball	Unknown	Spell	Summon five 1/1 snakes.	0	0	0	Neutral	False
+XXX_017	Draw 3 Cards	Common	Spell	Draw 3 cards.	0	0	0	Neutral	False
+XXX_018	Destroy All Minions	Common	Spell	Destroy all minions.	0	0	0	Neutral	False
+XXX_019	Molasses	Common	Spell	You can take as long as you want on your turn.	0	0	0	Neutral	False
+XXX_020	Damage all but 1	Common	Spell	Set the Health of a character to 1.	0	0	0	Neutral	False
+XXX_021	Restore All Health	Common	Spell	Restore all Health to a character.	0	0	0	Neutral	False
+XXX_022	Free Cards	Common	Spell	Your cards cost (0) for the rest of the game.	0	0	0	Neutral	False
+XXX_022e	Free Cards	Unknown	Enchantment	Your cards cost (0) for the rest of the game.	0	0	0	Neutral	False
+XXX_023	Destroy All Heroes	Common	Spell	Destroy all heroes.	0	0	0	Neutral	False
+XXX_024	Damage Reflector	Common	Minion	Whenever this minion takes damage, deal 1 damage to ALL other characters.	3	10	0	Neutral	False
+XXX_025	Do Nothing	Common	Spell	This does nothing.	0	0	0	Neutral	False
+XXX_026	Enable Emotes	Common	Spell	Enable emotes for your VS.AI game. (not in tutorials, though)	0	0	0	Neutral	False
+XXX_027	Server Crash	Unknown	Spell	Crash the Server.  DON'T BE A FOOL.	0	0	0	Neutral	False
+XXX_028	Reveal Hand	Common	Spell	Unknown	0	0	0	Neutral	False
+XXX_029	Opponent Concede	Unknown	Spell	Force your opponent to concede.	0	0	0	Neutral	False
+XXX_030	Opponent Disconnect	Common	Spell	Force your opponnet to disconnect.	0	0	0	Neutral	False
+XXX_039	Become Hogger	Unknown	Spell	Become Hogger for Video Recording.	0	0	0	Neutral	False
+XXX_040	Hogger	Unknown	Hero	Unknown	0	10	0	Warrior	False
+XXX_041	Destroy Hero Power	Common	Spell	Destroy a player's Hero Power.	0	0	0	Neutral	False
+XXX_042	Hand to Deck	Common	Spell	Shuffle a player's hand into his deck.	0	0	0	Neutral	False
+XXX_043	Mill 30	Common	Spell	Put 30 cards from a hero's deck into his graveyard.	0	0	0	Neutral	False
+XXX_044	Hand Swapper Minion	Common	Minion	<b>Battlecry:</b> Discard 3 cards, then draw 3 cards.	5	5	0	Neutral	False
+XXX_045	Steal Card	Common	Spell	Steal a random card from your opponent.	0	0	0	Neutral	False
+XXX_046	Force AI to Use Hero Power	Common	Spell	Force the AI to use their Hero Power every turn from now on.	0	0	0	Neutral	False
+XXX_047	Destroy Deck	Common	Spell	Delete an opponent's deck	0	0	0	Neutral	False
+XXX_048	-1 Durability	Common	Spell	Give a player's weapon -1 Durability.	0	0	0	Neutral	False
+XXX_049	Destroy all Mana	Common	Spell	Destroy all of a player's Mana Crystals.	0	0	0	Neutral	False
+XXX_050	Destroy a Mana Crystal	Common	Spell	Pick a player and destroy one of his Mana Crystals.	0	0	0	Neutral	False
+XXX_051	Make Immune	Common	Spell	Permanently make a character <b>Immune</b>.	0	0	0	Neutral	False
+XXX_052	Grant Mega-Windfury	Common	Spell	Give a minion <b>Mega-Windfury</b>.	0	0	0	Neutral	False
+XXX_053	Armor 100	Unknown	Spell	Give target Hero +100 Armor	0	0	0	Neutral	False
+XXX_054	Weapon Buff	Unknown	Spell	Give your Weapon +100/+100	0	0	0	Neutral	False
+XXX_054e	Weapon Buff Enchant	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+XXX_055	1000 Stats	Unknown	Spell	Give a Minion +1000/+1000	0	0	0	Neutral	False
+XXX_055e	1000 Stats Enchant	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+XXX_056	Silence Destroy	Unknown	Spell	Silence and Destroy ALL Minions.	0	0	0	Neutral	False
+XXX_057	Destroy Target Secrets	Unknown	Spell	Choose a hero. Destroy all <b>Secrets</b> controlled by that hero.	0	0	0	Neutral	False
+XXX_058	Weapon Nerf	Common	Spell	Give a weapon a negative enchantment.	0	0	0	Neutral	False
+XXX_058e	Weapon Nerf Enchant	Unknown	Enchantment	Red Sparkles!	0	0	0	Neutral	False
+XXX_059	Destroy Hero's Stuff	Unknown	Spell	Destroy target hero's hero power, weapon, deck, hand, minions, and secrets.	0	0	0	Neutral	False
+XXX_060	Damage All	Unknown	Spell	Set the Health of a character to 0.	0	0	0	Neutral	False
+XXX_061	Armor 1	Unknown	Spell	Give target Hero +1 Armor	0	0	0	Neutral	False
+XXX_062	Armor 5	Unknown	Spell	Give target Hero +5 Armor	0	0	0	Neutral	False
+XXX_063	Destroy ALL Secrets	Unknown	Spell	Destroy all <b>Secrets:</b>.	0	0	0	Neutral	False
+XXX_094	AI Buddy - Blank Slate	Unknown	Minion	Spawn into play to clear the entire board, both hands, both decks, all mana and all secrets.	1	1	0	Neutral	False
+XXX_095	AI Buddy - All Charge!	Unknown	Minion	Spawn into play to give all minions <b>Charge</b>.	1	1	0	Neutral	False
+XXX_096	AI Buddy - Damage Own Hero 5	Unknown	Minion	Spawn into play to smack your own hero for 5.	1	1	0	Neutral	False
+XXX_097	AI Buddy - Destroy Minions	Unknown	Minion	Spawn into play to destroy all minions.	1	1	0	Neutral	False
+XXX_098	AI Buddy - No Deck/Hand	Unknown	Minion	Spawn into play to destroy the AI's Hand and Deck.	1	1	0	Neutral	False
+XXX_099	AI Helper Buddy	Unknown	Minion	Get the AI ready for testing.	1	1	0	Neutral	False
+EX1_112	Gelbin Mekkatorque	Legendary	Minion	<b>Battlecry:</b> Summon an AWESOME invention.	6	6	6	Neutral	False
+Mekka1	Homing Chicken	Common	Minion	At the start of your turn, destroy this minion and draw 3 cards.	0	1	1	Neutral	False
+Mekka2	Repair Bot	Common	Minion	At the end of your turn, restore 6 Health to a damaged character.	0	3	1	Neutral	False
+Mekka3	Emboldener 3000	Common	Minion	At the end of your turn, give a random minion +1/+1.	0	4	1	Neutral	False
+Mekka3e	Emboldened!	Unknown	Enchantment	Increased Stats.	0	0	0	Neutral	False
+Mekka4	Poultryizer	Common	Minion	At the start of your turn, transform a random minion into a 1/1 Chicken.	0	3	1	Neutral	False
+Mekka4e	Transformed	Unknown	Enchantment	Has been transformed into a chicken!	0	0	0	Neutral	False
+Mekka4t	Chicken	Unknown	Minion	<i>Hey Chicken!</i>	1	1	0	Neutral	False
+PRO_001	Elite Tauren Chieftain	Legendary	Minion	<b>Battlecry:</b> Give both players the power to ROCK! (with a Power Chord card)	5	5	5	Neutral	False
+PRO_001a	I Am Murloc	Unknown	Spell	Summon three, four, or five 1/1 Murlocs.	0	0	4	Neutral	False
+PRO_001at	Murloc	Unknown	Minion	Unknown	1	1	0	Neutral	False
+PRO_001b	Rogues Do It...	Unknown	Spell	Deal $4 damage. Draw a card.	0	0	4	Neutral	False
+PRO_001c	Power of the Horde	Unknown	Spell	Summon a random Horde Warrior.	0	0	4	Neutral	False
+FP1_001	Zombie Chow	Common	Minion	<b>Deathrattle:</b> Restore 5 Health to the enemy hero.	2	3	1	Neutral	False
+FP1_002	Haunted Creeper	Common	Minion	<b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.	1	2	2	Neutral	False
+FP1_002t	Spectral Spider	Unknown	Minion	Unknown	1	1	1	Neutral	False
+FP1_003	Echoing Ooze	Epic	Minion	<b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.	1	2	2	Neutral	False
+FP1_004	Mad Scientist	Common	Minion	<b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.	2	2	2	Neutral	False
+FP1_005	Shade of Naxxramas	Epic	Minion	<b>Stealth.</b> At the start of your turn, gain +1/+1.	2	2	3	Neutral	False
+FP1_005e	Consume	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+FP1_006	Deathcharger	Unknown	Minion	<b>Charge. Deathrattle:</b> Deal 3 damage to your hero.	2	3	1	Neutral	False
+FP1_007	Nerubian Egg	Rare	Minion	<b>Deathrattle:</b> Summon a 4/4 Nerubian.	0	2	2	Neutral	False
+FP1_007t	Nerubian	Rare	Minion	Unknown	4	4	3	Neutral	False
+FP1_008	Spectral Knight	Common	Minion	Can't be targeted by spells or Hero Powers.	4	6	5	Neutral	False
+FP1_009	Deathlord	Rare	Minion	<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.	2	8	3	Neutral	False
+FP1_010	Maexxna	Legendary	Minion	Destroy any minion damaged by this minion.	2	8	6	Neutral	False
+FP1_011	Webspinner	Common	Minion	<b>Deathrattle:</b> Add a random Beast card to your hand.	1	1	1	Hunter	False
+FP1_012	Sludge Belcher	Rare	Minion	<b>Taunt.Deathrattle:</b> Summon a 1/2 Slime with <b>Taunt</b>.	3	5	5	Neutral	False
+FP1_012t	Slime	Unknown	Minion	<b>Taunt</b>	1	2	1	Neutral	False
+FP1_013	Kel'Thuzad	Legendary	Minion	At the end of each turn, summon all friendly minions that died this turn.	6	8	8	Neutral	False
+FP1_014	Stalagg	Legendary	Minion	<b>Deathrattle:</b> If Feugen also died this game, summon Thaddius.	7	4	5	Neutral	False
+FP1_014t	Thaddius	Legendary	Minion	Unknown	11	11	10	Neutral	False
+FP1_015	Feugen	Legendary	Minion	<b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius.	4	7	5	Neutral	False
+FP1_016	Wailing Soul	Rare	Minion	<b>Battlecry: Silence</b> your other minions.	3	5	4	Neutral	False
+FP1_017	Nerub'ar Weblord	Common	Minion	Minions with <b>Battlecry</b> cost (2) more.	1	4	2	Neutral	False
+FP1_018	Duplicate	Common	Spell	<b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand.	0	0	3	Mage	False
+FP1_019	Poison Seeds	Common	Spell	Destroy all minions and summon 2/2 Treants to replace them.	0	0	4	Druid	False
+FP1_019t	Treant	Unknown	Minion	Unknown	2	2	1	Druid	False
+FP1_020	Avenge	Common	Spell	<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.	0	0	1	Paladin	False
+FP1_020e	Vengeance	Unknown	Enchantment	+3/+2.	0	0	0	Paladin	False
+FP1_021	Death's Bite	Common	Weapon	<b>Deathrattle:</b> Deal 1 damage to all minions.	4	0	4	Warrior	False
+FP1_022	Voidcaller	Common	Minion	<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.	3	4	4	Warlock	False
+FP1_023	Dark Cultist	Common	Minion	<b>Deathrattle:</b> Give a random friendly minion +3 Health.	3	4	3	Priest	False
+FP1_023e	Power of the Ziggurat	Unknown	Enchantment	+3 Health.	0	0	0	Priest	False
+FP1_024	Unstable Ghoul	Common	Minion	<b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions.	1	3	2	Neutral	False
+FP1_025	Reincarnate	Common	Spell	Destroy a minion, then return it to life with full Health.	0	0	2	Shaman	False
+FP1_026	Anub'ar Ambusher	Common	Minion	<b>Deathrattle:</b> Return a random friendly minion to your hand.	5	5	4	Rogue	False
+FP1_027	Stoneskin Gargoyle	Common	Minion	At the start of your turn, restore this minion to full Health.	1	4	3	Neutral	False
+FP1_028	Undertaker	Common	Minion	Whenever you summon a minion with <b>Deathrattle</b>, gain +1 Attack.	1	2	1	Neutral	False
+FP1_028e	Darkness Calls	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+FP1_029	Dancing Swords	Common	Minion	<b>Deathrattle:</b> Your opponent draws a card.	4	4	3	Neutral	False
+FP1_030	Loatheb	Legendary	Minion	<b>Battlecry:</b> Enemy spells cost (5) more next turn.	5	5	5	Neutral	False
+FP1_030e	Necrotic Aura	Unknown	Enchantment	Your spells cost (5) more this turn.	0	0	0	Neutral	False
+FP1_031	Baron Rivendare	Legendary	Minion	Your minions trigger their <b>Deathrattles</b> twice.	1	7	4	Neutral	False
+NAX10_01	Patchwerk	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX10_01H	Patchwerk	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX10_02	Hook	Unknown	Weapon	<b>Deathrattle:</b> Put this weapon into your hand.	5	0	3	Neutral	False
+NAX10_02H	Hook	Unknown	Weapon	<b>Windfury</b><b>Deathrattle:</b> Put this weapon into your hand.	4	0	3	Neutral	False
+NAX10_03	Hateful Strike	Unknown	Hero Power	<b>Hero Power</b>Destroy a minion.	0	0	4	Neutral	False
+NAX10_03H	Hateful Strike	Unknown	Hero Power	<b>Hero Power</b>Destroy a minion.	0	0	4	Neutral	False
+NAX11_01	Grobbulus	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX11_01H	Grobbulus	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX11_02	Poison Cloud	Unknown	Hero Power	<b>Hero Power</b>Deal 1 damage to all minions. If any die, summon a slime.	0	0	2	Neutral	False
+NAX11_02H	Poison Cloud	Unknown	Hero Power	<b>Hero Power</b>Deal 2 damage to all enemies. If any die, summon a slime.	0	0	0	Neutral	False
+NAX11_03	Fallout Slime	Unknown	Minion	Unknown	2	2	1	Neutral	False
+NAX11_04	Mutating Injection	Unknown	Spell	Give a minion +4/+4 and <b>Taunt</b>.	0	0	3	Neutral	False
+NAX11_04e	Mutating Injection	Unknown	Enchantment	+4/+4 and <b>Taunt</b>.	0	0	0	Neutral	False
+NAX12_01	Gluth	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX12_01H	Gluth	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX12_02	Decimate	Unknown	Hero Power	<b>Hero Power</b>Change the Health of all minions to 1.	0	0	2	Neutral	False
+NAX12_02e	Decimate	Unknown	Enchantment	Health changed to 1.	0	0	0	Neutral	False
+NAX12_02H	Decimate	Unknown	Hero Power	<b>Hero Power</b>Change the Health of enemy minions to 1.	0	0	0	Neutral	False
+NAX12_03	Jaws	Unknown	Weapon	Whenever a minion with <b>Deathrattle</b> dies, gain +2 Attack.	1	0	1	Neutral	False
+NAX12_03e	Extra Teeth	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+NAX12_03H	Jaws	Unknown	Weapon	Whenever a minion with <b>Deathrattle</b> dies, gain +2 Attack.	3	0	1	Neutral	False
+NAX12_04	Enrage	Unknown	Spell	Give your hero +6 Attack this turn.	0	0	3	Neutral	False
+NAX12_04e	Enrage	Unknown	Enchantment	+6 Attack this turn.	0	0	0	Neutral	False
+NAX13_01	Thaddius	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX13_01H	Thaddius	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX13_02	Polarity Shift	Unknown	Hero Power	<b>Hero Power</b>Swap the Attack and Health of all minions.	0	0	0	Neutral	False
+NAX13_02e	Polarity	Unknown	Enchantment	Attack and Health swapped.	0	0	0	Neutral	False
+NAX13_03	Supercharge	Unknown	Spell	Give your minions +2 Health.	0	0	2	Neutral	False
+NAX13_03e	Supercharged	Unknown	Enchantment	+2 Health.	0	0	0	Neutral	False
+NAX13_04H	Feugen	Legendary	Minion	Unknown	4	7	5	Neutral	False
+NAX13_05H	Stalagg	Legendary	Minion	Unknown	7	4	5	Neutral	False
+NAX14_01	Sapphiron	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX14_01H	Sapphiron	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX14_02	Frost Breath	Unknown	Hero Power	<b>Hero Power</b>Destroy all enemy minions that aren't <b>Frozen</b>.	0	0	0	Neutral	False
+NAX14_03	Frozen Champion	Unknown	Minion	Permanently Frozen.  Adjacent minions are Immune to Frost Breath.	2	10	5	Neutral	False
+NAX14_04	Pure Cold	Unknown	Spell	Deal $8 damage to the enemy hero, and <b>Freeze</b> it.	0	0	5	Neutral	False
+NAX15_01	Kel'Thuzad	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX15_01e	Interloper!	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+NAX15_01H	Kel'Thuzad	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX15_01He	Interloper!	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+NAX15_02	Frost Blast	Unknown	Hero Power	<b>Hero Power</b>Deal 2 damage to the enemy hero and <b>Freeze</b> it.	0	0	0	Neutral	False
+NAX15_02H	Frost Blast	Unknown	Hero Power	<b>Hero Power</b>Deal 3 damage to the enemy hero and <b>Freeze</b> it.	0	0	0	Neutral	False
+NAX15_03n	Guardian of Icecrown	Unknown	Minion	<b>Taunt</b>	3	3	4	Neutral	False
+NAX15_03t	Guardian of Icecrown	Unknown	Minion	<b>Taunt</b>	5	5	4	Neutral	False
+NAX15_04	Chains	Unknown	Hero Power	<b>Hero Power</b>Take control of a random enemy minion until end of turn.	0	0	8	Neutral	False
+NAX15_04a	Slave of Kel'Thuzad	Unknown	Enchantment	MINE!	0	0	0	Neutral	False
+NAX15_04H	Chains	Unknown	Hero Power	<b>Hero Power</b>Take control of a random enemy minion.	0	0	8	Neutral	False
+NAX15_05	Mr. Bigglesworth	Legendary	Minion	<i>This is Kel'Thuzad's kitty.</i>	1	1	0	Neutral	False
+NAX1h_01	Anub'Rekhan	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX1h_03	Nerubian	Unknown	Minion	Unknown	4	4	2	Neutral	False
+NAX1h_04	Skitter	Unknown	Hero Power	<b>Hero Power</b>Summon a 4/4 Nerubian.	0	0	2	Neutral	False
+NAX1_01	Anub'Rekhan	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX1_03	Nerubian	Unknown	Minion	Unknown	3	1	2	Neutral	False
+NAX1_04	Skitter	Unknown	Hero Power	<b>Hero Power</b>Summon a 3/1 Nerubian.	0	0	2	Neutral	False
+NAX1_05	Locust Swarm	Unknown	Spell	Deal $3 damage to all enemy minions. Restore #3 Health to your hero.	0	0	7	Neutral	False
+NAX2_01	Grand Widow Faerlina	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX2_01H	Grand Widow Faerlina	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX2_03	Rain of Fire	Unknown	Hero Power	<b>Hero Power</b>Fire a missile for each card in your opponent's hand.	0	0	2	Neutral	False
+NAX2_03H	Rain of Fire	Unknown	Hero Power	<b>Hero Power</b>Fire a missile for each card in your opponent's hand.	0	0	1	Neutral	False
+NAX2_05	Worshipper	Unknown	Minion	Your hero has +1 Attack on your turn.	1	4	3	Neutral	False
+NAX2_05H	Worshipper	Unknown	Minion	Your hero has +3 Attack on your turn.	2	4	3	Neutral	False
+NAX3_01	Maexxna	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX3_01H	Maexxna	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX3_02	Web Wrap	Unknown	Hero Power	<b>Hero Power</b>Return a random enemy minion to your opponent's hand.	0	0	3	Neutral	False
+NAX3_02H	Web Wrap	Unknown	Hero Power	<b>Hero Power</b>Return 2 random enemy minions to your opponent's hand.	0	0	0	Neutral	False
+NAX3_03	Necrotic Poison	Unknown	Spell	Destroy a minion.	0	0	2	Neutral	False
+NAX4_01	Noth the Plaguebringer	Unknown	Hero	Unknown	0	30	0	Mage	False
+NAX4_01H	Noth the Plaguebringer	Unknown	Hero	Unknown	0	45	0	Mage	False
+NAX4_03	Skeleton	Unknown	Minion	Unknown	1	1	1	Neutral	False
+NAX4_03H	Skeleton	Unknown	Minion	Unknown	5	5	5	Neutral	False
+NAX4_04	Raise Dead	Unknown	Hero Power	<b>Passive Hero Power</b>Whenever an enemy dies, raise a 1/1 Skeleton.	0	0	0	Neutral	False
+NAX4_04H	Raise Dead	Unknown	Hero Power	<b>Passive Hero Power</b>Whenever an enemy dies, raise a 5/5 Skeleton.	0	0	0	Neutral	False
+NAX4_05	Plague	Unknown	Spell	Destroy all non-Skeleton minions.	0	0	6	Neutral	False
+NAX5_01	Heigan the Unclean	Unknown	Hero	Unknown	0	30	0	Warlock	False
+NAX5_01H	Heigan the Unclean	Unknown	Hero	Unknown	0	45	0	Warlock	False
+NAX5_02	Eruption	Unknown	Hero Power	<b>Hero Power</b>Deal 2 damage to the left-most enemy minion.	0	0	1	Neutral	False
+NAX5_02H	Eruption	Unknown	Hero Power	<b>Hero Power</b>Deal 3 damage to the left-most enemy minion.	0	0	0	Neutral	False
+NAX5_03	Mindpocalypse	Unknown	Spell	Both players draw 2 cards and gain a Mana Crystal.	0	0	2	Neutral	False
+NAX6_01	Loatheb	Unknown	Hero	Unknown	0	75	0	Neutral	False
+NAX6_01H	Loatheb	Unknown	Hero	Unknown	0	99	0	Neutral	False
+NAX6_02	Necrotic Aura	Unknown	Hero Power	<b>Hero Power</b>Deal 3 damage to the enemy hero.	0	0	2	Neutral	False
+NAX6_02H	Necrotic Aura	Unknown	Hero Power	<b>Hero Power</b>Deal 3 damage to the enemy hero.	0	0	0	Neutral	False
+NAX6_03	Deathbloom	Unknown	Spell	Deal $5 damage to a minion. Summon a Spore.	0	0	4	Neutral	False
+NAX6_03t	Spore	Unknown	Minion	<b>Deathrattle:</b> Give all enemy minions +8 Attack.	0	1	0	Neutral	False
+NAX6_03te	Fungal Growth	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+NAX6_04	Sporeburst	Unknown	Spell	Deal $1 damage to all enemy minions. Summon a Spore.	0	0	1	Neutral	False
+NAX7_01	Instructor Razuvious	Unknown	Hero	Unknown	0	40	0	Neutral	False
+NAX7_01H	Instructor Razuvious	Unknown	Hero	Unknown	0	55	0	Neutral	False
+NAX7_02	Understudy	Unknown	Minion	<b>Taunt</b>	0	7	2	Neutral	False
+NAX7_03	Unbalancing Strike	Unknown	Hero Power	<b>Hero Power</b>Deal 3 damage.	0	0	2	Neutral	False
+NAX7_03H	Unbalancing Strike	Unknown	Hero Power	<b>Hero Power</b>Deal 4 damage.	0	0	1	Neutral	False
+NAX7_04	Massive Runeblade	Unknown	Weapon	Deals double damage to heroes.	5	0	3	Neutral	False
+NAX7_04H	Massive Runeblade	Unknown	Weapon	Deals double damage to heroes.	10	0	3	Neutral	False
+NAX7_05	Mind Control Crystal	Unknown	Spell	Activate the Crystal to control the Understudies!	0	0	1	Neutral	False
+NAX8_01	Gothik the Harvester	Unknown	Hero	Unknown	0	30	0	Neutral	False
+NAX8_01H	Gothik the Harvester	Unknown	Hero	Unknown	0	45	0	Neutral	False
+NAX8_02	Harvest	Unknown	Hero Power	<b>Hero Power</b>Draw a card.	0	0	2	Neutral	False
+NAX8_02H	Harvest	Unknown	Hero Power	<b>Hero Power</b>Draw a card. Gain a Mana Crystal.	0	0	1	Neutral	False
+NAX8_03	Unrelenting Trainee	Unknown	Minion	<b>Deathrattle:</b> Summon a Spectral Trainee for your opponent.	2	2	1	Neutral	False
+NAX8_03t	Spectral Trainee	Unknown	Minion	At the start of your turn, deal 1 damage to your hero.	0	2	1	Neutral	False
+NAX8_04	Unrelenting Warrior	Unknown	Minion	<b>Deathrattle:</b> Summon a Spectral Warrior for your opponent.	3	4	3	Neutral	False
+NAX8_04t	Spectral Warrior	Unknown	Minion	At the start of your turn, deal 1 damage to your hero.	0	4	3	Neutral	False
+NAX8_05	Unrelenting Rider	Unknown	Minion	<b>Deathrattle:</b> Summon a Spectral Rider for your opponent.	5	6	6	Neutral	False
+NAX8_05t	Spectral Rider	Unknown	Minion	At the start of your turn, deal 1 damage to your hero.	0	6	5	Neutral	False
+NAX9_01	Baron Rivendare	Unknown	Hero	Unknown	0	7	0	Neutral	False
+NAX9_01H	Baron Rivendare	Unknown	Hero	Unknown	0	14	0	Neutral	False
+NAX9_02	Lady Blaumeux	Unknown	Minion	Your hero is <b>Immune</b>.	1	7	3	Neutral	False
+NAX9_02H	Lady Blaumeux	Unknown	Minion	Your hero is <b>Immune</b>.	2	7	3	Neutral	False
+NAX9_03	Thane Korth'azz	Unknown	Minion	Your hero is <b>Immune</b>.	1	7	3	Neutral	False
+NAX9_03H	Thane Korth'azz	Unknown	Minion	Your hero is <b>Immune</b>.	2	7	3	Neutral	False
+NAX9_04	Sir Zeliek	Unknown	Minion	Your hero is <b>Immune</b>.	1	7	3	Neutral	False
+NAX9_04H	Sir Zeliek	Unknown	Minion	Your hero is <b>Immune</b>.	2	7	3	Neutral	False
+NAX9_05	Runeblade	Unknown	Weapon	Has +3 Attack if the other Horsemen are dead.	1	0	3	Neutral	False
+NAX9_05H	Runeblade	Unknown	Weapon	Has +6 Attack if the other Horsemen are dead.	2	0	3	Neutral	False
+NAX9_06	Unholy Shadow	Unknown	Hero Power	<b>Hero Power</b>Draw 2 cards.	0	0	5	Neutral	False
+NAX9_07	Mark of the Horsemen	Unknown	Spell	Give your minions and your weapon +1/+1.	0	0	5	Neutral	False
+NAX9_07e	Mark of the Horsemen	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+NAXM_001	Necroknight	Unknown	Minion	<b>Deathrattle:</b> Destroy the minions next to this one as well.	5	6	4	Neutral	False
+NAXM_002	Skeletal Smith	Unknown	Minion	<b>Deathrattle:</b> Destroy your opponent's weapon.	4	3	3	Neutral	False
+GVG_001	Flamecannon	Common	Spell	Deal $4 damage to a random enemy minion.	0	0	2	Mage	False
+GVG_002	Snowchugger	Common	Minion	<b>Freeze</b> any character damaged by this minion.	2	3	2	Mage	False
+GVG_003	Unstable Portal	Rare	Spell	Add a random minion to your hand. It costs (3) less.	0	0	2	Mage	False
+GVG_004	Goblin Blastmage	Rare	Minion	<b>Battlecry:</b> If you have a Mech, deal 4 damage randomly split among all enemies.	5	4	4	Mage	False
+GVG_005	Echo of Medivh	Epic	Spell	Put a copy of each friendly minion into your hand.	0	0	4	Mage	False
+GVG_006	Mechwarper	Common	Minion	Your Mechs cost (1) less.	2	3	2	Neutral	False
+GVG_007	Flame Leviathan	Legendary	Minion	When you draw this, deal 2 damage to all characters.	7	7	7	Mage	False
+GVG_008	Lightbomb	Epic	Spell	Deal damage to each minion equal to its Attack.	0	0	6	Priest	False
+GVG_009	Shadowbomber	Epic	Minion	<b>Battlecry:</b> Deal 3 damage to each hero.	2	1	1	Priest	False
+GVG_010	Velen's Chosen	Common	Spell	Give a minion +2/+4 and <b>Spell Damage +1</b>.	0	0	3	Priest	False
+GVG_010b	Velen's Chosen	Unknown	Enchantment	+2/+4 and <b>Spell Damage +1</b>.	0	0	0	Neutral	False
+GVG_011	Shrinkmeister	Common	Minion	<b>Battlecry:</b> Give a minion -2 Attack this turn.	3	2	2	Priest	False
+GVG_011a	Shrink Ray	Unknown	Enchantment	-2 Attack this turn.	0	0	0	Neutral	False
+GVG_012	Light of the Naaru	Rare	Spell	Restore #3 Health. If the target is still damaged, summon a Lightwarden.	0	0	1	Priest	False
+GVG_013	Cogmaster	Common	Minion	Has +2 Attack while you have a Mech.	1	2	1	Neutral	False
+GVG_014	Vol'jin	Legendary	Minion	<b>Battlecry:</b> Swap Health with another minion.	6	2	5	Priest	False
+GVG_014a	Shadowed	Unknown	Enchantment	Health was swapped.	0	0	0	Priest	False
+GVG_015	Darkbomb	Common	Spell	Deal $3 damage.	0	0	2	Warlock	False
+GVG_016	Fel Reaver	Epic	Minion	Whenever your opponent plays a card, remove the top 3 cards of your deck.	8	8	5	Neutral	False
+GVG_017	Call Pet	Rare	Spell	Draw a card.If it's a Beast, it costs (4) less.	0	0	2	Hunter	False
+GVG_018	Mistress of Pain	Rare	Minion	Whenever this minion deals damage, restore that much Health to your hero.	1	4	2	Warlock	False
+GVG_019	Demonheart	Epic	Spell	Deal $5 damage to a minion.  If it's a friendly Demon, give it +5/+5 instead.	0	0	5	Warlock	False
+GVG_019e	Demonheart	Unknown	Enchantment	+5/+5.	0	0	0	Warlock	False
+GVG_020	Fel Cannon	Rare	Minion	At the end of your turn, deal 2 damage to a non-Mech minion.	3	5	4	Warlock	False
+GVG_021	Mal'Ganis	Legendary	Minion	Your other Demons have +2/+2.Your hero is <b>Immune</b>.	9	7	9	Warlock	False
+GVG_021e	Grasp of Mal'Ganis	Unknown	Enchantment	Mal'Ganis is granting +2/+2.	0	0	0	Warlock	False
+GVG_022	Tinker's Sharpsword Oil	Common	Spell	Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.	0	0	4	Rogue	False
+GVG_022a	Tinker's Sharpsword Oil	Unknown	Enchantment	+3 Attack.	0	0	0	Neutral	False
+GVG_022b	Tinker's Sharpsword Oil	Unknown	Enchantment	+3 Attack.	0	0	0	Neutral	False
+GVG_023	Goblin Auto-Barber	Common	Minion	<b>Battlecry</b>: Give your weapon +1 Attack.	3	2	2	Rogue	False
+GVG_023a	Extra Sharp	Unknown	Enchantment	+1 Attack.	0	0	0	Neutral	False
+GVG_024	Cogmaster's Wrench	Epic	Weapon	Has +2 Attack while you have a Mech.	1	0	3	Rogue	False
+GVG_025	One-eyed Cheat	Rare	Minion	Whenever you summon a Pirate, gain <b>Stealth</b>.	4	1	2	Rogue	False
+GVG_026	Feign Death	Epic	Spell	Trigger all <b>Deathrattles</b> on your minions.	0	0	2	Hunter	False
+GVG_027	Iron Sensei	Rare	Minion	At the end of your turn, give another friendly Mech +2/+2.	2	2	3	Rogue	False
+GVG_027e	Ironed Out	Unknown	Enchantment	Increased stats.	0	0	0	Rogue	False
+GVG_028	Trade Prince Gallywix	Legendary	Minion	Whenever your opponent casts a spell, gain a copy of it and give them a Coin.	5	8	6	Rogue	False
+GVG_028t	Gallywix's Coin	Unknown	Spell	Gain 1 Mana Crystal this turn only.<i>(Won't trigger Gallywix.)</i>	0	0	0	Neutral	False
+GVG_029	Ancestor's Call	Epic	Spell	Put a random minion from each player's hand into the battlefield.	0	0	4	Shaman	False
+GVG_030	Anodized Robo Cub	Common	Minion	<b>Taunt</b>. <b>Choose One -</b>+1 Attack; or +1 Health.	2	2	2	Druid	False
+GVG_030a	Attack Mode	Unknown	Spell	+1 Attack.	0	0	0	Druid	False
+GVG_030ae	Attack Mode	Unknown	Enchantment	+1 Attack.	0	0	0	Druid	False
+GVG_030b	Tank Mode	Unknown	Spell	+1 Health.	0	0	0	Druid	False
+GVG_030be	Tank Mode	Unknown	Enchantment	+1 Health.	0	0	0	Druid	False
+GVG_031	Recycle	Rare	Spell	Shuffle an enemy minion into your opponent's deck.	0	0	6	Druid	False
+GVG_032	Grove Tender	Rare	Minion	<b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card.	2	4	3	Druid	False
+GVG_032a	Gift of Mana	Unknown	Spell	Give each player a Mana Crystal.	0	0	0	Druid	False
+GVG_032b	Gift of Cards	Unknown	Spell	Each player draws a card.	0	0	0	Druid	False
+GVG_033	Tree of Life	Epic	Spell	Restore all characters to full Health.	0	0	9	Druid	False
+GVG_034	Mech-Bear-Cat	Rare	Minion	Whenever this minion takes damage, add a <b>Spare Part</b> card to your hand.	7	6	6	Druid	False
+GVG_035	Malorne	Legendary	Minion	<b>Deathrattle:</b> Shuffle this minion into your deck.	9	7	7	Druid	False
+GVG_036	Powermace	Rare	Weapon	<b>Deathrattle</b>: Give a random friendly Mech +2/+2.	3	0	3	Shaman	False
+GVG_036e	Powered	Unknown	Enchantment	+2/+2.	0	0	0	Shaman	False
+GVG_037	Whirling Zap-o-matic	Common	Minion	<b>Windfury</b>	3	2	2	Shaman	False
+GVG_038	Crackle	Common	Spell	Deal $3-$6 damage. <b>Overload:</b> (1)	0	0	2	Shaman	False
+GVG_039	Vitality Totem	Rare	Minion	At the end of your turn, restore 4 Health to your hero.	0	3	2	Shaman	False
+GVG_040	Siltfin Spiritwalker	Epic	Minion	Whenever another friendly Murloc dies, draw a card. <b>Overload</b>: (1)	2	5	4	Shaman	False
+GVG_041	Dark Wispers	Epic	Spell	<b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>.	0	0	6	Druid	False
+GVG_041a	Dark Wispers	Unknown	Spell	+5/+5 and <b>Taunt</b>.	0	0	0	Druid	False
+GVG_041b	Dark Wispers	Unknown	Spell	Summon 5 Wisps.	0	0	0	Druid	False
+GVG_041c	Dark Wispers	Unknown	Enchantment	+5/+5 and <b>Taunt</b>.	0	0	0	Druid	False
+GVG_042	Neptulon	Legendary	Minion	<b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3)	7	7	7	Shaman	False
+GVG_043	Glaivezooka	Common	Weapon	<b>Battlecry:</b> Give a random friendly minion +1 Attack.	2	0	2	Hunter	False
+GVG_043e	Glaivezooka	Unknown	Enchantment	+1 Attack.	0	0	0	Hunter	False
+GVG_044	Spider Tank	Common	Minion	Unknown	3	4	3	Neutral	False
+GVG_045	Imp-losion	Rare	Spell	Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.	0	0	4	Warlock	False
+GVG_045t	Imp	Unknown	Minion	Unknown	1	1	1	Warlock	False
+GVG_046	King of Beasts	Rare	Minion	<b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have.	2	6	5	Hunter	False
+GVG_046e	The King	Unknown	Enchantment	Increased Attack.	0	0	0	Hunter	False
+GVG_047	Sabotage	Epic	Spell	Destroy a random enemy minion. <b>Combo</b>: And your opponent's weapon.	0	0	4	Rogue	False
+GVG_048	Metaltooth Leaper	Rare	Minion	<b>Battlecry</b>: Give your other Mechs +2 Attack.	3	3	3	Hunter	False
+GVG_048e	Metal Teeth	Unknown	Enchantment	+2 Attack.	0	0	0	Hunter	False
+GVG_049	Gahz'rilla	Legendary	Minion	Whenever this minion takes damage, double its Attack.	6	9	7	Hunter	False
+GVG_049e	Might of Zul'Farrak	Unknown	Enchantment	Multiplying Attack.	0	0	0	Hunter	False
+GVG_050	Bouncing Blade	Epic	Spell	Deal $1 damage to a random minion. Repeat until a minion dies.	0	0	3	Warrior	False
+GVG_051	Warbot	Common	Minion	<b>Enrage:</b> +1 Attack.	1	3	1	Warrior	False
+GVG_052	Crush	Epic	Spell	Destroy a minion. If you have a damaged minion, this costs (4) less.	0	0	7	Warrior	False
+GVG_053	Shieldmaiden	Rare	Minion	<b>Battlecry:</b> Gain 5 Armor.	5	5	6	Warrior	False
+GVG_054	Ogre Warmaul	Common	Weapon	50% chance to attack the wrong enemy.	4	0	3	Warrior	False
+GVG_055	Screwjank Clunker	Rare	Minion	<b>Battlecry</b>: Give a friendly Mech +2/+2.	2	5	4	Warrior	False
+GVG_055e	Screwy Jank	Unknown	Enchantment	+2/+2.	0	0	0	Warrior	False
+GVG_056	Iron Juggernaut	Legendary	Minion	<b>Battlecry:</b> Shuffle a Mine into your opponent's deck. When drawn, it explodes for 10 damage.	6	5	6	Warrior	False
+GVG_056t	Burrowing Mine	Unknown	Spell	When you draw this, it explodes. You take 10 damage and draw a card.	0	0	0	Warrior	False
+GVG_057	Seal of Light	Common	Spell	Restore #4 Health to your hero and gain +2 Attack this turn.	0	0	2	Paladin	False
+GVG_057a	Seal of Light	Unknown	Enchantment	+2 Attack this turn.	0	0	0	Neutral	False
+GVG_058	Shielded Minibot	Common	Minion	<b>Divine Shield</b>	2	2	2	Paladin	False
+GVG_059	Coghammer	Epic	Weapon	<b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.	2	0	3	Paladin	False
+GVG_060	Quartermaster	Epic	Minion	<b>Battlecry:</b> Give your Silver Hand Recruits +2/+2.	2	5	5	Paladin	False
+GVG_060e	Well Equipped	Unknown	Enchantment	+2/+2.	0	0	0	Paladin	False
+GVG_061	Muster for Battle	Rare	Spell	Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.	0	0	3	Paladin	False
+GVG_062	Cobalt Guardian	Rare	Minion	Whenever you summon a Mech, gain <b>Divine Shield</b>.	6	3	5	Paladin	False
+GVG_063	Bolvar Fordragon	Legendary	Minion	Whenever a friendly minion dies while this is in your hand, gain +1 Attack.	1	7	5	Paladin	False
+GVG_063a	Retribution	Unknown	Enchantment	Increased Attack	0	0	0	Neutral	False
+GVG_064	Puddlestomper	Common	Minion	Unknown	3	2	2	Neutral	False
+GVG_065	Ogre Brute	Common	Minion	50% chance to attack the wrong enemy.	4	4	3	Neutral	False
+GVG_066	Dunemaul Shaman	Rare	Minion	<b>Windfury, Overload: (1)</b>50% chance to attack the wrong enemy.	5	4	4	Shaman	False
+GVG_067	Stonesplinter Trogg	Common	Minion	Whenever your opponent casts a spell, gain +1 Attack.	2	3	2	Neutral	False
+GVG_067a	Metabolized Magic	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+GVG_068	Burly Rockjaw Trogg	Common	Minion	Whenever your opponent casts a spell, gain +2 Attack.	3	5	4	Neutral	False
+GVG_068a	Metabolized Magic	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+GVG_069	Antique Healbot	Common	Minion	<b>Battlecry:</b> Restore 8 Health to your hero.	3	3	5	Neutral	False
+GVG_069a	Repairs!	Unknown	Enchantment	+4 Health.	0	0	0	Priest	False
+GVG_070	Salty Dog	Common	Minion	Unknown	7	4	5	Neutral	False
+GVG_071	Lost Tallstrider	Common	Minion	Unknown	5	4	4	Neutral	False
+GVG_072	Shadowboxer	Rare	Minion	Whenever a character is healed, deal 1 damage to a random enemy.	2	3	2	Priest	False
+GVG_073	Cobra Shot	Common	Spell	Deal $3 damage to a minion and the enemy hero.	0	0	5	Hunter	False
+GVG_074	Kezan Mystic	Rare	Minion	<b>Battlecry:</b> Take control of a random enemy <b>Secret</b>.	4	3	4	Neutral	False
+GVG_075	Ship's Cannon	Common	Minion	Whenever you summon a Pirate, deal 2 damage to a random enemy.	2	3	2	Neutral	False
+GVG_076	Explosive Sheep	Common	Minion	<b>Deathrattle:</b> Deal 2 damage to all minions.	1	1	2	Neutral	False
+GVG_076a	Pistons	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+GVG_077	Anima Golem	Epic	Minion	At the end of each turn, destroy this minion if it's your only one.	9	9	6	Warlock	False
+GVG_078	Mechanical Yeti	Common	Minion	<b>Deathrattle:</b> Give each player a <b>Spare Part.</b>	4	5	4	Neutral	False
+GVG_079	Force-Tank MAX	Common	Minion	<b>Divine Shield</b>	7	7	8	Neutral	False
+GVG_080	Druid of the Fang	Common	Minion	<b>Battlecry:</b> If you have a Beast, transform this minion into a 7/7.	4	4	5	Druid	False
+GVG_080t	Druid of the Fang	Unknown	Minion	Unknown	7	7	5	Druid	False
+GVG_081	Gilblin Stalker	Common	Minion	<b>Stealth</b>	2	3	2	Neutral	False
+GVG_082	Clockwork Gnome	Common	Minion	<b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.	2	1	1	Neutral	False
+GVG_083	Upgraded Repair Bot	Rare	Minion	<b>Battlecry:</b> Give a friendly Mech +4 Health.	5	5	5	Priest	False
+GVG_084	Flying Machine	Common	Minion	<b>Windfury</b>	1	4	3	Neutral	False
+GVG_085	Annoy-o-Tron	Common	Minion	<b>Taunt</b><b>Divine Shield</b>	1	2	2	Neutral	False
+GVG_086	Siege Engine	Rare	Minion	Whenever you gain Armor, give this minion +1 Attack.	5	5	5	Warrior	False
+GVG_086e	Armor Plated	Unknown	Enchantment	Increased Attack.	0	0	0	Warrior	False
+GVG_087	Steamwheedle Sniper	Epic	Minion	Your Hero Power can target minions.	2	3	2	Hunter	False
+GVG_088	Ogre Ninja	Rare	Minion	<b>Stealth</b>50% chance to attack the wrong enemy.	6	6	5	Rogue	False
+GVG_089	Illuminator	Rare	Minion	If you control a <b>Secret</b> at the end of your turn, restore 4 Health to your hero.	2	4	3	Neutral	False
+GVG_090	Madder Bomber	Rare	Minion	<b>Battlecry:</b> Deal 6 damage randomly split between all other characters.	5	4	5	Neutral	False
+GVG_091	Arcane Nullifier X-21	Rare	Minion	<b>Taunt</b>Can't be targeted by spells or Hero Powers.	2	5	4	Neutral	False
+GVG_092	Gnomish Experimenter	Rare	Minion	<b>Battlecry:</b> Draw a card. If it's a minion, transform it into a Chicken.	3	2	3	Neutral	False
+GVG_092t	Chicken	Unknown	Minion	Unknown	1	1	1	Neutral	False
+GVG_093	Target Dummy	Rare	Minion	<b>Taunt</b>	0	2	0	Neutral	False
+GVG_094	Jeeves	Rare	Minion	At the end of each player's turn, that player draws until they have 3 cards.	1	4	4	Neutral	False
+GVG_095	Goblin Sapper	Rare	Minion	Has +4 Attack while your opponent has 6 or more cards in hand.	2	4	3	Neutral	False
+GVG_096	Piloted Shredder	Common	Minion	<b>Deathrattle:</b> Summon a random 2-Cost minion.	4	3	4	Neutral	False
+GVG_097	Lil' Exorcist	Rare	Minion	<b>Taunt</b><b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion.	2	3	3	Neutral	False
+GVG_098	Gnomeregan Infantry	Common	Minion	<b>Charge</b><b>Taunt</b>	1	4	3	Neutral	False
+GVG_099	Bomb Lobber	Rare	Minion	<b>Battlecry:</b> Deal 4 damage to a random enemy minion.	3	3	5	Neutral	False
+GVG_100	Floating Watcher	Common	Minion	Whenever your hero takes damage on your turn, gain +2/+2.	4	4	5	Warlock	False
+GVG_100e	Brow Furrow	Unknown	Enchantment	Increased stats.	0	0	0	Warlock	False
+GVG_101	Scarlet Purifier	Rare	Minion	<b>Battlecry</b>: Deal 2 damage to all minions with <b>Deathrattle</b>.	4	3	3	Paladin	False
+GVG_101e	Pure	Unknown	Enchantment	Increased Stats.	0	0	0	Paladin	False
+GVG_102	Tinkertown Technician	Common	Minion	<b>Battlecry:</b> If you have a Mech, gain +1/+1 and add a <b>Spare Part</b> to your hand.	3	3	3	Neutral	False
+GVG_102e	Might of Tinkertown	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+GVG_103	Micro Machine	Common	Minion	At the start of each turn, gain +1 Attack.	1	2	2	Neutral	False
+GVG_104	Hobgoblin	Epic	Minion	Whenever you play a 1-Attack minion, give it +2/+2.	2	3	3	Neutral	False
+GVG_104a	HERE, TAKE BUFF.	Unknown	Enchantment	+2/+2.	0	0	0	Neutral	False
+GVG_105	Piloted Sky Golem	Epic	Minion	<b>Deathrattle:</b> Summon a random 4-Cost minion.	6	4	6	Neutral	False
+GVG_106	Junkbot	Epic	Minion	Whenever a friendly Mech dies, gain +2/+2.	1	5	5	Neutral	False
+GVG_106e	Junked Up	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+GVG_107	Enhance-o Mechano	Epic	Minion	<b>Battlecry:</b> Give your other minions <b>Windfury</b>, <b>Taunt</b>, or <b>Divine Shield</b>.<i>(at random)</i>	3	2	4	Neutral	False
+GVG_108	Recombobulator	Epic	Minion	<b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost.	3	2	2	Neutral	False
+GVG_109	Mini-Mage	Epic	Minion	<b>Stealth</b><b>Spell Damage +1</b>	4	1	4	Neutral	False
+GVG_110	Dr. Boom	Legendary	Minion	<b>Battlecry</b>: Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>	7	7	7	Neutral	False
+GVG_110t	Boom Bot	Unknown	Minion	<b>Deathrattle</b>: Deal 1-4 damage to a random enemy.	1	1	1	Neutral	False
+GVG_111	Mimiron's Head	Legendary	Minion	At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N.	4	5	5	Neutral	False
+GVG_111t	V-07-TR-0N	Legendary	Minion	<b>Charge</b><b>Mega-Windfury</b> <i>(Can attack four times a turn.)</i>	4	8	8	Neutral	False
+GVG_112	Mogor the Ogre	Legendary	Minion	All minions have a 50% chance to attack the wrong enemy.	7	6	6	Neutral	False
+GVG_113	Foe Reaper 4000	Legendary	Minion	Also damages the minions next to whomever he attacks.	6	9	8	Neutral	False
+GVG_114	Sneed's Old Shredder	Legendary	Minion	<b>Deathrattle:</b> Summon a random legendary minion.	5	7	8	Neutral	False
+GVG_115	Toshley	Legendary	Minion	<b>Battlecry and Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.	5	7	6	Neutral	False
+GVG_116	Mekgineer Thermaplugg	Legendary	Minion	Whenever an enemy minion dies, summon a Leper Gnome.	9	7	9	Neutral	False
+GVG_117	Gazlowe	Legendary	Minion	Whenever you cast a 1-mana spell, add a random Mech to your hand.	3	6	6	Neutral	False
+GVG_118	Troggzor the Earthinator	Legendary	Minion	Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg.	6	6	7	Neutral	False
+GVG_119	Blingtron 3000	Legendary	Minion	<b>Battlecry:</b> Equip a random weapon for each player.	3	4	5	Neutral	False
+GVG_120	Hemet Nesingwary	Legendary	Minion	<b>Battlecry:</b> Destroy a Beast.	6	3	5	Neutral	False
+GVG_121	Clockwork Giant	Epic	Minion	Costs (1) less for each card in your opponent's hand.	8	8	12	Neutral	False
+GVG_122	Wee Spellstopper	Epic	Minion	Adjacent minions can't be targeted by spells or Hero Powers.	2	5	4	Mage	False
+GVG_123	Soot Spewer	Rare	Minion	<b>Spell Damage +1</b>	3	3	3	Mage	False
+GVG_123e	Overclocked	Unknown	Enchantment	Spell Damage +2.	0	0	0	Mage	False
+PART_001	Armor Plating	Unknown	Spell	Give a minion +1 Health.	0	0	1	Neutral	False
+PART_001e	Armor Plating	Unknown	Enchantment	+1 Health.	0	0	0	Neutral	False
+PART_002	Time Rewinder	Unknown	Spell	Return a friendly minion to your hand.	0	0	1	Neutral	False
+PART_003	Rusty Horn	Unknown	Spell	Give a minion <b>Taunt</b>.	0	0	1	Neutral	False
+PART_004	Finicky Cloakfield	Unknown	Spell	Give a friendly minion <b>Stealth</b> until your next turn.	0	0	1	Neutral	False
+PART_004e	Cloaked	Unknown	Enchantment	Stealthed until your next turn.	0	0	0	Neutral	False
+PART_005	Emergency Coolant	Unknown	Spell	<b>Freeze</b> a minion.	0	0	1	Neutral	False
+PART_006	Reversing Switch	Unknown	Spell	Swap a minion's Attack and Health.	0	0	1	Neutral	False
+PART_006a	Switched	Unknown	Enchantment	Attack and Health have been swapped by Reversing Switch.	0	0	0	Neutral	False
+PART_007	Whirling Blades	Unknown	Spell	Give a minion +1 Attack.	0	0	1	Neutral	False
+PART_007e	Whirling Blades	Unknown	Enchantment	+1 Attack.	0	0	0	Neutral	False
+BRMA01_1	Coren Direbrew	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA01_1H	Coren Direbrew	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA01_2	Pile On!	Unknown	Hero Power	<b>Hero Power</b>Put a minion from each deck into the battlefield.	0	0	0	Neutral	False
+BRMA01_2H	Pile On!	Unknown	Hero Power	<b>Hero Power</b>Put two minions from your deck and one from your opponent's into the battlefield.	0	0	0	Neutral	False
+BRMA01_3	Dark Iron Bouncer	Unknown	Minion	Always wins Brawls.	4	8	6	Neutral	False
+BRMA01_4	Get 'em!	Unknown	Spell	Summon four 1/1 Dwarves with <b>Taunt</b>.	0	0	3	Neutral	False
+BRMA01_4t	Guzzler	Unknown	Minion	<b>Taunt</b>	1	1	1	Neutral	False
+BRMA02_1	High Justice Grimstone	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA02_1H	High Justice Grimstone	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA02_2	Jeering Crowd	Unknown	Hero Power	<b>Hero Power</b>Summon a 1/1 Spectator with <b>Taunt</b>.	0	0	1	Neutral	False
+BRMA02_2H	Jeering Crowd	Unknown	Hero Power	<b>Hero Power</b>Summon a 1/1 Spectator with <b>Taunt</b>.	0	0	0	Neutral	False
+BRMA02_2t	Dark Iron Spectator	Unknown	Minion	<b>Taunt</b>	1	1	1	Neutral	False
+BRMA03_1	Emperor Thaurissan	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA03_1H	Emperor Thaurissan	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA03_2	Power of the Firelord	Unknown	Hero Power	<b>Hero Power</b>Deal 30 damage.	0	0	2	Neutral	False
+BRMA03_3	Moira Bronzebeard	Unknown	Minion	Thaurissan's Hero Power can't be used.Never attacks minions unless they have <b>Taunt</b>.	1	3	2	Neutral	False
+BRMA03_3H	Moira Bronzebeard	Unknown	Minion	Thaurissan's Hero Power can't be used.Never attacks minions unless they have <b>Taunt</b>.	3	1	2	Neutral	False
+BRMA04_1	Garr	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA04_1H	Garr	Unknown	Hero	Unknown	0	45	0	Neutral	False
+BRMA04_2	Magma Pulse	Unknown	Hero Power	<b>Hero Power</b>Deal 1 damage to all minions.	0	0	1	Neutral	False
+BRMA04_3	Firesworn	Unknown	Minion	<b>Deathrattle:</b> Deal 1 damage to the enemy hero for each Firesworn that died this turn.	0	5	0	Neutral	False
+BRMA04_3H	Firesworn	Unknown	Minion	<b>Deathrattle:</b> Deal 3 damage to the enemy hero for each Firesworn that died this turn.	0	5	0	Neutral	False
+BRMA04_4	Rock Out	Unknown	Spell	Summon 3 Firesworn. <b>Overload:</b> (2)	0	0	3	Neutral	False
+BRMA04_4H	Rock Out	Unknown	Spell	Summon 3 Firesworn. <b>Overload:</b> (2)	0	0	3	Neutral	False
+BRMA05_1	Baron Geddon	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA05_1H	Baron Geddon	Unknown	Hero	Unknown	0	50	0	Neutral	False
+BRMA05_2	Ignite Mana	Unknown	Hero Power	<b>Hero Power</b>Deal 5 damage to the enemy hero if they have any unspent Mana.	0	0	0	Neutral	False
+BRMA05_2H	Ignite Mana	Unknown	Hero Power	<b>Hero Power</b>Deal 10 damage to the enemy hero if they have any unspent Mana.	0	0	0	Neutral	False
+BRMA05_3	Living Bomb	Unknown	Spell	Choose an enemy minion. If it lives until your next turn, deal $5 damage to all enemies.	0	0	4	Neutral	False
+BRMA05_3e	Living Bomb	Unknown	Enchantment	On Geddon's turn, deal 5 damage to all of your stuff.	0	0	0	Neutral	False
+BRMA05_3H	Living Bomb	Unknown	Spell	Choose an enemy minion. If it lives until your next turn, deal $10 damage to all enemies.	0	0	3	Neutral	False
+BRMA05_3He	Living Bomb	Unknown	Enchantment	On Geddon's turn, deal 10 damage to all of your stuff.	0	0	0	Neutral	False
+BRMA06_1	Majordomo Executus	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA06_1H	Majordomo Executus	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA06_2	The Majordomo	Unknown	Hero Power	<b>Hero Power</b>Summon a 1/3 Flamewaker Acolyte.	0	0	2	Neutral	False
+BRMA06_2H	The Majordomo	Unknown	Hero Power	<b>Hero Power</b>Summon a 3/3 Flamewaker Acolyte.	0	0	2	Neutral	False
+BRMA06_3	Ragnaros the Firelord	Unknown	Hero	Unknown	0	8	0	Neutral	False
+BRMA06_3H	Ragnaros the Firelord	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA06_4	Flamewaker Acolyte	Unknown	Minion	Unknown	1	3	2	Neutral	False
+BRMA06_4H	Flamewaker Acolyte	Unknown	Minion	Unknown	3	3	2	Neutral	False
+BRMA07_1	Highlord Omokk	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA07_1H	Highlord Omokk	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA07_2	ME SMASH	Unknown	Hero Power	<b>Hero Power</b>Destroy a random damaged enemy minion.	0	0	1	Neutral	False
+BRMA07_2H	ME SMASH	Unknown	Hero Power	<b>Hero Power</b>Destroy a random enemy minion.	0	0	0	Neutral	False
+BRMA07_3	TIME FOR SMASH	Unknown	Spell	Deal $5 damage to a random enemy. Gain 5 Armor.	0	0	4	Neutral	False
+BRMA08_1	General Drakkisath	Unknown	Hero	Unknown	0	50	0	Neutral	False
+BRMA08_1H	General Drakkisath	Unknown	Hero	Unknown	0	50	0	Neutral	False
+BRMA08_2	Intense Gaze	Unknown	Hero Power	<b>Passive Hero Power</b>All cards cost (1). Players are capped at 1 Mana Crystal.	0	0	0	Neutral	False
+BRMA08_2H	Intense Gaze	Unknown	Hero Power	<b>Passive Hero Power</b>All cards cost (1). You are capped at 2 Mana Crystals, and opponent at 1.	0	0	0	Neutral	False
+BRMA08_3	Drakkisath's Command	Unknown	Spell	Destroy a minion. Gain 10 Armor.	0	0	1	Neutral	False
+BRMA09_1	Rend Blackhand	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA09_1H	Rend Blackhand	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA09_2	Open the Gates	Unknown	Hero Power	<b>Hero Power</b>Summon three 1/1 Whelps. Get a new Hero Power.	0	0	2	Neutral	False
+BRMA09_2H	Open the Gates	Unknown	Hero Power	<b>Hero Power</b>Summon three 2/2 Whelps. Get a new Hero Power.	0	0	2	Neutral	False
+BRMA09_2Ht	Whelp	Unknown	Minion	Unknown	2	2	1	Neutral	False
+BRMA09_2t	Whelp	Unknown	Minion	Unknown	1	1	1	Neutral	False
+BRMA09_3	Old Horde	Unknown	Hero Power	<b>Hero Power</b>Summon two 1/1 Orcs with <b>Taunt</b>. Get a new Hero Power.	0	0	2	Neutral	False
+BRMA09_3H	Old Horde	Unknown	Hero Power	<b>Hero Power</b>Summon two 2/2 Orcs with <b>Taunt</b>. Get a new Hero Power.	0	0	2	Neutral	False
+BRMA09_3Ht	Old Horde Orc	Unknown	Minion	<b>Taunt</b>	2	2	1	Neutral	False
+BRMA09_3t	Old Horde Orc	Unknown	Minion	<b>Taunt</b>	1	1	1	Neutral	False
+BRMA09_4	Blackwing	Unknown	Hero Power	<b>Hero Power</b>Summon a 3/1 Dragonkin. Get a new Hero Power.	0	0	1	Neutral	False
+BRMA09_4H	Blackwing	Unknown	Hero Power	<b>Hero Power</b>Summon a 5/4 Dragonkin. Get a new Hero Power.	0	0	1	Neutral	False
+BRMA09_4Ht	Dragonkin	Unknown	Minion	Unknown	5	4	1	Neutral	False
+BRMA09_4t	Dragonkin	Unknown	Minion	Unknown	3	1	1	Neutral	False
+BRMA09_5	Dismount	Unknown	Hero Power	<b>Hero Power</b>Summon Gyth. Get a new Hero Power.	0	0	4	Neutral	False
+BRMA09_5H	Dismount	Unknown	Hero Power	<b>Hero Power</b>Summon Gyth. Get a new Hero Power.	0	0	4	Neutral	False
+BRMA09_5Ht	Gyth	Legendary	Minion	Unknown	8	8	3	Neutral	False
+BRMA09_5t	Gyth	Legendary	Minion	Unknown	8	4	3	Neutral	False
+BRMA09_6	The True Warchief	Unknown	Spell	Destroy a Legendary minion.	0	0	1	Neutral	False
+BRMA10_1	Razorgore the Untamed	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA10_1H	Razorgore the Untamed	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA10_3	The Rookery	Unknown	Hero Power	<b>Hero Power</b>Give all Corrupted Eggs +1 Health, then summon one.	0	0	1	Neutral	False
+BRMA10_3e	Incubation	Unknown	Enchantment	Increased Health.	0	0	0	Neutral	False
+BRMA10_3H	The Rookery	Unknown	Hero Power	<b>Hero Power</b>Give all Corrupted Eggs +1 Health, then summon one.	0	0	0	Neutral	False
+BRMA10_4	Corrupted Egg	Unknown	Minion	When this minion has 4 or more Health, it hatches.	0	1	1	Neutral	False
+BRMA10_4H	Corrupted Egg	Unknown	Minion	When this minion has 5 or more Health, it hatches.	0	3	1	Neutral	False
+BRMA10_5	Chromatic Drake	Unknown	Minion	Unknown	7	3	4	Neutral	False
+BRMA10_5H	Chromatic Drake	Unknown	Minion	Unknown	7	7	4	Neutral	False
+BRMA10_6	Razorgore's Claws	Unknown	Weapon	Whenever a Corrupted Egg dies, gain +1 Attack.	1	0	1	Neutral	False
+BRMA10_6e	Blind With Rage	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+BRMA11_1	Vaelastrasz the Corrupt	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA11_1H	Vaelastrasz the Corrupt	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA11_2	Essence of the Red	Unknown	Hero Power	<b>Hero Power</b>Each player draws 2 cards.	0	0	0	Neutral	False
+BRMA11_2H	Essence of the Red	Unknown	Hero Power	<b>Hero Power</b>Each player draws 3 cards. Gain a Mana Crystal.	0	0	0	Neutral	False
+BRMA11_3	Burning Adrenaline	Unknown	Spell	Deal $2 damage to the enemy hero.	0	0	0	Neutral	False
+BRMA12_1	Chromaggus	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA12_10	Mutation	Unknown	Hero Power	<b>Hero Power</b>Discard a random card.	0	0	1	Neutral	False
+BRMA12_1H	Chromaggus	Unknown	Hero	Unknown	0	60	0	Neutral	False
+BRMA12_2	Brood Affliction	Unknown	Hero Power	<b>Hero Power</b>At the end of your turn, add a Brood Affliction card to your opponent's hand.	0	0	0	Neutral	False
+BRMA12_2H	Brood Affliction	Unknown	Hero Power	<b>Hero Power</b>At the end of your turn, add a Brood Affliction card to your opponent's hand.	0	0	0	Neutral	False
+BRMA12_3	Brood Affliction: Red	Unknown	Spell	While this is in your hand, take 1 damage at the start of your turn.	0	0	1	Neutral	False
+BRMA12_3H	Brood Affliction: Red	Unknown	Spell	While this is in your hand, take 3 damage at the start of your turn.	0	0	3	Neutral	False
+BRMA12_4	Brood Affliction: Green	Unknown	Spell	While this is in your hand, restore 2 health to your opponent at the start of your turn.	0	0	1	Neutral	False
+BRMA12_4H	Brood Affliction: Green	Unknown	Spell	While this is in your hand, restore 6 health to your opponent at the start of your turn.	0	0	3	Neutral	False
+BRMA12_5	Brood Affliction: Blue	Unknown	Spell	While this is in your hand, Chromaggus' spells cost (1) less.	0	0	1	Neutral	False
+BRMA12_5H	Brood Affliction: Blue	Unknown	Spell	While this is in your hand, Chromaggus' spells cost (3) less.	0	0	3	Neutral	False
+BRMA12_6	Brood Affliction: Black	Unknown	Spell	While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.	0	0	1	Neutral	False
+BRMA12_6H	Brood Affliction: Black	Unknown	Spell	While this is in your hand, whenever Chromaggus draws a card, he gets another copy of it.	0	0	3	Neutral	False
+BRMA12_7	Brood Affliction: Bronze	Unknown	Spell	While this is in your hand, Chromaggus' minions cost (1) less.	0	0	1	Neutral	False
+BRMA12_7H	Brood Affliction: Bronze	Unknown	Spell	While this is in your hand, Chromaggus' minions cost (3) less.	0	0	3	Neutral	False
+BRMA12_8	Chromatic Mutation	Unknown	Spell	Transform a minion into a 2/2 Chromatic Dragonkin.	0	0	2	Neutral	False
+BRMA12_8t	Chromatic Dragonkin	Unknown	Minion	Whenever your opponent casts a spell, gain +2/+2.	2	3	2	Neutral	False
+BRMA12_9	Chromatic Dragonkin	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA13_1	Lord Victor Nefarius	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA13_1H	Lord Victor Nefarius	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA13_2	True Form	Unknown	Hero Power	<b>Hero Power</b>Let the games begin!	0	0	1	Neutral	False
+BRMA13_2H	True Form	Unknown	Hero Power	<b>Hero Power</b>Let the games begin!	0	0	1	Neutral	False
+BRMA13_3	Nefarian	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA13_3H	Nefarian	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA13_4	Wild Magic	Unknown	Hero Power	<b>Hero Power</b>Put a random spell from your opponent's class into your hand.	0	0	1	Neutral	False
+BRMA13_4H	Wild Magic	Unknown	Hero Power	<b>Hero Power</b>Put a random spell from your opponent's class into your hand.	0	0	1	Neutral	False
+BRMA13_5	Son of the Flame	Unknown	Minion	<b>Battlecry:</b> Deal 6 damage.	6	3	0	Neutral	False
+BRMA13_6	Living Lava	Unknown	Minion	<b>Taunt</b>	6	6	0	Neutral	False
+BRMA13_7	Whirling Ash	Unknown	Minion	<b>Windfury</b>	4	5	0	Neutral	False
+BRMA13_8	DIE, INSECT!	Unknown	Spell	Deal $8 damage to a random enemy.	0	0	0	Neutral	False
+BRMA14_1	Omnotron Defense System	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA14_10	Activate!	Unknown	Hero Power	<b>Hero Power</b>Activate a random Tron.	0	0	4	Neutral	False
+BRMA14_10H	Activate!	Unknown	Hero Power	<b>Hero Power</b>Activate a random Tron.	0	0	2	Neutral	False
+BRMA14_11	Recharge	Unknown	Spell	Fill all empty Mana Crystals.	0	0	0	Neutral	False
+BRMA14_12	Magmaw	Legendary	Minion	<b>Taunt</b>	10	2	5	Neutral	False
+BRMA14_1H	Omnotron Defense System	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA14_2	Activate Arcanotron	Unknown	Hero Power	<b>Hero Power</b>Activate Arcanotron!	0	0	2	Neutral	False
+BRMA14_2H	Activate Arcanotron	Unknown	Hero Power	<b>Hero Power</b>Activate Arcanotron!	0	0	0	Neutral	False
+BRMA14_3	Arcanotron	Legendary	Minion	Both players have <b>Spell Damage +2</b>.	2	2	0	Neutral	False
+BRMA14_4	Activate Toxitron	Unknown	Hero Power	<b>Hero Power</b>Activate Toxitron!	0	0	4	Neutral	False
+BRMA14_4H	Activate Toxitron	Unknown	Hero Power	<b>Hero Power</b>Activate Toxitron!	0	0	2	Neutral	False
+BRMA14_5	Toxitron	Legendary	Minion	At the start of your turn, deal 1 damage to all other minions.	3	3	1	Neutral	False
+BRMA14_5H	Toxitron	Legendary	Minion	At the start of your turn, deal 1 damage to all other minions.	4	4	1	Neutral	False
+BRMA14_6	Activate Electron	Unknown	Hero Power	<b>Hero Power</b>Activate Electron!	0	0	6	Neutral	False
+BRMA14_6H	Activate Electron	Unknown	Hero Power	<b>Hero Power</b>Activate Electron!	0	0	4	Neutral	False
+BRMA14_7	Electron	Legendary	Minion	All spells cost (3) less.	5	5	3	Neutral	False
+BRMA14_7H	Electron	Legendary	Minion	All spells cost (3) less.	6	6	3	Neutral	False
+BRMA14_8	Activate Magmatron	Unknown	Hero Power	<b>Hero Power</b>Activate Magmatron!	0	0	8	Neutral	False
+BRMA14_8H	Activate Magmatron	Unknown	Hero Power	<b>Hero Power</b>Activate Magmatron!	0	0	6	Neutral	False
+BRMA14_9	Magmatron	Legendary	Minion	Whenever a player plays a card, Magmatron deals 2 damage to them.	7	7	5	Neutral	False
+BRMA14_9H	Magmatron	Legendary	Minion	Whenever a player plays a card, Magmatron deals 2 damage to them.	8	8	5	Neutral	False
+BRMA15_1	Maloriak	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA15_1H	Maloriak	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA15_2	The Alchemist	Unknown	Hero Power	<b>Passive Hero Power</b>Whenever a minion is summoned, swap its Attack and Health.	0	0	0	Neutral	False
+BRMA15_2H	The Alchemist	Unknown	Hero Power	<b>Passive Hero Power</b>Minions' Attack and Health are swapped. Your minions have +2/+2.	0	0	0	Neutral	False
+BRMA15_2He	Potion of Might	Unknown	Enchantment	+2/+2.	0	0	0	Neutral	False
+BRMA15_3	Release the Aberrations!	Unknown	Spell	Summon 3 Aberrations.	0	0	2	Neutral	False
+BRMA15_4	Aberration	Unknown	Minion	<b>Charge</b>	1	1	1	Neutral	False
+BRMA16_1	Atramedes	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA16_1H	Atramedes	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA16_2	Echolocate	Unknown	Hero Power	<b>Hero Power</b>Equip a weapon that grows as your opponent plays cards.	0	0	1	Neutral	False
+BRMA16_2H	Echolocate	Unknown	Hero Power	<b>Hero Power</b>Equip a weapon that grows as your opponent plays cards.	0	0	0	Neutral	False
+BRMA16_3	Sonic Breath	Unknown	Spell	Deal $3 damage to a minion. Give your weapon +3 Attack.	0	0	4	Neutral	False
+BRMA16_3e	Sonic Breath	Unknown	Enchantment	+3 Attack.	0	0	0	Neutral	False
+BRMA16_4	Reverberating Gong	Unknown	Spell	Destroy your opponent's weapon.	0	0	1	Neutral	False
+BRMA16_5	Dragonteeth	Unknown	Weapon	Whenever your opponent plays a card, gain +1 Attack.	0	0	1	Neutral	False
+BRMA16_5e	I hear you...	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+BRMA17_2	Nefarian	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA17_2H	Nefarian	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA17_3	Onyxia	Unknown	Hero	Unknown	0	15	0	Neutral	False
+BRMA17_3H	Onyxia	Unknown	Hero	Unknown	0	30	0	Neutral	False
+BRMA17_4	LAVA!	Unknown	Spell	Deal $2 damage to all minions.	0	0	2	Neutral	False
+BRMA17_5	Bone Minions	Unknown	Hero Power	<b>Hero Power</b>Summon two 2/1 Bone Constructs.	0	0	2	Neutral	False
+BRMA17_5H	Bone Minions	Unknown	Hero Power	<b>Hero Power</b>Summon two 4/2 Bone Constructs.	0	0	2	Neutral	False
+BRMA17_6	Bone Construct	Unknown	Minion	Unknown	2	1	1	Neutral	False
+BRMA17_6H	Bone Construct	Unknown	Minion	Unknown	4	2	1	Neutral	False
+BRMA17_7	Chromatic Prototype	Unknown	Minion	<b>Taunt</b>	1	4	2	Neutral	False
+BRMA17_8	Nefarian Strikes!	Unknown	Hero Power	<b>Hero Power</b>Nefarian rains fire from above!	0	0	0	Neutral	False
+BRMA17_8H	Nefarian Strikes!	Unknown	Hero Power	<b>Hero Power</b>Nefarian rains fire from above!	0	0	0	Neutral	False
+BRMA17_9	Onyxiclaw	Unknown	Weapon	Unknown	2	0	2	Neutral	False
+BRMA_01	Flameheart	Unknown	Spell	Draw 2 cards.Gain 4 Armor.	0	0	3	Neutral	False
+BRM_001	Solemn Vigil	Common	Spell	Draw 2 cards. Costs (1) less for each minion that died this turn.	0	0	5	Paladin	False
+BRM_001e	Melt	Unknown	Enchantment	Attack changed to 0 this turn.	0	0	0	Priest	False
+BRM_002	Flamewaker	Rare	Minion	After you cast a spell, deal 2 damage randomly split among all enemies.	2	4	3	Mage	False
+BRM_003	Dragon's Breath	Common	Spell	Deal $4 damage. Costs (1) less for each minion that died this turn.	0	0	5	Mage	False
+BRM_003e	Dragon's Might	Unknown	Enchantment	Costs (3) less this turn.	0	0	0	Mage	False
+BRM_004	Twilight Whelp	Common	Minion	<b>Battlecry:</b> If you're holding a Dragon, gain +2 Health.	2	1	1	Priest	False
+BRM_004e	Twilight Endurance	Unknown	Enchantment	Increased Health.	0	0	0	Neutral	False
+BRM_004t	Whelp	Unknown	Minion	Unknown	1	1	1	Neutral	False
+BRM_005	Demonwrath	Rare	Spell	Deal $2 damage to all non-Demon minions.	0	0	3	Warlock	False
+BRM_006	Imp Gang Boss	Common	Minion	Whenever this minion takes damage, summon a 1/1 Imp.	2	4	3	Warlock	False
+BRM_006t	Imp	Unknown	Minion	Unknown	1	1	1	Warlock	False
+BRM_007	Gang Up	Common	Spell	Choose a minion. Shuffle 3 copies of it into your deck.	0	0	2	Rogue	False
+BRM_008	Dark Iron Skulker	Rare	Minion	<b>Battlecry:</b> Deal 2 damage to all undamaged enemy minions.	4	3	5	Rogue	False
+BRM_009	Volcanic Lumberer	Rare	Minion	<b>Taunt</b>Costs (1) less for each minion that died this turn.	7	8	9	Druid	False
+BRM_010	Druid of the Flame	Common	Minion	<b>Choose One</b> - Transform into a 5/2 minion; or a 2/5 minion.	2	2	3	Druid	False
+BRM_010a	Firecat Form	Common	Spell	Transform into a 5/2 minion.	0	0	0	Druid	False
+BRM_010b	Fire Hawk Form	Common	Spell	Transform into a 2/5 minion.	0	0	0	Druid	False
+BRM_010t	Druid of the Flame	Common	Minion	Unknown	5	2	3	Druid	False
+BRM_010t2	Druid of the Flame	Common	Minion	Unknown	2	5	3	Druid	False
+BRM_011	Lava Shock	Rare	Spell	Deal $2 damage.Unlock your <b>Overloaded</b> Mana Crystals.	0	0	2	Shaman	False
+BRM_011t	Lava Shock	Unknown	Enchantment	Cards you play this turn don't cause <b>Overload</b>.	0	0	0	Shaman	False
+BRM_012	Fireguard Destroyer	Common	Minion	<b>Battlecry:</b> Gain 1-4 Attack. <b>Overload:</b> (1)	3	6	4	Shaman	False
+BRM_012e	On Fire!	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+BRM_013	Quick Shot	Common	Spell	Deal $3 damage.If your hand is empty, draw a card.	0	0	2	Hunter	False
+BRM_014	Core Rager	Rare	Minion	<b>Battlecry:</b> If your hand is empty, gain +3/+3.	4	4	4	Hunter	False
+BRM_014e	Power Rager	Unknown	Enchantment	+3/+3	0	0	0	Hunter	False
+BRM_015	Revenge	Rare	Spell	Deal $1 damage to all minions. If you have 12 or less Health, deal $3 damage instead.	0	0	2	Warrior	False
+BRM_016	Axe Flinger	Common	Minion	Whenever this minion takes damage, deal 2 damage to the enemy hero.	2	5	4	Warrior	False
+BRM_017	Resurrect	Rare	Spell	Summon a random friendly minion that died this game.	0	0	2	Priest	False
+BRM_018	Dragon Consort	Rare	Minion	<b>Battlecry:</b> The next Dragon you play costs (2) less.	5	5	5	Paladin	False
+BRM_018e	Unchained!	Unknown	Enchantment	Your next Dragon costs (2) less.	0	0	0	Paladin	False
+BRM_019	Grim Patron	Rare	Minion	Whenever this minion survives damage, summon another Grim Patron.	3	3	5	Neutral	False
+BRM_020	Dragonkin Sorcerer	Common	Minion	Whenever <b>you</b> target this minion with a spell, gain +1/+1.	3	5	4	Neutral	False
+BRM_020e	Draconic Power	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+BRM_022	Dragon Egg	Rare	Minion	Whenever this minion takes damage, summon a 2/1 Whelp.	0	2	1	Neutral	False
+BRM_022t	Black Whelp	Common	Minion	Unknown	2	1	1	Neutral	False
+BRM_024	Drakonid Crusher	Common	Minion	<b>Battlecry:</b> If your opponent has 15 or less Health, gain +3/+3.	6	6	6	Neutral	False
+BRM_024e	Large Talons	Unknown	Enchantment	+3/+3.	0	0	0	Neutral	False
+BRM_025	Volcanic Drake	Common	Minion	Costs (1) less for each minion that died this turn.	6	4	6	Neutral	False
+BRM_026	Hungry Dragon	Common	Minion	<b>Battlecry:</b> Summon a random 1-Cost minion for your opponent.	5	6	4	Neutral	False
+BRM_027	Majordomo Executus	Legendary	Minion	<b>Deathrattle:</b> Replace your hero with Ragnaros, the Firelord.	9	7	9	Neutral	False
+BRM_027h	Ragnaros the Firelord	Unknown	Hero	Unknown	0	8	0	Neutral	False
+BRM_027p	DIE, INSECT!	Unknown	Hero Power	<b>Hero Power</b>Deal $8 damage to a random enemy.	0	0	2	Neutral	False
+BRM_027pH	DIE, INSECTS!	Unknown	Hero Power	<b>Hero Power</b>Deal $8 damage to a random enemy. TWICE.	0	0	2	Neutral	False
+BRM_028	Emperor Thaurissan	Legendary	Minion	At the end of your turn, reduce the Cost of cards in your hand by (1).	5	5	6	Neutral	False
+BRM_028e	Imperial Favor	Unknown	Enchantment	Costs (1) less.	0	0	0	Neutral	False
+BRM_029	Rend Blackhand	Legendary	Minion	<b>Battlecry:</b> If you're holding a Dragon, destroy a <b>Legendary</b> minion.	8	4	7	Neutral	False
+BRM_030	Nefarian	Legendary	Minion	<b>Battlecry:</b> Add 2 random spells to your hand <i>(from your opponent's class)</i>.	8	8	9	Neutral	False
+BRM_030t	Tail Swipe	Unknown	Spell	Deal $4 damage.	0	0	4	Neutral	False
+BRM_031	Chromaggus	Legendary	Minion	Whenever you draw a card, put another copy into your hand.	6	8	8	Neutral	False
+BRM_033	Blackwing Technician	Common	Minion	<b>Battlecry:</b> If you're holding a Dragon, gain +1/+1. 	2	4	3	Neutral	False
+BRM_033e	Dragon Blood	Unknown	Enchantment	+1/+1	0	0	0	Neutral	False
+BRM_034	Blackwing Corruptor	Common	Minion	<b>Battlecry</b>: If you're holding a Dragon, deal 3 damage.	5	4	5	Neutral	False
+AT_001	Flame Lance	Common	Spell	Deal $8 damage to a minion.	0	0	5	Mage	False
+AT_002	Effigy	Rare	Spell	<b>Secret:</b> When a friendly minion dies, summon a random minion with the same Cost.	0	0	3	Mage	False
+AT_003	Fallen Hero	Rare	Minion	Your Hero Power deals 1 extra damage.	3	2	2	Mage	False
+AT_004	Arcane Blast	Epic	Spell	Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>.	0	0	1	Mage	False
+AT_005	Polymorph: Boar	Rare	Spell	Transform a minion into a 4/2 Boar with <b>Charge</b>.	0	0	3	Mage	False
+AT_005t	Boar	Unknown	Minion	<b>Charge</b>	4	2	3	Neutral	False
+AT_006	Dalaran Aspirant	Common	Minion	<b>Inspire:</b> Gain <b>Spell Damage +1</b>.	3	5	4	Mage	False
+AT_006e	Power of Dalaran	Unknown	Enchantment	Increased Spell Damage.	0	0	0	Mage	False
+AT_007	Spellslinger	Common	Minion	<b>Battlecry:</b> Add a random spell to each player's hand.	3	4	3	Mage	False
+AT_008	Coldarra Drake	Epic	Minion	You can use your Hero Power any number of times.	6	6	6	Mage	False
+AT_009	Rhonin	Legendary	Minion	<b>Deathrattle:</b> Add 3 copies of Arcane Missiles to your hand.	7	7	8	Mage	False
+AT_010	Ram Wrangler	Rare	Minion	<b>Battlecry:</b> If you have a Beast, summon arandom Beast.	3	3	5	Hunter	False
+AT_011	Holy Champion	Common	Minion	Whenever a character is healed, gain +2 Attack.	3	5	4	Priest	False
+AT_011e	Light's Blessing	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+AT_012	Spawn of Shadows	Rare	Minion	<b>Inspire:</b> Deal 4 damage to each hero.	5	4	4	Priest	False
+AT_013	Power Word: Glory	Common	Spell	Choose a minion. Whenever it attacks, restore 4 Health toyour hero.	0	0	1	Priest	False
+AT_013e	Power Word: Glory	Unknown	Enchantment	When this attacks, restore 4 Health to the hero of the player who buffed it.	0	0	0	Neutral	False
+AT_014	Shadowfiend	Epic	Minion	Whenever you draw a card, reduce its Cost by (1).	3	3	3	Priest	False
+AT_014e	Shadowfiended	Unknown	Enchantment	Costs (1) less.	0	0	0	Priest	False
+AT_015	Convert	Rare	Spell	Put a copy of an enemy minion into your hand.	0	0	2	Priest	False
+AT_016	Confuse	Epic	Spell	Swap the Attack and Health of all minions.	0	0	2	Priest	False
+AT_016e	Confused	Unknown	Enchantment	Swapped Attack and Health.	0	0	0	Priest	False
+AT_017	Twilight Guardian	Epic	Minion	<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>.	2	6	4	Neutral	False
+AT_017e	Twilight's Embrace	Unknown	Enchantment	+1 Attack and <b>Taunt</b>.	0	0	0	Neutral	False
+AT_018	Confessor Paletress	Legendary	Minion	<b>Inspire:</b> Summon a random <b>Legendary</b> minion.	5	4	7	Priest	False
+AT_019	Dreadsteed	Epic	Minion	<b>Deathrattle:</b> Summon a Dreadsteed.	1	1	4	Warlock	False
+AT_020	Fearsome Doomguard	Common	Minion	Unknown	6	8	7	Warlock	False
+AT_021	Tiny Knight of Evil	Rare	Minion	Whenever you discard a card, gain +1/+1.	3	2	2	Warlock	False
+AT_021e	Felrage	Unknown	Enchantment	Increased stats.	0	0	0	Warlock	False
+AT_022	Fist of Jaraxxus	Rare	Spell	When you play or discard this, deal $4 damage to a random enemy.	0	0	4	Warlock	False
+AT_023	Void Crusher	Rare	Minion	<b>Inspire:</b> Destroy a random minion for each player.	5	4	6	Warlock	False
+AT_024	Demonfuse	Common	Spell	Give a Demon +3/+3. Give your opponent a Mana Crystal.	0	0	2	Warlock	False
+AT_024e	Dark Fusion	Unknown	Enchantment	+3/+3.	0	0	0	Neutral	False
+AT_025	Dark Bargain	Epic	Spell	Destroy 2 random enemy minions. Discard 2 random cards.	0	0	6	Warlock	False
+AT_026	Wrathguard	Common	Minion	Whenever this minion takes damage, also deal that amount to your hero.	4	3	2	Warlock	False
+AT_027	Wilfred Fizzlebang	Legendary	Minion	Cards you draw from your Hero Power cost (0).	4	4	6	Warlock	False
+AT_027e	Master Summoner	Unknown	Enchantment	Costs (0).	0	0	0	Warlock	False
+AT_028	Shado-Pan Rider	Common	Minion	<b>Combo:</b> Gain +3 Attack.	3	7	5	Rogue	False
+AT_028e	Chi Lance	Unknown	Enchantment	+3 Attack.	0	0	0	Neutral	False
+AT_029	Buccaneer	Common	Minion	Whenever you equip a weapon, give it +1 Attack.	2	1	1	Rogue	False
+AT_029e	Extra Stabby	Unknown	Enchantment	+1 Attack	0	0	0	Neutral	False
+AT_030	Undercity Valiant	Common	Minion	<b>Combo:</b> Deal 1 damage.	3	2	2	Rogue	False
+AT_031	Cutpurse	Rare	Minion	Whenever this minion attacks a hero, add the Coin to your hand.	2	2	2	Rogue	False
+AT_032	Shady Dealer	Rare	Minion	<b>Battlecry:</b> If you have a Pirate, gain +1/+1.	4	3	3	Rogue	False
+AT_032e	Shady Deals	Unknown	Enchantment	+1/+1.	0	0	0	Rogue	False
+AT_033	Burgle	Rare	Spell	Add 2 random class cards to your hand <i>(from your opponent's class)</i>.	0	0	3	Rogue	False
+AT_034	Poisoned Blade	Epic	Weapon	Your Hero Power gives this weapon +1 Attack instead of replacing it.	1	0	4	Rogue	False
+AT_034e	Laced	Unknown	Enchantment	Increased Attack.	0	0	0	Rogue	False
+AT_035	Beneath the Grounds	Epic	Spell	Shuffle 3 Ambushes into your opponent's deck. When drawn, you summon a 4/4 Nerubian.	0	0	3	Rogue	False
+AT_035t	Ambush!	Unknown	Spell	When you draw this, summon a 4/4 Nerubian for your opponent. Draw a card.	0	0	0	Rogue	False
+AT_036	Anub'arak	Legendary	Minion	<b>Deathrattle:</b> Return this to your hand and summon a 4/4 Nerubian.	8	4	9	Rogue	False
+AT_036t	Nerubian	Unknown	Minion	Unknown	4	4	3	Rogue	False
+AT_037	Living Roots	Common	Spell	<b>Choose One</b> - Deal $2 damage; or Summon two 1/1 Saplings.	0	0	1	Druid	False
+AT_037a	Living Roots	Unknown	Spell	Deal $2 damage.	0	0	0	Neutral	False
+AT_037b	Living Roots	Unknown	Spell	Summon two 1/1 Saplings.	0	0	0	Neutral	False
+AT_037t	Sapling	Unknown	Minion	Unknown	1	1	1	Druid	False
+AT_038	Darnassus Aspirant	Rare	Minion	<b>Battlecry:</b> Gain an empty Mana Crystal.<b>Deathrattle:</b> Lose a Mana Crystal.	2	3	2	Druid	False
+AT_039	Savage Combatant	Rare	Minion	<b>Inspire:</b> Give your hero+2 Attack this turn.	5	4	4	Druid	False
+AT_039e	Savage	Unknown	Enchantment	+2 Attack this turn.	0	0	0	Druid	False
+AT_040	Wildwalker	Common	Minion	<b>Battlecry:</b> Give a friendly Beast +3 Health.	4	4	4	Druid	False
+AT_040e	Kindred Spirit	Unknown	Enchantment	+3 Health.	0	0	0	Druid	False
+AT_041	Knight of the Wild	Rare	Minion	Whenever you summon a Beast, reduce the Cost of this card by (1).	6	6	7	Druid	False
+AT_041e	Call of the Wild	Unknown	Enchantment	Cost reduced.	0	0	0	Neutral	False
+AT_042	Druid of the Saber	Common	Minion	<b>Choose One -</b> Transform to gain <b>Charge</b>; or +1/+1 and <b>Stealth</b>.	2	1	2	Druid	False
+AT_042a	Lion Form	Common	Spell	<b>Charge</b>	0	0	0	Druid	False
+AT_042b	Panther Form	Common	Spell	+1/+1 and <b>Stealth</b>	0	0	0	Druid	False
+AT_042t	Sabertooth Lion	Common	Minion	<b>Charge</b>	2	1	2	Druid	False
+AT_042t2	Sabertooth Panther	Common	Minion	<b>Stealth</b>	3	2	2	Druid	False
+AT_043	Astral Communion	Epic	Spell	Gain 10 Mana Crystals. Discard your hand.	0	0	4	Druid	False
+AT_044	Mulch	Epic	Spell	Destroy a minion.Add a random minion to your opponent's hand.	0	0	3	Druid	False
+AT_045	Aviana	Legendary	Minion	Your minions cost (1).	5	5	9	Druid	False
+AT_045e	Empowering Mist	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+AT_045ee	Mistcaller Deck Ench	Unknown	Enchantment	Unknown	0	0	0	Neutral	False
+AT_046	Tuskarr Totemic	Common	Minion	<b>Battlecry:</b> Summon ANY random Totem.	3	2	3	Shaman	False
+AT_047	Draenei Totemcarver	Rare	Minion	<b>Battlecry:</b> Gain +1/+1 for each friendly Totem.	4	4	4	Shaman	False
+AT_047e	Experienced	Unknown	Enchantment	Increased stats.	0	0	0	Shaman	False
+AT_048	Healing Wave	Rare	Spell	Restore #7 Health. Reveal a minion in each deck. If yours costs more, Restore #14 instead.	0	0	3	Shaman	False
+AT_049	Thunder Bluff Valiant	Rare	Minion	<b>Inspire:</b> Give your Totems +2 Attack.	3	6	5	Shaman	False
+AT_049e	Power of the Bluff	Unknown	Enchantment	Increased Attack.	0	0	0	Shaman	False
+AT_050	Charged Hammer	Epic	Weapon	<b>Deathrattle:</b> Your Hero Power becomes 'Deal 2 damage.'	2	0	4	Shaman	False
+AT_050t	Lightning Jolt	Unknown	Hero Power	<b>Hero Power</b>Deal $2 damage.	0	0	2	Shaman	False
+AT_051	Elemental Destruction	Epic	Spell	Deal $4-$5 damage to all minions. <b>Overload: (5)</b>	0	0	3	Shaman	False
+AT_052	Totem Golem	Common	Minion	<b>Overload: (1)</b>	3	4	2	Shaman	False
+AT_053	Ancestral Knowledge	Common	Spell	Draw 2 cards. <b>Overload: (2)</b>	0	0	2	Shaman	False
+AT_054	The Mistcaller	Legendary	Minion	<b>Battlecry:</b> Give all minions in your hand and deck +1/+1.	4	4	6	Shaman	False
+AT_055	Flash Heal	Common	Spell	Restore #5 Health.	0	0	1	Priest	False
+AT_056	Powershot	Rare	Spell	Deal $2 damage to a minion and the minions next to it.	0	0	3	Hunter	False
+AT_057	Stablemaster	Epic	Minion	<b>Battlecry:</b> Give a friendly Beast <b>Immune</b> this turn.	4	2	3	Hunter	False
+AT_057o	Groomed	Unknown	Enchantment	<b>Immune</b> this turn.	0	0	0	Hunter	False
+AT_058	King's Elekk	Common	Minion	<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, draw it.	3	2	2	Hunter	False
+AT_059	Brave Archer	Common	Minion	<b>Inspire:</b> If your hand is empty, deal 2 damage to the enemy hero.	2	1	1	Hunter	False
+AT_060	Bear Trap	Common	Spell	<b>Secret:</b> After your hero is attacked, summon a 3/3 Bear with <b>Taunt</b>.	0	0	2	Hunter	False
+AT_061	Lock and Load	Epic	Spell	Each time you cast a spell this turn, add a random Hunter card to your hand.	0	0	2	Hunter	False
+AT_061e	Lock and Load	Unknown	Enchantment	Unknown	0	0	0	Hunter	False
+AT_062	Ball of Spiders	Rare	Spell	Summon three 1/1 Webspinners.	0	0	6	Hunter	False
+AT_063	Acidmaw	Legendary	Minion	Whenever another minion takes damage, destroy it.	4	2	7	Hunter	False
+AT_063t	Dreadscale	Legendary	Minion	At the end of your turn, deal 1 damage to all other minions.	4	2	3	Hunter	False
+AT_064	Bash	Common	Spell	Deal $3 damage.Gain 3 Armor.	0	0	3	Warrior	False
+AT_065	King's Defender	Rare	Weapon	<b>Battlecry</b>: If you have a minion with <b>Taunt</b>,  gain +1 Durability.	3	0	3	Warrior	False
+AT_065e	King's Defender	Unknown	Enchantment	+1 Durability.	0	0	0	Neutral	False
+AT_066	Orgrimmar Aspirant	Common	Minion	<b>Inspire:</b> Give your weapon +1 Attack.	3	3	3	Warrior	False
+AT_066e	Forges of Orgrimmar	Unknown	Enchantment	Increased Attack.	0	0	0	Warrior	False
+AT_067	Magnataur Alpha	Epic	Minion	Also damages the minions next to whomever he attacks.	5	3	4	Warrior	False
+AT_068	Bolster	Common	Spell	Give your <b>Taunt</b> minions +2/+2.	0	0	2	Warrior	False
+AT_068e	Bolstered	Unknown	Enchantment	+2/+2.	0	0	0	Warrior	False
+AT_069	Sparring Partner	Rare	Minion	<b>Taunt</b><b>Battlecry:</b> Give a minion <b>Taunt</b>.	3	2	2	Warrior	False
+AT_069e	Training Complete	Unknown	Enchantment	<b>Taunt</b>	0	0	0	Warrior	False
+AT_070	Skycap'n Kragg	Legendary	Minion	<b>Charrrrrge</b>Costs (1) less for each friendly Pirate.	4	6	7	Neutral	False
+AT_071	Alexstrasza's Champion	Rare	Minion	<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Charge</b>.	2	3	2	Warrior	False
+AT_071e	Alexstrasza's Boon	Unknown	Enchantment	+1 Attack and <b>Charge</b>.	0	0	0	Warrior	False
+AT_072	Varian Wrynn	Legendary	Minion	<b>Battlecry:</b> Draw 3 cards.Put any minions you drew directly into the battlefield.	7	7	10	Warrior	False
+AT_073	Competitive Spirit	Rare	Spell	<b>Secret:</b> When your turn starts, give your minions +1/+1.	0	0	1	Paladin	False
+AT_073e	Competitive Spirit	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+AT_074	Seal of Champions	Common	Spell	Give a minion +3 Attack and <b>Divine Shield</b>.	0	0	3	Paladin	False
+AT_074e2	Seal of Champions	Unknown	Enchantment	+3 Attack and <b>Divine Shield</b>.	0	0	0	Paladin	False
+AT_075	Warhorse Trainer	Common	Minion	Your Silver Hand Recruits have +1 Attack.	2	4	3	Paladin	False
+AT_075e	Might of the Hostler	Unknown	Enchantment	Warhorse Trainer is granting this minion +1 Attack.	0	0	0	Paladin	False
+AT_076	Murloc Knight	Common	Minion	<b>Inspire:</b> Summon a random Murloc.	3	4	4	Paladin	False
+AT_077	Argent Lance	Rare	Weapon	<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, +1 Durability.	2	0	2	Paladin	False
+AT_077e	Extra Poke	Unknown	Enchantment	+1 Durability.	0	0	0	Neutral	False
+AT_078	Enter the Coliseum	Epic	Spell	Destroy all minions except each player's highest Attack minion.	0	0	6	Paladin	False
+AT_079	Mysterious Challenger	Epic	Minion	<b>Battlecry:</b> Put one of each <b>Secret</b> from your deck into the battlefield.	6	6	6	Paladin	False
+AT_080	Garrison Commander	Epic	Minion	You can use your Hero Power twice a turn.	2	3	2	Neutral	False
+AT_081	Eadric the Pure	Legendary	Minion	<b>Battlecry:</b> Change all enemy minions' Attack to 1.	3	7	7	Paladin	False
+AT_081e	Purified	Unknown	Enchantment	Attack changed to 1.	0	0	0	Paladin	False
+AT_082	Lowly Squire	Common	Minion	<b>Inspire:</b> Gain +1 Attack.	1	2	1	Neutral	False
+AT_082e	Training	Unknown	Enchantment	Increased Attack.	0	0	0	Neutral	False
+AT_083	Dragonhawk Rider	Common	Minion	<b>Inspire:</b> Gain <b>Windfury</b>this turn.	3	3	3	Neutral	False
+AT_083e	Dragonhawkery	Unknown	Enchantment	<b>Windfury</b> this turn.	0	0	0	Neutral	False
+AT_084	Lance Carrier	Common	Minion	<b>Battlecry:</b> Give a friendly minion +2 Attack.	1	2	2	Neutral	False
+AT_084e	Equipped	Unknown	Enchantment	+2 Attack.	0	0	0	Neutral	False
+AT_085	Maiden of the Lake	Common	Minion	Your Hero Power costs (1).	2	6	4	Neutral	False
+AT_086	Saboteur	Rare	Minion	<b>Battlecry:</b> Your opponent's Hero Power costs (5) more next turn.	4	3	3	Neutral	False
+AT_086e	Villainy	Unknown	Enchantment	Your Hero Power costs (5) more this turn.	0	0	0	Neutral	False
+AT_087	Argent Horserider	Common	Minion	<b>Charge</b><b>Divine Shield</b>	2	1	3	Neutral	False
+AT_088	Mogor's Champion	Rare	Minion	50% chance to attack the wrong enemy.	8	5	6	Neutral	False
+AT_089	Boneguard Lieutenant	Common	Minion	<b>Inspire:</b> Gain +1 Health.	3	2	2	Neutral	False
+AT_089e	Boneguarded	Unknown	Enchantment	Increased Health.	0	0	0	Neutral	False
+AT_090	Mukla's Champion	Common	Minion	<b>Inspire:</b> Give your other minions +1/+1.	4	3	5	Neutral	False
+AT_090e	Might of the Monkey	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+AT_091	Tournament Medic	Common	Minion	<b>Inspire:</b> Restore 2 Health to your hero.	1	8	4	Neutral	False
+AT_092	Ice Rager	Common	Minion	Unknown	5	2	3	Neutral	False
+AT_093	Frigid Snobold	Common	Minion	<b>Spell Damage +1</b>	2	6	4	Neutral	False
+AT_094	Flame Juggler	Common	Minion	<b>Battlecry:</b> Deal 1 damage to a random enemy.	2	3	2	Neutral	False
+AT_095	Silent Knight	Common	Minion	<b>Stealth</b><b>Divine Shield</b>	2	2	3	Neutral	False
+AT_096	Clockwork Knight	Common	Minion	<b>Battlecry:</b> Give a friendly Mech +1/+1.	5	5	5	Neutral	False
+AT_096e	Wound Up	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+AT_097	Tournament Attendee	Common	Minion	<b>Taunt</b>	2	1	1	Neutral	False
+AT_098	Sideshow Spelleater	Epic	Minion	<b>Battlecry:</b> Copy your opponent's Hero Power.	6	5	6	Neutral	False
+AT_099	Kodorider	Epic	Minion	<b>Inspire:</b> Summon a 3/5 War Kodo.	3	5	6	Neutral	False
+AT_099t	War Kodo	Unknown	Minion	Unknown	3	5	5	Neutral	False
+AT_100	Silver Hand Regent	Common	Minion	<b>Inspire:</b> Summon a 1/1 Silver Hand Recruit.	3	3	3	Neutral	False
+AT_101	Pit Fighter	Common	Minion	Unknown	5	6	5	Neutral	False
+AT_102	Captured Jormungar	Common	Minion	Unknown	5	9	7	Neutral	False
+AT_103	North Sea Kraken	Common	Minion	<b>Battlecry:</b> Deal 4 damage.	9	7	9	Neutral	False
+AT_104	Tuskarr Jouster	Rare	Minion	<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, restore 7 Health to your hero.	5	5	5	Paladin	False
+AT_105	Injured Kvaldir	Rare	Minion	<b>Battlecry:</b> Deal 3 damage to this minion.	2	4	1	Neutral	False
+AT_106	Light's Champion	Rare	Minion	<b>Battlecry:</b> <b>Silence</b> a Demon.	4	3	3	Neutral	False
+AT_108	Armored Warhorse	Rare	Minion	<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Charge</b>.	5	3	4	Neutral	False
+AT_109	Argent Watchman	Rare	Minion	Can't attack.<b>Inspire:</b> Can attack as normal this turn.	2	4	2	Neutral	False
+AT_109e	Inspired	Unknown	Enchantment	Can attack this turn.	0	0	0	Neutral	False
+AT_110	Coliseum Manager	Rare	Minion	<b>Inspire:</b> Return this minion to your hand.	2	5	3	Neutral	False
+AT_111	Refreshment Vendor	Common	Minion	<b>Battlecry:</b> Restore 4 Health to each hero.	3	5	4	Neutral	False
+AT_112	Master Jouster	Rare	Minion	<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Taunt</b> and <b>Divine Shield</b>.	5	6	6	Neutral	False
+AT_113	Recruiter	Epic	Minion	<b>Inspire:</b> Add a 2/2 Squire to your hand.	5	4	5	Neutral	False
+AT_114	Evil Heckler	Common	Minion	<b>Taunt</b>	5	4	4	Neutral	False
+AT_115	Fencing Coach	Rare	Minion	<b>Battlecry:</b> The next time you use your Hero Power, it costs (2) less.	2	2	3	Neutral	False
+AT_115e	Fencing Practice	Unknown	Enchantment	Your Hero Power costs (2) less.	0	0	0	Neutral	False
+AT_116	Wyrmrest Agent	Rare	Minion	<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>.	1	4	2	Priest	False
+AT_116e	Bring it on!	Unknown	Enchantment	+1 Attack and <b>Taunt</b>.	0	0	0	Priest	False
+AT_117	Master of Ceremonies	Epic	Minion	<b>Battlecry:</b> If you have a minion with <b>Spell Damage</b>, gain +2/+2.	4	2	3	Neutral	False
+AT_117e	Ceremony	Unknown	Enchantment	+2/+2.	0	0	0	Neutral	False
+AT_118	Grand Crusader	Epic	Minion	<b>Battlecry:</b> Add a random Paladin card to your hand.	5	5	6	Neutral	False
+AT_119	Kvaldir Raider	Common	Minion	<b>Inspire:</b> Gain +2/+2.	4	4	5	Neutral	False
+AT_119e	Inspired	Unknown	Enchantment	Increased Stats.	0	0	0	Neutral	False
+AT_120	Frost Giant	Epic	Minion	Costs (1) less for each time you used your Hero Power this game.	8	8	10	Neutral	False
+AT_121	Crowd Favorite	Epic	Minion	Whenever you play a card with <b>Battlecry</b>, gain +1/+1.	4	4	4	Neutral	False
+AT_121e	Huge Ego	Unknown	Enchantment	Increased stats.	0	0	0	Neutral	False
+AT_122	Gormok the Impaler	Legendary	Minion	<b>Battlecry:</b> If you have at least 4 other minions, deal 4 damage.	4	4	4	Neutral	False
+AT_123	Chillmaw	Legendary	Minion	<b>Taunt</b><b>Deathrattle:</b> If you're holding a Dragon, deal 3 damage to all minions.	6	6	7	Neutral	False
+AT_124	Bolf Ramshield	Legendary	Minion	Whenever your hero takes damage, this minion takes it instead.	3	9	6	Neutral	False
+AT_125	Icehowl	Legendary	Minion	<b>Charge</b>Can't attack heroes.	10	10	9	Neutral	False
+AT_127	Nexus-Champion Saraad	Legendary	Minion	<b>Inspire:</b> Add a random spell to your hand.	4	5	5	Neutral	False
+AT_128	The Skeleton Knight	Legendary	Minion	<b>Deathrattle:</b> Reveal a minion in each deck. If yours costs more, return this to your hand.	7	4	6	Neutral	False
+AT_129	Fjola Lightbane	Legendary	Minion	Whenever <b>you</b> target this minion with a spell, gain <b>Divine Shield.</b>	3	4	3	Neutral	False
+AT_130	Sea Reaver	Epic	Minion	When you draw this, deal 1 damage to your minions.	6	7	6	Warrior	False
+AT_131	Eydis Darkbane	Legendary	Minion	Whenever <b>you</b> target this minion with a spell, deal 3 damage to a random enemy.	3	4	3	Neutral	False
+AT_132	Justicar Trueheart	Legendary	Minion	<b>Battlecry:</b> Replace your starting Hero Power with a better one.	6	3	6	Neutral	False
+AT_132_DRUID	Dire Shapeshift	Unknown	Hero Power	<b>Hero Power</b>Gain 2 Armor and +2 Attack this turn.	0	0	2	Druid	False
+AT_132_DRUIDe	Dire Claws	Unknown	Enchantment	+2 Attack this turn.	0	0	0	Druid	False
+AT_132_HUNTER	Ballista Shot	Unknown	Hero Power	<b>Hero Power</b>Deal $3 damage to the enemy hero.	0	0	2	Hunter	False
+AT_132_MAGE	Fireblast Rank 2	Unknown	Hero Power	<b>Hero Power</b>Deal $2 damage.	0	0	2	Mage	False
+AT_132_PALADIN	The Silver Hand	Unknown	Hero Power	<b>Hero Power</b>Summon two 1/1 Recruits.	0	0	2	Paladin	False
+AT_132_PRIEST	Heal	Unknown	Hero Power	<b>Hero Power</b>Restore #4 Health.	0	0	2	Priest	False
+AT_132_ROGUE	Poisoned Daggers	Unknown	Hero Power	<b>Hero Power</b>Equip a 2/2 Weapon.	0	0	2	Rogue	False
+AT_132_ROGUEt	Poisoned Dagger	Unknown	Weapon	Unknown	2	0	1	Rogue	False
+AT_132_SHAMAN	Totemic Slam	Unknown	Hero Power	<b>Hero Power</b>Summon a Totem of your choice.	0	0	2	Shaman	False
+AT_132_SHAMANa	Healing Totem	Unknown	Minion	At the end of your turn, restore 1 Health to all friendly minions.	0	2	0	Shaman	False
+AT_132_SHAMANb	Searing Totem	Unknown	Minion	Unknown	1	1	0	Shaman	False
+AT_132_SHAMANc	Stoneclaw Totem	Unknown	Minion	<b>Taunt</b>	0	2	0	Shaman	False
+AT_132_SHAMANd	Wrath of Air Totem	Unknown	Minion	<b>Spell Damage +1</b>	0	2	0	Shaman	False
+AT_132_WARLOCK	Soul Tap	Unknown	Hero Power	<b>Hero Power</b>Draw a card.	0	0	2	Warlock	False
+AT_132_WARRIOR	Tank Up!	Unknown	Hero Power	<b>Hero Power</b>Gain 4 Armor.	0	0	2	Warrior	False
+AT_133	Gadgetzan Jouster	Common	Minion	<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain +1/+1.	1	2	1	Neutral	False
+AT_133e	Victory!	Unknown	Enchantment	+1/+1.	0	0	0	Neutral	False
+PlaceholderCard	Placeholder Card	Epic	Minion	Battlecry: Someone remembers to publish this card.	6	8	9	Mage	False

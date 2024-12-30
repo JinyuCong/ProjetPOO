@@ -2,17 +2,19 @@
 
 public class Card
 {
-    public string Name { get; set; }
-    public string Rarity{ get; set; }
-    public string Type { get; set; }
-    public string Text { get; set; }
-    public int Attack{ get; set; }
-    public int Health{ get; set; }
-    public int Cost { get; set; }
-    public Class Class { get; set; }
+    public string Id { get; }
+    public string Name { get; }
+    public string Rarity{ get; }
+    public string Type { get; }
+    public string Text { get; }
+    public int Attack{ get; }
+    public int Health{ get; }
+    public int Cost { get; }
+    public Class Class { get; }
     public bool Discovered { get; set; }
     
     public Card(
+        string id,
         string name, 
         string rarity, 
         string type, 
@@ -23,7 +25,8 @@ public class Card
         Class class_,
         bool discovered
     )
-    { 
+    {
+        Id = id;
         Name = name;
         Rarity = rarity;
         Type = type;
@@ -41,7 +44,7 @@ public class Card
     {
         string[] lines = new string[]
         {
-            $"|Name: {Name}", $"|Rarity: {Rarity}", $"|Type: {Type}", $"|Text: {Text}",
+            $"|Id: {Id}", $"|Name: {Name}", $"|Rarity: {Rarity}", $"|Type: {Type}", $"|Text: {Text}", 
             $"|Attack: {Attack}", $"|Health: {Health}", $"|Cost: {Cost}", $"|Class: {Class}",
             $"|Discovered: {Discovered}"
         };

@@ -3762,7 +3762,7 @@
     <Health>5</Health>
     <Cost>3</Cost>
     <Durability>0</Durability>
-    <Class>Dream</Class>
+    <Class>Neutral</Class>
     <Text>Can't be targeted by spells or Hero Powers.</Text>
     <Mechanics />
   </Card>
@@ -3775,7 +3775,7 @@
     <Health>0</Health>
     <Cost>2</Cost>
     <Durability>0</Durability>
-    <Class>Dream</Class>
+    <Class>Neutral</Class>
     <Text>Deal $5 damage to all characters except Ysera.</Text>
     <Mechanics />
   </Card>
@@ -3788,7 +3788,7 @@
     <Health>6</Health>
     <Cost>4</Cost>
     <Durability>0</Durability>
-    <Class>Dream</Class>
+    <Class>Neutral</Class>
     <Race>Dragon</Race>
     <Mechanics />
   </Card>
@@ -3801,7 +3801,7 @@
     <Health>0</Health>
     <Cost>0</Cost>
     <Durability>0</Durability>
-    <Class>Dream</Class>
+    <Class>Neutral</Class>
     <Text>Return a minion to its owner's hand.</Text>
     <Mechanics />
   </Card>
@@ -3814,7 +3814,7 @@
     <Health>0</Health>
     <Cost>0</Cost>
     <Durability>0</Durability>
-    <Class>Dream</Class>
+    <Class>Neutral</Class>
     <Text>Give a minion +5/+5. At the start of your next turn, destroy it.</Text>
     <Mechanics />
   </Card>
