@@ -209,3 +209,6 @@ Affiche les informations d'aide pour les commandes.
 
 > ### Utiliser `<commande> --help` pour afficher l'utilisation d'une commande plus précise.
 > ### Comme `search --help`
+
+
+> ### Attention : Au début, il n'y a pas d'informations sur les cartes dans la base de données. Vous devez exécuter manuellement `loadxml data/CardData.xml` pour ajouter les informations sur les cartes avant de pouvoir utiliser des commandes comme la recherche.
