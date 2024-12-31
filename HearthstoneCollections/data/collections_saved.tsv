@@ -1,6 +1,4 @@
 Id	Name	Rarity	Type	Text	Attack	Health	Cost	Class	Discovered
-EX1_298	Ragnaros	legendary	minion	Can't attack. At the end of your turn, deal 8 damage to a random enemy.	8	8	8	Neutral	False
-EX1_295o	Ice Block	Epic	spell	Secret: When your hero takes fatal damage, prevent it and become Immune his turn.	0	0	3	Neutral	False
 CS1h_001	Lesser Heal	Free	Hero Power	<b>Hero Power</b>Restore #2 Health.	0	0	2	Priest	False
 CS1_042	Goldshire Footman	Common	Minion	<b>Taunt</b>	1	2	1	Neutral	False
 CS1_112	Holy Nova	Common	Spell	Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.	0	0	5	Priest	False
@@ -243,11 +241,11 @@ CS2_221e	Sharp!	Unknown	Enchantment	+2 Attack from Spiteful Smith.	0	0	0	Neutral
 CS2_227	Venture Co. Mercenary	Common	Minion	Your minions cost (3) more.	7	6	5	Neutral	False
 CS2_231	Wisp	Common	Minion	Unknown	1	1	0	Neutral	False
 CS2_233	Blade Flurry	Rare	Spell	Destroy your weapon and deal its damage to all enemies.	0	0	2	Rogue	False
-DREAM_01	Laughing Sister	Unknown	Minion	Can't be targeted by spells or Hero Powers.	3	5	3	0	False
-DREAM_02	Ysera Awakens	Unknown	Spell	Deal $5 damage to all characters except Ysera.	0	0	2	0	False
-DREAM_03	Emerald Drake	Unknown	Minion	Unknown	7	6	4	0	False
-DREAM_04	Dream	Unknown	Spell	Return a minion to its owner's hand.	0	0	0	0	False
-DREAM_05	Nightmare	Unknown	Spell	Give a minion +5/+5. At the start of your next turn, destroy it.	0	0	0	0	False
+DREAM_01	Laughing Sister	Unknown	Minion	Can't be targeted by spells or Hero Powers.	3	5	3	Neutral	False
+DREAM_02	Ysera Awakens	Unknown	Spell	Deal $5 damage to all characters except Ysera.	0	0	2	Neutral	False
+DREAM_03	Emerald Drake	Unknown	Minion	Unknown	7	6	4	Neutral	False
+DREAM_04	Dream	Unknown	Spell	Return a minion to its owner's hand.	0	0	0	Neutral	False
+DREAM_05	Nightmare	Unknown	Spell	Give a minion +5/+5. At the start of your next turn, destroy it.	0	0	0	Neutral	False
 DREAM_05e	Nightmare	Unknown	Enchantment	This minion has +5/+5, but will be destroyed soon.	0	0	0	Neutral	False
 DS1_188	Gladiator's Longbow	Epic	Weapon	Your hero is <b>Immune</b> while attacking.	5	0	7	Hunter	False
 ds1_whelptoken	Whelp	Unknown	Minion	Unknown	1	1	1	Neutral	False
@@ -388,6 +386,8 @@ EX1_287	Counterspell	Rare	Spell	<b>Secret:</b> When your opponent casts a spell,
 EX1_289	Ice Barrier	Common	Spell	<b>Secret:</b> When your hero is attacked, gain 8 Armor.	0	0	3	Mage	False
 EX1_294	Mirror Entity	Common	Spell	<b>Secret:</b> When your opponent plays a minion, summon a copy of it.	0	0	3	Mage	False
 EX1_295	Ice Block	Epic	Spell	<b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn.	0	0	3	Mage	False
+EX1_295o	Ice Block	Unknown	Enchantment	Your hero is <b>Immune</b> this turn.	0	0	0	Mage	False
+EX1_298	Ragnaros the Firelord	Legendary	Minion	Can't attack. At the end of your turn, deal 8 damage to a random enemy.	8	8	8	Neutral	False
 EX1_301	Felguard	Rare	Minion	<b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals.	3	5	3	Warlock	False
 EX1_303	Shadowflame	Rare	Spell	Destroy a friendly minion and deal its Attack damage to all enemy minions.	0	0	4	Warlock	False
 EX1_304	Void Terror	Rare	Minion	<b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health.	3	3	3	Warlock	False

@@ -37,14 +37,14 @@ public class SaveTextCommand : Command
         
         sw.Flush();
         sw.Close();
-        Console.WriteLine(_localizationService.GetMessage("msg.SaveCsv") + path);
+        Console.WriteLine(_localizationService.GetMessage("msg.SaveTsv") + path);
     }
     
     string AddExtension(string path)
     {
         if (!path.Contains("."))
         {
-            return $"{path}.csv";
+            return $"{path}.tsv";
         }
 
         return path;

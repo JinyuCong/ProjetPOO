@@ -1,4 +1,4 @@
-# HearthstoneCollection
+# HearthstoneCollections
 
 ### CONG Jinyu (INALCO R&D 22304478)
 
@@ -234,5 +234,5 @@ $ loadxml data/CardData.xml
 卡牌录入成功，现有卡牌数：1619
 
 $ battle "Goldshire Footman" "River Crocolisk"
-River Crocolisk win!
+胜出者：River Crocolisk
 ```

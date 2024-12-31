@@ -135,45 +135,5 @@ public class Collections
         
         doc.Save(filePath);
     }
-
-    public void Battle(string cardName1, string cardName2)
-    {
-        bool card1Alive = true;
-        bool card2Alive = true;
-        
-        Card? card1 = GetByName(cardName1)?.FirstOrDefault();
-        Card? card2 = GetByName(cardName2)?.FirstOrDefault();
-
-        if (card1 != null && card2 != null)
-        {
-            if (card1.Attack >= card2.Health)
-            {
-                card2Alive = false;
-            }
-
-            if (card2.Attack >= card1.Health)
-            {
-                card1Alive = false;
-            }
-
-            if (card1Alive && !card2Alive)
-            {
-                Console.WriteLine($"{cardName1} win!");
-            }
-            else if (!card1Alive && card2Alive)
-            {
-                Console.WriteLine($"{cardName2} win!");
-            }
-            else
-            {
-                Console.WriteLine($"No winner");
-            }
-        }
-        else
-        {
-            Console.WriteLine($"no card found");
-        }
-        
-    }
     
 }

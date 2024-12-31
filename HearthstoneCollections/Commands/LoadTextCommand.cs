@@ -33,7 +33,7 @@ public class LoadTextCommand : Command
             throw new FileNotFoundException(_localizationService.GetMessage("msg.PathNotFound") + path);
         }
 
-        if (!path.Contains("txt") && !path.Contains("csv"))
+        if (!path.Contains("txt") && !path.Contains("csv") && !path.Contains("tsv"))
         {
             throw new FormatException(_localizationService.GetMessage("msg.FileFormatInvalid"));
         }

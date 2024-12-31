@@ -16,7 +16,7 @@ public class LocalizationService
                 {
                     {"msg.DiscoverCard", $"卡牌已发现："},
                     {"msg.SaveXml", $"XML文件保存成功到路径："},
-                    {"msg.SaveCsv", $"CSV文件保存成功到路径："},
+                    {"msg.SaveTsv", $"TSV文件保存成功到路径："},
                     {"msg.ArgumentNotEnough", $"没有足够的参数"},
                     {"msg.ParsingError", $"卡牌变更错误："},
                     {"msg.CardAdded", $"卡牌已添加："},
@@ -31,6 +31,8 @@ public class LocalizationService
                     {"msg.LanguageNotSupport", $"语言不支持："},
                     {"msg.LanguageChanged", $"语言已变更为中文"},
                     {"msg.DuplicateCard", "卡牌已重复："},
+                    {"msg.CardWin", "胜出者："},
+                    {"msg.NoWinner", "没有胜出者"},
                     
                     //helps
                     {"msg.AddHelp", $"add 或 ajouter 命令使用说明:\n" +
@@ -59,7 +61,7 @@ public class LocalizationService
                     
                     {"msg.SaveHelp", $"save 或 enregistrer 命令使用说明:\n" +
                                      $"\"save <文件名>\" 将已发现的卡牌保存到 data/<文件名>。\n" +
-                                     $"或者使用 'save <文件名>.txt' 或 'save <文件名>.csv' 将已发现的卡牌保存为 .txt 或 .csv 文件。\n"},
+                                     $"或者使用 'save <文件名>.txt' 或 'save <文件名>.tsv' 将已发现的卡牌保存为 .txt 或 .tsv 文件。\n"},
                     
                     {"msg.SavexmlHelp", $"savexml 或 enregistrerxml 命令使用说明:\n" +
                                         $"使用 savexml <保存路径> 将收藏中的卡牌信息保存到指定路径。\n" +
@@ -90,7 +92,7 @@ public class LocalizationService
                 {
                     {"msg.DiscoverCard", $"Carte découverte : "},
                     {"msg.SaveXml", $"Fichier XML enregistré avec succès dans le chemin : "},
-                    {"msg.SaveCsv", $"Fichier CSV enregistré avec succès dans le chemin : "},
+                    {"msg.SaveTsv", $"Fichier TSV enregistré avec succès dans le chemin : "},
                     {"msg.ArgumentNotEnough", $"Pas assez d'arguments"},
                     {"msg.ParsingError", $"Erreur de modification de carte : "},
                     {"msg.CardAdded", $"Carte ajoutée : "},
@@ -105,6 +107,8 @@ public class LocalizationService
                     {"msg.LanguageNotSupport", $"Langue non supporte : "},
                     {"msg.LanguageChanged", $"Langue est en français"},
                     {"msg.DuplicateCard", "Carte déjà existe : "},
+                    {"msg.CardWin", "Gagnant : "},
+                    {"msg.NoWinner", "Pas de gagnant"},
                     
                     //helps
                     {"msg.AddHelp", $"add ou ajouter instructions de commande:\n" +
@@ -133,7 +137,7 @@ public class LocalizationService
 
                     {"msg.SaveHelp", $"save ou enregistrer instructions de commande:\n" +
                                      $"\"save <nom du fichier>\" pour enregistrer les cartes découvertes dans data/<nom du fichier>.\n" +
-                                     $"Ou utilisez 'save <nom du fichier>.txt' ou 'save <nom du fichier>.csv' pour enregistrer les cartes découvertes dans un fichier .txt ou .csv.\n"},
+                                     $"Ou utilisez 'save <nom du fichier>.txt' ou 'save <nom du fichier>.tsv' pour enregistrer les cartes découvertes dans un fichier .txt ou .tsv.\n"},
 
                     {"msg.SavexmlHelp", $"savexml ou enregistrerxml instructions de commande:\n" +
                                         $"Utilisez savexml <chemin de sauvegarde> pour enregistrer les informations des cartes de la collection dans le chemin spécifié.\n" +
